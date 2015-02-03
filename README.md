@@ -11,5 +11,10 @@ Python 2.7.x
 
 ** Server.py
 
-Bottle: sudo pip install bottle
+Bottle: pip install bottle
+
+** Client 
+
+Yara: pip install yara
+Requests: pip install requests
 
