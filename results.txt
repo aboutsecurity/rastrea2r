@@ -1,0 +1,720 @@
+2015-02-03 18:21:27, WIN-M4BNKTIO76D, PE_file, c:\Python27\python.exe
+
+2015-02-03 18:21:27, WIN-M4BNKTIO76D, PE_file, c:\Python27\pythonw.exe
+
+2015-02-03 18:21:27, WIN-M4BNKTIO76D, PE_file, c:\Python27\Removepy2exe.exe
+
+2015-02-03 18:21:27, WIN-M4BNKTIO76D, PE_file, c:\Python27\Removeyara-python.exe
+
+2015-02-03 18:21:27, WIN-M4BNKTIO76D, PE_file, c:\Python27\w9xpopen.exe
+
+2015-02-03 18:21:27, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\bz2.pyd
+
+2015-02-03 18:21:27, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\pyc.ico
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\pyexpat.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\select.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\sqlite3.dll
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\tcl85.dll
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\tclpip85.dll
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\tk85.dll
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\unicodedata.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\winsound.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_bsddb.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_ctypes.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_ctypes_test.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_elementtree.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_hashlib.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_msi.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_multiprocessing.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_socket.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_sqlite3.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_ssl.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_testcapi.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_tkinter.pyd
+
+2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\Doc\python279.chm
+
+2015-02-03 18:21:31, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\distutils\command\wininst-6.0.exe
+
+2015-02-03 18:21:31, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\distutils\command\wininst-7.1.exe
+
+2015-02-03 18:21:31, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\distutils\command\wininst-8.0.exe
+
+2015-02-03 18:21:31, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\distutils\command\wininst-9.0-amd64.exe
+
+2015-02-03 18:21:31, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\distutils\command\wininst-9.0.exe
+
+2015-02-03 18:21:31, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\email\test\data\msg_07.txt
+
+2015-02-03 18:21:31, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\email\test\data\msg_13.txt
+
+2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\encodings\cp1006.py
+
+2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\encodings\cp1256.py
+
+2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\encodings\cp720.py
+
+2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\encodings\cp864.py
+
+2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\encodings\iso8859_6.py
+
+2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\encodings\mac_arabic.py
+
+2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\encodings\mac_farsi.py
+
+2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\ensurepip\_bundled\pip-1.5.6-py2.py3-none-any.whl
+
+2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\ensurepip\_bundled\setuptools-7.0-py2.py3-none-any.whl
+
+2015-02-03 18:21:34, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\yara.pyd
+
+2015-02-03 18:21:34, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\_memimporter.pyd
+
+2015-02-03 18:21:35, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\pip\_vendor\certifi\cacert.pem
+
+2015-02-03 18:21:35, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\pip\_vendor\distlib\t32.exe
+
+2015-02-03 18:21:35, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\pip\_vendor\distlib\t64.exe
+
+2015-02-03 18:21:35, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\pip\_vendor\distlib\w32.exe
+
+2015-02-03 18:21:35, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\pip\_vendor\distlib\w64.exe
+
+2015-02-03 18:21:36, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\pip\_vendor\requests\cacert.pem
+
+2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\pip-6.0.7.dist-info\RECORD
+
+2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\build_exe.py
+
+2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\build_exe.pyc
+
+2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\build_exe.pyo
+
+2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\py2exe_util.pyd
+
+2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\run.exe
+
+2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\run_ctypes_dll.dll
+
+2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\run_dll.dll
+
+2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\run_isapi.dll
+
+2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\run_w.exe
+
+2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\requests\cacert.pem
+
+2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\requests-2.5.1.dist-info\RECORD
+
+2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\cli-32.exe
+
+2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\cli-64.exe
+
+2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\cli-arm-32.exe
+
+2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\cli.exe
+
+2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\gui-32.exe
+
+2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\gui-64.exe
+
+2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\gui-arm-32.exe
+
+2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\gui.exe
+
+2015-02-03 18:21:39, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\badcert.pem
+
+2015-02-03 18:21:39, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\greyrgb.uue
+
+2015-02-03 18:21:39, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\testimg.uue
+
+2015-02-03 18:21:39, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\testimgr.uue
+
+2015-02-03 18:21:39, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\testrgb.uue
+
+2015-02-03 18:21:42, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\audiodata\pluck-pcm32.aiff
+
+2015-02-03 18:21:42, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\capath\4e1295a3.0
+
+2015-02-03 18:21:42, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\capath\6e88d7b8.0
+
+2015-02-03 18:21:43, WIN-M4BNKTIO76D, PE_file, c:\Python27\Scripts\easy_install-2.7.exe
+
+2015-02-03 18:21:44, WIN-M4BNKTIO76D, PE_file, c:\Python27\Scripts\easy_install.exe
+
+2015-02-03 18:21:44, WIN-M4BNKTIO76D, PE_file, c:\Python27\Scripts\pip.exe
+
+2015-02-03 18:21:44, WIN-M4BNKTIO76D, PE_file, c:\Python27\Scripts\pip2.7.exe
+
+2015-02-03 18:21:44, WIN-M4BNKTIO76D, PE_file, c:\Python27\Scripts\pip2.exe
+
+2015-02-03 18:21:44, WIN-M4BNKTIO76D, PE_file, c:\Python27\tcl\dde1.3\tcldde13.dll
+
+2015-02-03 18:21:44, WIN-M4BNKTIO76D, PE_file, c:\Python27\tcl\reg1.2\tclreg12.dll
+
+2015-02-03 18:21:48, WIN-M4BNKTIO76D, PE_file, c:\Python27\tcl\tix8.4.3\tix84.dll
+
+2015-02-03 18:21:49, WIN-M4BNKTIO76D, PE_file, c:\Python27\tcl\tk8.5\demos\images\teapot.ppm
+
+2015-02-03 20:11:48, 160-8FL-P, None, k:\NYCHHC ISRM Presentation 9-4-2014.pptx
+
+2015-02-03 20:11:48, 160-8FL-P, None, k:\shell-scan.7z
+
+2015-02-03 20:13:04, 160-8FL-P, None, k:\ubuntu-12.04.4-server-i386.iso
+
+2015-02-03 20:13:50, 160-8FL-P, None, k:\VMware-VMvisor-Installer-5.5.0.update01-1623387.x86_64.iso
+
+2015-02-03 20:13:50, 160-8FL-P, None, k:\HHC - NIST CSF GAP Assessment - 12082014.xlsx
+
+2015-02-03 20:13:50, 160-8FL-P, None, k:\External PenTest METH.doc
+
+2015-02-03 20:13:50, 160-8FL-P, None, k:\THREAT REPORT January 2015 - Webshells.pdf
+
+2015-02-03 20:13:50, 160-8FL-P, None, k:\KELYLS3-dyre-dropper.zip
+
+2015-02-03 20:14:35, 160-8FL-P, None, k:\memdump.7z
+
+2015-02-03 20:14:35, 160-8FL-P, None, k:\172_27_6_104-report.pdf
+
+2015-02-03 20:14:35, 160-8FL-P, None, k:\XORSearch.exe
+
+2015-02-03 20:14:35, 160-8FL-P, None, k:\Thumbs.db
+
+2015-02-03 20:14:37, 160-8FL-P, None, k:\NYCHHC ISRM DMZ Threat Intel Preso 1-6-2015 v4.pptx
+
+2015-02-03 20:14:37, 160-8FL-P, None, k:\NYCHHC ISRM DMZ Threat Intel Preso 1-6-2015.pptx
+
+2015-02-03 20:14:37, 160-8FL-P, None, k:\NYCHHC ISRM DMZ Threat Intel Preso 1-6-2015 v4.pdf
+
+2015-02-03 20:14:38, 160-8FL-P, None, k:\EEDK 9.4 Community Edition.zip
+
+2015-02-03 20:14:39, 160-8FL-P, None, k:\503-DVD\all_data_08_2014.tar.gz
+
+2015-02-03 20:15:31, 160-8FL-P, None, k:\503-DVD\Packetrix503\Packetrix503-s003.vmdk
+
+2015-02-03 20:15:32, 160-8FL-P, None, k:\EEDK 9.4 Community Edition\EEDK-Community-9.4\EEDK.exe
+
+2015-02-03 20:15:32, 160-8FL-P, None, k:\EEDK 9.4 Community Edition\EEDK-Community-9.4\McAfee ePO Endpoint Deployment Kit Product Guide.pdf
+
+2015-02-03 20:15:32, 160-8FL-P, None, k:\EEDK 9.4 Community Edition\EEDK-Community-9.4\Using the ePO Endpoint Deployment Kit - MBSA.pdf
+
+2015-02-03 20:15:33, 160-8FL-P, None, k:\EEDK 9.4 Community Edition\EEDK-Community-9.4\Using the ePO Endpoint Deployment Kit - Stinger Scan.pdf
+
+2015-02-03 20:15:33, 160-8FL-P, None, k:\EEDK 9.4 Community Edition\EEDK-Community-9.4\ePOSign.exe
+
+2015-02-03 20:15:34, 160-8FL-P, None, k:\Imager_Lite_3.1.1\adefs.dll
+
+2015-02-03 20:15:34, 160-8FL-P, None, k:\Imager_Lite_3.1.1\adencrypt.dll
+
+2015-02-03 20:15:34, 160-8FL-P, None, k:\Imager_Lite_3.1.1\adencrypt_gui.exe
+
+2015-02-03 20:15:34, 160-8FL-P, None, k:\Imager_Lite_3.1.1\adfs_globals.dll
+
+2015-02-03 20:15:34, 160-8FL-P, None, k:\Imager_Lite_3.1.1\ADIsoDLL.dll
+
+2015-02-03 20:15:34, 160-8FL-P, None, k:\Imager_Lite_3.1.1\adshattrdefs.dll
+
+2015-02-03 20:15:34, 160-8FL-P, None, k:\Imager_Lite_3.1.1\ad_globals.dll
+
+2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\ad_log.dll
+
+2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\boost_date_time-vc100-mt-1_49.dll
+
+2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\boost_filesystem-vc100-mt-1_49.dll
+
+2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\boost_regex-vc100-mt-1_49.dll
+
+2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\boost_system-vc100-mt-1_49.dll
+
+2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\boost_thread-vc100-mt-1_49.dll
+
+2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\cximage.dll
+
+2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\da7zip.dll
+
+2015-02-03 20:15:36, 160-8FL-P, None, k:\Imager_Lite_3.1.1\FTK Imager.exe
+
+2015-02-03 20:15:38, 160-8FL-P, None, k:\Imager_Lite_3.1.1\icudt44.dll
+
+2015-02-03 20:15:38, 160-8FL-P, None, k:\Imager_Lite_3.1.1\icuuc44.dll
+
+2015-02-03 20:15:38, 160-8FL-P, None, k:\Imager_Lite_3.1.1\IsoBuster.dll
+
+2015-02-03 20:15:39, 160-8FL-P, None, k:\Imager_Lite_3.1.1\libeay32.dll
+
+2015-02-03 20:15:39, 160-8FL-P, None, k:\Imager_Lite_3.1.1\LMS.dll
+
+2015-02-03 20:15:39, 160-8FL-P, None, k:\Imager_Lite_3.1.1\MD5Remote.dll
+
+2015-02-03 20:15:40, 160-8FL-P, None, k:\Imager_Lite_3.1.1\mfc100u.dll
+
+2015-02-03 20:15:40, 160-8FL-P, None, k:\Imager_Lite_3.1.1\msvcp100.dll
+
+2015-02-03 20:15:40, 160-8FL-P, None, k:\Imager_Lite_3.1.1\msvcr100.dll
+
+2015-02-03 20:15:42, 160-8FL-P, None, k:\Imager_Lite_3.1.1\ProfUIS293ad32.dll
+
+2015-02-03 20:15:42, 160-8FL-P, None, k:\Imager_Lite_3.1.1\help\enu\FTKImager_UserGuide.pdf
+
+2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\chs_adencrypt.dll
+
+2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\chs_adshattrdefs.dll
+
+2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\chs_ftki.dll
+
+2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\deu_adencrypt.dll
+
+2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\deu_adshattrdefs.dll
+
+2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\deu_ftki.dll
+
+2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\esp_adencrypt.dll
+
+2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\esp_adshattrdefs.dll
+
+2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\esp_ftki.dll
+
+2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\fra_adencrypt.dll
+
+2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\fra_adshattrdefs.dll
+
+2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\fra_ftki.dll
+
+2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\ita_adencrypt.dll
+
+2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\ita_adshattrdefs.dll
+
+2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\ita_ftki.dll
+
+2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\jpn_adencrypt.dll
+
+2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\jpn_adshattrdefs.dll
+
+2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\jpn_ftki.dll
+
+2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\kor_ftki.dll
+
+2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\kor_adencrypt.dll
+
+2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\kor_adshattrdefs.dll
+
+2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\nld_adencrypt.dll
+
+2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\nld_adshattrdefs.dll
+
+2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\nld_ftki.dll
+
+2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\ptb_adencrypt.dll
+
+2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\ptb_adshattrdefs.dll
+
+2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\ptb_ftki.dll
+
+2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\sve_adencrypt.dll
+
+2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\sve_adshattrdefs.dll
+
+2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\sve_ftki.dll
+
+2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\trk_adencrypt.dll
+
+2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\trk_adshattrdefs.dll
+
+2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\trk_ftki.dll
+
+2015-02-03 20:15:46, 160-8FL-P, None, k:\TriageIR v.79\Triage - Incident Response.exe
+
+2015-02-03 20:15:46, 160-8FL-P, None, k:\TriageIR v.79\Triage Help.pdf
+
+2015-02-03 20:15:46, 160-8FL-P, None, k:\TriageIR v.79\Thumbs.db
+
+2015-02-03 20:15:54, 160-8FL-P, None, k:\TriageIR v.79\TriageIR v.79.7z
+
+2015-02-03 20:15:57, 160-8FL-P, None, k:\TriageIR v.79\Tools\7za.exe
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\cmd.exe
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\DumpIt.exe
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\md5deep.exe
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\md5deep64.exe
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\robo7.exe
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\robocopy.exe
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\sha1deep.exe
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\sha1deep64.exe
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\win32dd.exe
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\win32dd.sys
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\win64dd.exe
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\win64dd.sys
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\accesschk.exe
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\Dbgview.exe
+
+2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\Desktops.exe
+
+2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\disk2vhd.exe
+
+2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\diskext.exe
+
+2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\Diskmon.exe
+
+2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\DiskView.exe
+
+2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\DMON.SYS
+
+2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\du.exe
+
+2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\efsdump.exe
+
+2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\FindLinks.exe
+
+2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\handle.exe
+
+2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\hex2dec.exe
+
+2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\junction.exe
+
+2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\ldmdump.exe
+
+2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\Listdlls.exe
+
+2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\livekd.exe
+
+2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\LoadOrd.exe
+
+2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\logonsessions.exe
+
+2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\movefile.exe
+
+2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\ntfsinfo.exe
+
+2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\pagedfrg.exe
+
+2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\pendmoves.exe
+
+2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\pipelist.exe
+
+2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\portmon.exe
+
+2015-02-03 20:16:01, 160-8FL-P, None, k:\TriageIR v.79\Tools\procdump.exe
+
+2015-02-03 20:16:01, 160-8FL-P, None, k:\TriageIR v.79\Tools\procexp.exe
+
+2015-02-03 20:16:01, 160-8FL-P, None, k:\TriageIR v.79\Tools\Procmon.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\PsExec.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\psfile.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\PsGetsid.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\PsInfo.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\pskill.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\pslist.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\PsLoggedon.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\psloglist.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\pspasswd.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\psping.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\PsService.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\psshutdown.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\pssuspend.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\RAMMap.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\regjump.exe
+
+2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\RegDelNull.exe
+
+2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\RootkitRevealer.exe
+
+2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\ru.exe
+
+2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\sdelete.exe
+
+2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\ShareEnum.exe
+
+2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\ShellRunas.exe
+
+2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\sigcheck.exe
+
+2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\streams.exe
+
+2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\strings.exe
+
+2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\sync.exe
+
+2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\Sysmon.exe
+
+2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\Tcpvcon.exe
+
+2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\Tcpview.exe
+
+2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\Vmmap.chm
+
+2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\vmmap.exe
+
+2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\Volumeid.exe
+
+2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\whois.exe
+
+2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\Winobj.exe
+
+2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\ZoomIt.exe
+
+2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\AccessEnum.exe
+
+2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\ADExplorer.exe
+
+2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\ADInsight.chm
+
+2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\ADInsight.exe
+
+2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\adrestore.exe
+
+2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\Autologon.exe
+
+2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\autoruns.exe
+
+2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\autorunsc.exe
+
+2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\Bginfo.exe
+
+2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\Cacheset.exe
+
+2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\Clockres.exe
+
+2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\Contig.exe
+
+2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\Coreinfo.exe
+
+2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\ctrl2cap.amd.sys
+
+2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\ctrl2cap.exe
+
+2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\ctrl2cap.nt4.sys
+
+2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\ctrl2cap.nt5.sys
+
+2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\RegRipper\p2x588.dll
+
+2015-02-03 20:16:06, 160-8FL-P, None, k:\TriageIR v.79\Tools\RegRipper\pb.exe
+
+2015-02-03 20:16:06, 160-8FL-P, None, k:\TriageIR v.79\Tools\RegRipper\rip.exe
+
+2015-02-03 20:16:06, 160-8FL-P, None, k:\TriageIR v.79\Tools\RegRipper\ripxp.exe
+
+2015-02-03 20:16:06, 160-8FL-P, None, k:\TriageIR v.79\Tools\RegRipper\rr.exe
+
+2015-02-03 20:16:10, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\blkcalc.exe
+
+2015-02-03 20:16:10, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\blkcat.exe
+
+2015-02-03 20:16:10, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\blkls.exe
+
+2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\blkstat.exe
+
+2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\ffind.exe
+
+2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\fls.exe
+
+2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\fsstat.exe
+
+2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\hfind.exe
+
+2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\icat.exe
+
+2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\ifind.exe
+
+2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\ils.exe
+
+2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\img_cat.exe
+
+2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\img_stat.exe
+
+2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\istat.exe
+
+2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\jcat.exe
+
+2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\jls.exe
+
+2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\libewf.dll
+
+2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\mmcat.exe
+
+2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\mmls.exe
+
+2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\mmstat.exe
+
+2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\msvcm90.dll
+
+2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\msvcp90.dll
+
+2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\msvcr90.dll
+
+2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\tsk_comparedir.exe
+
+2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\tsk_gettimes.exe
+
+2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\tsk_loaddb.exe
+
+2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\tsk_recover.exe
+
+2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\zlib1.dll
+
+2015-02-03 20:16:15, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Directory Info.txt
+
+2015-02-03 20:16:15, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\MD5 Hashes.txt
+
+2015-02-03 20:16:15, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\SHA1 Hashes.txt
+
+2015-02-03 20:16:23, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\SYSTEM_55W-25FL-P99.hiv
+
+2015-02-03 20:16:29, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\SOFTWARE_55W-25FL-P99.hiv
+
+2015-02-03 20:16:30, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\55W-25FL-P99_USER_13.dat
+
+2015-02-03 20:16:32, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\55W-25FL-P99_USER_13.dat_Ripped_Report.txt
+
+2015-02-03 20:16:35, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgCx_S2_S-1-5-21-2250110424-2442967196-2465209428-28170.snp.db
+
+2015-02-03 20:16:36, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgCx_SC1.db
+
+2015-02-03 20:16:36, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgCx_SC3_47AB7EDB.db
+
+2015-02-03 20:16:36, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgCx_SC4.db
+
+2015-02-03 20:16:36, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlFaultHistory.db
+
+2015-02-03 20:16:36, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlFgAppHistory.db
+
+2015-02-03 20:16:37, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlGlobalHistory.db
+
+2015-02-03 20:16:37, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-2250110424-2442967196-2465209428-28170.db
+
+2015-02-03 20:16:37, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-2250110424-2442967196-2465209428-28180.db
+
+2015-02-03 20:16:37, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-2567269325-751744449-2381251693-7403.db
+
+2015-02-03 20:16:37, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-13607.db
+
+2015-02-03 20:16:37, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-13741.db
+
+2015-02-03 20:16:38, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-13910.db
+
+2015-02-03 20:16:38, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-20669.db
+
+2015-02-03 20:16:38, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-20975.db
+
+2015-02-03 20:16:38, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-22691.db
+
+2015-02-03 20:16:38, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-2347.db
+
+2015-02-03 20:16:38, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-2541.db
+
+2015-02-03 20:16:39, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-37560.db
+
+2015-02-03 20:16:39, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-37564.db
+
+2015-02-03 20:16:39, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-3884.db
+
+2015-02-03 20:16:39, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-39417.db
+
+2015-02-03 20:16:39, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-42013.db
+
+2015-02-03 20:16:40, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-43857.db
+
+2015-02-03 20:16:40, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-2250110424-2442967196-2465209428-28170.db
+
+2015-02-03 20:16:40, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-2250110424-2442967196-2465209428-28180.db
+
+2015-02-03 20:16:40, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-2567269325-751744449-2381251693-7403.db
+
+2015-02-03 20:16:40, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-13607.db
+
+2015-02-03 20:16:40, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-13910.db
+
+2015-02-03 20:16:41, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-20669.db
+
+2015-02-03 20:16:41, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-20975.db
+
+2015-02-03 20:16:41, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-22691.db
+
+2015-02-03 20:16:41, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-37560.db
+
+2015-02-03 20:16:41, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-37564.db
+
+2015-02-03 20:16:42, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-3884.db
+
+2015-02-03 20:16:42, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-39417.db
+
+2015-02-03 20:16:42, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-42013.db
+
+2015-02-03 20:16:42, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-43857.db
+
+2015-02-03 20:16:44, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\NTOSBOOT-B00DFAAD.pf
+
+2015-02-03 20:16:46, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Recent LNKs\a-sherlocd1_Recent_Copy.txt
+
+2015-02-03 20:17:03, 160-8FL-P, None, k:\TriageIR v.79\20140911150856 - 160-8FL-P Incident\Evidence\SYSTEM_160-8FL-P.hiv
+
+2015-02-03 20:17:09, 160-8FL-P, None, k:\TriageIR v.79\20140911150856 - 160-8FL-P Incident\Evidence\SOFTWARE_160-8FL-P.hiv
+
+2015-02-03 20:17:16, 160-8FL-P, None, k:\25FL-P99-DriveImage\image.001
+
+2015-02-03 21:04:23, 160-8FL-P, None, ./suspicious.yara
+
+2015-02-03 21:04:23, 160-8FL-P, None, ./write.exe
+
+2015-02-03 21:04:23, 160-8FL-P, None, ./rules\suspicious.yara
+
+2015-02-03 21:04:34, 160-8FL-P, None, ./suspicious.yara
+
+2015-02-03 21:04:34, 160-8FL-P, None, ./write.exe
+
+2015-02-03 21:04:34, 160-8FL-P, None, ./rules\suspicious.yara
+
+2015-02-03 21:04:42, 160-8FL-P, None, ./suspicious.yara
+
+2015-02-03 21:04:42, 160-8FL-P, None, ./write.exe
+
+2015-02-03 21:04:42, 160-8FL-P, None, ./rules\suspicious.yara
+

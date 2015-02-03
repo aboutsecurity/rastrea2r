@@ -15,6 +15,6 @@ Bottle: pip install bottle
 
 ** Client 
 
-Yara: pip install yara
+Yara: Get yara-python-1.7 from Google code (link here 32-64 bits) / DO NOT install yara-ctypes using pip install yara
 Requests: pip install requests
 
