@@ -4,7 +4,7 @@ from time import gmtime, strftime
 from bottle import route, get, run, post, request
 import socket
 
-server_address=socket.gethostbyname(socket.gethostname())
+server_address='0.0.0.0'
 
 @post('/get')
 def index():
