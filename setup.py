@@ -5,6 +5,6 @@ import py2exe
 
 setup(
     options={'pyexe':{'bundle_files':1,'compressed':True}},
-    console=[{'script':"yararest.py"}],
+    console=[{'script':"rastrea2r_win32.py"}],
     zipfile=None
 )

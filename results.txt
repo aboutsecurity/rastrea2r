@@ -1,720 +1,548 @@
-2015-02-03 18:21:27, WIN-M4BNKTIO76D, PE_file, c:\Python27\python.exe
+2015-02-04 22:12:50
 
-2015-02-03 18:21:27, WIN-M4BNKTIO76D, PE_file, c:\Python27\pythonw.exe
+2015-02-04 22:13:25, WIN-M4BNKTIO76D
 
-2015-02-03 18:21:27, WIN-M4BNKTIO76D, PE_file, c:\Python27\Removepy2exe.exe
+2015-02-04 22:13:26, WIN-M4BNKTIO76D
 
-2015-02-03 18:21:27, WIN-M4BNKTIO76D, PE_file, c:\Python27\Removeyara-python.exe
+2015-02-04 22:14:02, WIN-M4BNKTIO76D, PE_file
 
-2015-02-03 18:21:27, WIN-M4BNKTIO76D, PE_file, c:\Python27\w9xpopen.exe
+2015-02-04 22:14:03, WIN-M4BNKTIO76D, PE_file
 
-2015-02-03 18:21:27, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\bz2.pyd
+2015-02-04 22:14:21, WIN-M4BNKTIO76D, PE_file
 
-2015-02-03 18:21:27, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\pyc.ico
+2015-02-04 22:14:31, WIN-M4BNKTIO76D, PE_file,yaramem
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\pyexpat.pyd
+2015-02-04 22:14:32, WIN-M4BNKTIO76D, PE_file,yaramem
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\select.pyd
+2015-02-04 22:14:33, WIN-M4BNKTIO76D, PE_file,yaramem
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\sqlite3.dll
+2015-02-04 22:14:36, WIN-M4BNKTIO76D, PE_file,yaramem
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\tcl85.dll
+2015-02-04 22:15:31, WIN-M4BNKTIO76D, PE_file, yaramem, None
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\tclpip85.dll
+2015-02-04 22:15:33, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\tk85.dll
+2015-02-04 22:15:36, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wininit.exe
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\unicodedata.pyd
+2015-02-04 22:15:47, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\winsound.pyd
+2015-02-04 22:17:26, WIN-M4BNKTIO76D, PE_file, yaramem, None, 312
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_bsddb.pyd
+2015-02-04 22:17:27, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 412
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_ctypes.pyd
+2015-02-04 22:17:28, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wininit.exe, 500
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_ctypes_test.pyd
+2015-02-04 22:17:29, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 508
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_elementtree.pyd
+2015-02-04 22:17:31, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\services.exe, 560
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_hashlib.pyd
+2015-02-04 22:17:32, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsass.exe, 576
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_msi.pyd
+2015-02-04 22:17:33, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsm.exe, 584
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_multiprocessing.pyd
+2015-02-04 22:17:34, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\winlogon.exe, 644
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_socket.pyd
+2015-02-04 22:17:35, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 732
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_sqlite3.pyd
+2015-02-04 22:17:37, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 812
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_ssl.pyd
+2015-02-04 22:17:38, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 904
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_testcapi.pyd
+2015-02-04 22:17:39, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 944
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\DLLs\_tkinter.pyd
+2015-02-04 22:17:41, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 984
 
-2015-02-03 18:21:28, WIN-M4BNKTIO76D, PE_file, c:\Python27\Doc\python279.chm
+2015-02-04 22:17:43, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1008
 
-2015-02-03 18:21:31, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\distutils\command\wininst-6.0.exe
+2015-02-04 22:17:44, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1284
 
-2015-02-03 18:21:31, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\distutils\command\wininst-7.1.exe
+2015-02-04 22:17:45, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\spoolsv.exe, 1408
 
-2015-02-03 18:21:31, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\distutils\command\wininst-8.0.exe
+2015-02-04 22:17:46, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1436
 
-2015-02-03 18:21:31, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\distutils\command\wininst-9.0-amd64.exe
+2015-02-04 22:17:48, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 1496
 
-2015-02-03 18:21:31, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\distutils\command\wininst-9.0.exe
+2015-02-04 22:17:49, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Adobe\ARM\1.0\armsvc.exe, 1568
 
-2015-02-03 18:21:31, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\email\test\data\msg_07.txt
+2015-02-04 22:17:50, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1616
 
-2015-02-03 18:21:31, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\email\test\data\msg_13.txt
+2015-02-04 22:17:52, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Juniper Networks\Common Files\dsNcService.exe, 1648
 
-2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\encodings\cp1006.py
+2015-02-04 22:17:53, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grrservice.exe, 1716
 
-2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\encodings\cp1256.py
+2015-02-04 22:17:54, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Juniper Networks\JUNS\dsAccessService.exe, 1764
 
-2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\encodings\cp720.py
+2015-02-04 22:17:55, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\FrameworkService.exe, 1816
 
-2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\encodings\cp864.py
+2015-02-04 22:17:57, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\VsTskMgr.exe, 1884
 
-2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\encodings\iso8859_6.py
+2015-02-04 22:17:58, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\mfevtps.exe, 1916
 
-2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\encodings\mac_arabic.py
+2015-02-04 22:18:00, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Microsoft.NET\Framework\v4.0.30319\SMSvcHost.exe, 1936
 
-2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\encodings\mac_farsi.py
+2015-02-04 22:18:01, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\mfeann.exe, 1972
 
-2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\ensurepip\_bundled\pip-1.5.6-py2.py3-none-any.whl
+2015-02-04 22:18:02, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 1988
 
-2015-02-03 18:21:32, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\ensurepip\_bundled\setuptools-7.0-py2.py3-none-any.whl
+2015-02-04 22:18:04, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\naPrdMgr.exe, 404
 
-2015-02-03 18:21:34, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\yara.pyd
+2015-02-04 22:18:05, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe, 684
 
-2015-02-03 18:21:34, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\_memimporter.pyd
+2015-02-04 22:18:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 888
 
-2015-02-03 18:21:35, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\pip\_vendor\certifi\cacert.pem
+2015-02-04 22:18:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 1184
 
-2015-02-03 18:21:35, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\pip\_vendor\distlib\t32.exe
+2015-02-04 22:18:09, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 408
 
-2015-02-03 18:21:35, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\pip\_vendor\distlib\t64.exe
+2015-02-04 22:18:10, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\McAfee\SystemCore\mcshield.exe, 1948
 
-2015-02-03 18:21:35, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\pip\_vendor\distlib\w32.exe
+2015-02-04 22:18:12, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\VMware\USB\vmware-usbarbitrator.exe, 2112
 
-2015-02-03 18:21:35, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\pip\_vendor\distlib\w64.exe
+2015-02-04 22:18:13, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 2428
 
-2015-02-03 18:21:36, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\pip\_vendor\requests\cacert.pem
+2015-02-04 22:18:14, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 2620
 
-2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\pip-6.0.7.dist-info\RECORD
+2015-02-04 22:18:16, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\msdtc.exe, 2892
 
-2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\build_exe.py
+2015-02-04 22:18:17, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\taskhost.exe, 3032
 
-2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\build_exe.pyc
+2015-02-04 22:18:21, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\Dwm.exe, 3268
 
-2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\build_exe.pyo
+2015-02-04 22:18:25, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Explorer.EXE, 3304
 
-2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\py2exe_util.pyd
+2015-02-04 22:18:27, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 3412
 
-2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\run.exe
+2015-02-04 22:18:28, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\concentr.exe, 3424
 
-2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\run_ctypes_dll.dll
+2015-02-04 22:18:29, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\redirector.exe, 3440
 
-2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\run_dll.dll
+2015-02-04 22:18:31, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\UdaterUI.exe, 3448
 
-2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\run_isapi.dll
+2015-02-04 22:18:32, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\Receiver\Receiver.exe, 3580
 
-2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\py2exe\run_w.exe
+2015-02-04 22:18:34, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Novell\Messenger\NMCL32.exe, 3616
 
-2015-02-03 18:21:37, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\requests\cacert.pem
+2015-02-04 22:18:35, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\McTray.exe, 2148
 
-2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\requests-2.5.1.dist-info\RECORD
+2015-02-04 22:18:37, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\SearchIndexer.exe, 1112
 
-2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\cli-32.exe
+2015-02-04 22:18:38, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\wfcrun32.exe, 1544
 
-2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\cli-64.exe
+2015-02-04 22:18:40, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\SelfServicePlugin\SelfServicePlugin.exe, 4120
 
-2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\cli-arm-32.exe
+2015-02-04 22:18:41, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Windows Media Player\wmpnetwk.exe, 5032
 
-2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\cli.exe
+2015-02-04 22:18:43, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\SHSTAT.EXE, 5096
 
-2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\gui-32.exe
+2015-02-04 22:18:44, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 5244
 
-2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\gui-64.exe
+2015-02-04 22:18:45, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\sppsvc.exe, 4964
 
-2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\gui-arm-32.exe
+2015-02-04 22:18:47, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 3684
 
-2015-02-03 18:21:38, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\site-packages\setuptools\gui.exe
+2015-02-04 22:18:48, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\apnmcp.exe, 5552
 
-2015-02-03 18:21:39, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\badcert.pem
+2015-02-04 22:18:49, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\unsecapp.exe, 5984
 
-2015-02-03 18:21:39, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\greyrgb.uue
+2015-02-04 22:18:51, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Users\user\AppData\Local\AskPartnerNetwork\Toolbar\Updater\IDC\IdcLdr.exe, 2372
 
-2015-02-03 18:21:39, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\testimg.uue
+2015-02-04 22:18:52, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\Updater\TBNotifier.exe, 3692
 
-2015-02-03 18:21:39, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\testimgr.uue
+2015-02-04 22:18:53, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 428
 
-2015-02-03 18:21:39, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\testrgb.uue
+2015-02-04 22:18:54, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 3080
 
-2015-02-03 18:21:42, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\audiodata\pluck-pcm32.aiff
+2015-02-04 22:18:56, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\ntvdm.exe, 7428
 
-2015-02-03 18:21:42, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\capath\4e1295a3.0
+2015-02-04 22:18:57, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 916
 
-2015-02-03 18:21:42, WIN-M4BNKTIO76D, PE_file, c:\Python27\Lib\test\capath\6e88d7b8.0
+2015-02-04 22:18:58, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 3712
 
-2015-02-03 18:21:43, WIN-M4BNKTIO76D, PE_file, c:\Python27\Scripts\easy_install-2.7.exe
+2015-02-04 22:19:00, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Internet Explorer\iexplore.exe, 6220
 
-2015-02-03 18:21:44, WIN-M4BNKTIO76D, PE_file, c:\Python27\Scripts\easy_install.exe
+2015-02-04 22:19:03, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Internet Explorer\iexplore.exe, 3340
 
-2015-02-03 18:21:44, WIN-M4BNKTIO76D, PE_file, c:\Python27\Scripts\pip.exe
+2015-02-04 22:19:05, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grr.exe, 7892
 
-2015-02-03 18:21:44, WIN-M4BNKTIO76D, PE_file, c:\Python27\Scripts\pip2.7.exe
+2015-02-04 22:19:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 3720
 
-2015-02-03 18:21:44, WIN-M4BNKTIO76D, PE_file, c:\Python27\Scripts\pip2.exe
+2015-02-04 22:19:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Python27\python.exe, 468
 
-2015-02-03 18:21:44, WIN-M4BNKTIO76D, PE_file, c:\Python27\tcl\dde1.3\tcldde13.dll
+2015-02-04 22:20:05, WIN-M4BNKTIO76D, PE_file, yaradisk, ./suspicious.yara
 
-2015-02-03 18:21:44, WIN-M4BNKTIO76D, PE_file, c:\Python27\tcl\reg1.2\tclreg12.dll
+2015-02-04 22:20:07, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\01\12eba29ffd2ea17bf68559b6823936c8f521ad
 
-2015-02-03 18:21:48, WIN-M4BNKTIO76D, PE_file, c:\Python27\tcl\tix8.4.3\tix84.dll
+2015-02-04 22:20:08, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\11\1dc56a791acc4b2d360b4b153c9a4eed57c23a
 
-2015-02-03 18:21:49, WIN-M4BNKTIO76D, PE_file, c:\Python27\tcl\tk8.5\demos\images\teapot.ppm
+2015-02-04 22:20:09, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\39\9173ab0fc44906516861ee2fb546d8dafcfa33
 
-2015-02-03 20:11:48, 160-8FL-P, None, k:\NYCHHC ISRM Presentation 9-4-2014.pptx
+2015-02-04 22:20:10, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\3e\03d9009edc17a3ed043b44ccabc57bb7e4ae12
 
-2015-02-03 20:11:48, 160-8FL-P, None, k:\shell-scan.7z
+2015-02-04 22:20:11, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\65\b7888c61df39d59ff6a8042fef7172cf1a39c2
 
-2015-02-03 20:13:04, 160-8FL-P, None, k:\ubuntu-12.04.4-server-i386.iso
+2015-02-04 22:20:13, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\70\b5e84333fb0bc764427bb73cc80a2c40bae7de
 
-2015-02-03 20:13:50, 160-8FL-P, None, k:\VMware-VMvisor-Installer-5.5.0.update01-1623387.x86_64.iso
+2015-02-04 22:20:14, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\a5\84ea2834493f10d1d40cf680b70175e095e409
 
-2015-02-03 20:13:50, 160-8FL-P, None, k:\HHC - NIST CSF GAP Assessment - 12082014.xlsx
+2015-02-04 22:20:15, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\b0\22cad69acbad42f12c4cf9891a0ba3aeca56cf
 
-2015-02-03 20:13:50, 160-8FL-P, None, k:\External PenTest METH.doc
+2015-02-04 22:20:17, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_ctypes.pyd
 
-2015-02-03 20:13:50, 160-8FL-P, None, k:\THREAT REPORT January 2015 - Webshells.pdf
+2015-02-04 22:20:18, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_hashlib.pyd
 
-2015-02-03 20:13:50, 160-8FL-P, None, k:\KELYLS3-dyre-dropper.zip
+2015-02-04 22:20:19, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_socket.pyd
 
-2015-02-03 20:14:35, 160-8FL-P, None, k:\memdump.7z
+2015-02-04 22:20:20, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_ssl.pyd
 
-2015-02-03 20:14:35, 160-8FL-P, None, k:\172_27_6_104-report.pdf
+2015-02-04 22:20:21, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\bz2.pyd
 
-2015-02-03 20:14:35, 160-8FL-P, None, k:\XORSearch.exe
+2015-02-04 22:20:22, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\pyexpat.pyd
 
-2015-02-03 20:14:35, 160-8FL-P, None, k:\Thumbs.db
+2015-02-04 22:20:24, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\python27.dll
 
-2015-02-03 20:14:37, 160-8FL-P, None, k:\NYCHHC ISRM DMZ Threat Intel Preso 1-6-2015 v4.pptx
+2015-02-04 22:20:25, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\rastrea2r.exe
 
-2015-02-03 20:14:37, 160-8FL-P, None, k:\NYCHHC ISRM DMZ Threat Intel Preso 1-6-2015.pptx
+2015-02-04 22:20:26, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\select.pyd
 
-2015-02-03 20:14:37, 160-8FL-P, None, k:\NYCHHC ISRM DMZ Threat Intel Preso 1-6-2015 v4.pdf
+2015-02-04 22:20:27, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\unicodedata.pyd
 
-2015-02-03 20:14:38, 160-8FL-P, None, k:\EEDK 9.4 Community Edition.zip
+2015-02-04 22:20:28, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\w9xpopen.exe
 
-2015-02-03 20:14:39, 160-8FL-P, None, k:\503-DVD\all_data_08_2014.tar.gz
+2015-02-04 22:20:29, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\yara.pyd
 
-2015-02-03 20:15:31, 160-8FL-P, None, k:\503-DVD\Packetrix503\Packetrix503-s003.vmdk
+2015-02-04 22:20:30, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\yararest.exe
 
-2015-02-03 20:15:32, 160-8FL-P, None, k:\EEDK 9.4 Community Edition\EEDK-Community-9.4\EEDK.exe
+2015-02-04 22:20:31, WIN-M4BNKTIO76D, PE_file, yaradisk, ./rules\suspicious.yara
 
-2015-02-03 20:15:32, 160-8FL-P, None, k:\EEDK 9.4 Community Edition\EEDK-Community-9.4\McAfee ePO Endpoint Deployment Kit Product Guide.pdf
+2015-02-04 22:20:55, WIN-M4BNKTIO76D, PE_file, yaradisk, ./suspicious.yara
 
-2015-02-03 20:15:32, 160-8FL-P, None, k:\EEDK 9.4 Community Edition\EEDK-Community-9.4\Using the ePO Endpoint Deployment Kit - MBSA.pdf
+2015-02-04 22:20:57, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\01\12eba29ffd2ea17bf68559b6823936c8f521ad
 
-2015-02-03 20:15:33, 160-8FL-P, None, k:\EEDK 9.4 Community Edition\EEDK-Community-9.4\Using the ePO Endpoint Deployment Kit - Stinger Scan.pdf
+2015-02-04 22:20:58, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\11\1dc56a791acc4b2d360b4b153c9a4eed57c23a
 
-2015-02-03 20:15:33, 160-8FL-P, None, k:\EEDK 9.4 Community Edition\EEDK-Community-9.4\ePOSign.exe
+2015-02-04 22:20:59, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\39\9173ab0fc44906516861ee2fb546d8dafcfa33
 
-2015-02-03 20:15:34, 160-8FL-P, None, k:\Imager_Lite_3.1.1\adefs.dll
+2015-02-04 22:21:00, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\3e\03d9009edc17a3ed043b44ccabc57bb7e4ae12
 
-2015-02-03 20:15:34, 160-8FL-P, None, k:\Imager_Lite_3.1.1\adencrypt.dll
+2015-02-04 22:21:01, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\65\b7888c61df39d59ff6a8042fef7172cf1a39c2
 
-2015-02-03 20:15:34, 160-8FL-P, None, k:\Imager_Lite_3.1.1\adencrypt_gui.exe
+2015-02-04 22:21:02, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\70\b5e84333fb0bc764427bb73cc80a2c40bae7de
 
-2015-02-03 20:15:34, 160-8FL-P, None, k:\Imager_Lite_3.1.1\adfs_globals.dll
+2015-02-04 22:21:03, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\a5\84ea2834493f10d1d40cf680b70175e095e409
 
-2015-02-03 20:15:34, 160-8FL-P, None, k:\Imager_Lite_3.1.1\ADIsoDLL.dll
+2015-02-04 22:21:05, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\b0\22cad69acbad42f12c4cf9891a0ba3aeca56cf
 
-2015-02-03 20:15:34, 160-8FL-P, None, k:\Imager_Lite_3.1.1\adshattrdefs.dll
+2015-02-04 22:21:07, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_ctypes.pyd
 
-2015-02-03 20:15:34, 160-8FL-P, None, k:\Imager_Lite_3.1.1\ad_globals.dll
+2015-02-04 22:21:08, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_hashlib.pyd
 
-2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\ad_log.dll
+2015-02-04 22:21:09, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_socket.pyd
 
-2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\boost_date_time-vc100-mt-1_49.dll
+2015-02-04 22:21:10, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_ssl.pyd
 
-2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\boost_filesystem-vc100-mt-1_49.dll
+2015-02-04 22:21:11, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\bz2.pyd
 
-2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\boost_regex-vc100-mt-1_49.dll
+2015-02-04 22:21:12, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\pyexpat.pyd
 
-2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\boost_system-vc100-mt-1_49.dll
+2015-02-04 22:21:13, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\python27.dll
 
-2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\boost_thread-vc100-mt-1_49.dll
+2015-02-04 22:21:14, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\rastrea2r.exe
 
-2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\cximage.dll
+2015-02-04 22:21:15, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\select.pyd
 
-2015-02-03 20:15:35, 160-8FL-P, None, k:\Imager_Lite_3.1.1\da7zip.dll
+2015-02-04 22:21:16, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\unicodedata.pyd
 
-2015-02-03 20:15:36, 160-8FL-P, None, k:\Imager_Lite_3.1.1\FTK Imager.exe
+2015-02-04 22:21:17, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\w9xpopen.exe
 
-2015-02-03 20:15:38, 160-8FL-P, None, k:\Imager_Lite_3.1.1\icudt44.dll
+2015-02-04 22:21:18, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\yara.pyd
 
-2015-02-03 20:15:38, 160-8FL-P, None, k:\Imager_Lite_3.1.1\icuuc44.dll
+2015-02-04 22:21:19, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\yararest.exe
 
-2015-02-03 20:15:38, 160-8FL-P, None, k:\Imager_Lite_3.1.1\IsoBuster.dll
+2015-02-04 22:21:20, WIN-M4BNKTIO76D, PE_file, yaradisk, ./rules\suspicious.yara
 
-2015-02-03 20:15:39, 160-8FL-P, None, k:\Imager_Lite_3.1.1\libeay32.dll
+2015-02-04 22:22:03, WIN-M4BNKTIO76D, PE_file, yaramem, None, 312
 
-2015-02-03 20:15:39, 160-8FL-P, None, k:\Imager_Lite_3.1.1\LMS.dll
+2015-02-04 22:22:05, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 412
 
-2015-02-03 20:15:39, 160-8FL-P, None, k:\Imager_Lite_3.1.1\MD5Remote.dll
+2015-02-04 22:22:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wininit.exe, 500
 
-2015-02-03 20:15:40, 160-8FL-P, None, k:\Imager_Lite_3.1.1\mfc100u.dll
+2015-02-04 22:22:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 508
 
-2015-02-03 20:15:40, 160-8FL-P, None, k:\Imager_Lite_3.1.1\msvcp100.dll
+2015-02-04 22:22:08, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\services.exe, 560
 
-2015-02-03 20:15:40, 160-8FL-P, None, k:\Imager_Lite_3.1.1\msvcr100.dll
+2015-02-04 22:22:10, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsass.exe, 576
 
-2015-02-03 20:15:42, 160-8FL-P, None, k:\Imager_Lite_3.1.1\ProfUIS293ad32.dll
+2015-02-04 22:22:11, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsm.exe, 584
 
-2015-02-03 20:15:42, 160-8FL-P, None, k:\Imager_Lite_3.1.1\help\enu\FTKImager_UserGuide.pdf
+2015-02-04 22:22:12, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\winlogon.exe, 644
 
-2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\chs_adencrypt.dll
+2015-02-04 22:22:13, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 732
 
-2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\chs_adshattrdefs.dll
+2015-02-04 22:22:14, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 812
 
-2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\chs_ftki.dll
+2015-02-04 22:22:16, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 904
 
-2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\deu_adencrypt.dll
+2015-02-04 22:22:17, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 944
 
-2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\deu_adshattrdefs.dll
+2015-02-04 22:22:19, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 984
 
-2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\deu_ftki.dll
+2015-02-04 22:22:21, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1008
 
-2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\esp_adencrypt.dll
+2015-02-04 22:22:22, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1284
 
-2015-02-03 20:15:43, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\esp_adshattrdefs.dll
+2015-02-04 22:22:23, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\spoolsv.exe, 1408
 
-2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\esp_ftki.dll
+2015-02-04 22:22:25, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1436
 
-2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\fra_adencrypt.dll
+2015-02-04 22:22:26, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 1496
 
-2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\fra_adshattrdefs.dll
+2015-02-04 22:22:27, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Adobe\ARM\1.0\armsvc.exe, 1568
 
-2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\fra_ftki.dll
+2015-02-04 22:22:28, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1616
 
-2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\ita_adencrypt.dll
+2015-02-04 22:22:30, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Juniper Networks\Common Files\dsNcService.exe, 1648
 
-2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\ita_adshattrdefs.dll
+2015-02-04 22:22:31, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grrservice.exe, 1716
 
-2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\ita_ftki.dll
+2015-02-04 22:22:32, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Juniper Networks\JUNS\dsAccessService.exe, 1764
 
-2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\jpn_adencrypt.dll
+2015-02-04 22:22:33, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\FrameworkService.exe, 1816
 
-2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\jpn_adshattrdefs.dll
+2015-02-04 22:22:35, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\VsTskMgr.exe, 1884
 
-2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\jpn_ftki.dll
+2015-02-04 22:22:36, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\mfevtps.exe, 1916
 
-2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\kor_ftki.dll
+2015-02-04 22:22:38, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Microsoft.NET\Framework\v4.0.30319\SMSvcHost.exe, 1936
 
-2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\kor_adencrypt.dll
+2015-02-04 22:22:39, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\mfeann.exe, 1972
 
-2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\kor_adshattrdefs.dll
+2015-02-04 22:22:40, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 1988
 
-2015-02-03 20:15:44, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\nld_adencrypt.dll
+2015-02-04 22:22:42, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\naPrdMgr.exe, 404
 
-2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\nld_adshattrdefs.dll
+2015-02-04 22:22:43, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe, 684
 
-2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\nld_ftki.dll
+2015-02-04 22:22:44, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 888
 
-2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\ptb_adencrypt.dll
+2015-02-04 22:22:45, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 1184
 
-2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\ptb_adshattrdefs.dll
+2015-02-04 22:22:47, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 408
 
-2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\ptb_ftki.dll
+2015-02-04 22:22:49, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\McAfee\SystemCore\mcshield.exe, 1948
 
-2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\sve_adencrypt.dll
+2015-02-04 22:22:50, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\VMware\USB\vmware-usbarbitrator.exe, 2112
 
-2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\sve_adshattrdefs.dll
+2015-02-04 22:22:51, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 2428
 
-2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\sve_ftki.dll
+2015-02-04 22:22:52, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 2620
 
-2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\trk_adencrypt.dll
+2015-02-04 22:22:54, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\msdtc.exe, 2892
 
-2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\trk_adshattrdefs.dll
+2015-02-04 22:22:55, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\taskhost.exe, 3032
 
-2015-02-03 20:15:45, 160-8FL-P, None, k:\Imager_Lite_3.1.1\langs\trk_ftki.dll
+2015-02-04 22:22:59, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\Dwm.exe, 3268
 
-2015-02-03 20:15:46, 160-8FL-P, None, k:\TriageIR v.79\Triage - Incident Response.exe
+2015-02-04 22:23:02, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Explorer.EXE, 3304
 
-2015-02-03 20:15:46, 160-8FL-P, None, k:\TriageIR v.79\Triage Help.pdf
+2015-02-04 22:23:04, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 3412
 
-2015-02-03 20:15:46, 160-8FL-P, None, k:\TriageIR v.79\Thumbs.db
+2015-02-04 22:23:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\concentr.exe, 3424
 
-2015-02-03 20:15:54, 160-8FL-P, None, k:\TriageIR v.79\TriageIR v.79.7z
+2015-02-04 22:23:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\redirector.exe, 3440
 
-2015-02-03 20:15:57, 160-8FL-P, None, k:\TriageIR v.79\Tools\7za.exe
+2015-02-04 22:23:08, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\UdaterUI.exe, 3448
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\cmd.exe
+2015-02-04 22:23:10, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\Receiver\Receiver.exe, 3580
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\DumpIt.exe
+2015-02-04 22:23:11, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Novell\Messenger\NMCL32.exe, 3616
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\md5deep.exe
+2015-02-04 22:23:12, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\McTray.exe, 2148
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\md5deep64.exe
+2015-02-04 22:23:14, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\SearchIndexer.exe, 1112
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\robo7.exe
+2015-02-04 22:23:15, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\wfcrun32.exe, 1544
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\robocopy.exe
+2015-02-04 22:23:17, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\SelfServicePlugin\SelfServicePlugin.exe, 4120
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\sha1deep.exe
+2015-02-04 22:23:19, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Windows Media Player\wmpnetwk.exe, 5032
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\sha1deep64.exe
+2015-02-04 22:23:20, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\SHSTAT.EXE, 5096
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\win32dd.exe
+2015-02-04 22:23:22, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 5244
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\win32dd.sys
+2015-02-04 22:23:23, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\sppsvc.exe, 4964
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\win64dd.exe
+2015-02-04 22:23:24, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 3684
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\win64dd.sys
+2015-02-04 22:23:26, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\apnmcp.exe, 5552
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\accesschk.exe
+2015-02-04 22:23:27, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\unsecapp.exe, 5984
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\Dbgview.exe
+2015-02-04 22:23:28, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Users\user\AppData\Local\AskPartnerNetwork\Toolbar\Updater\IDC\IdcLdr.exe, 2372
 
-2015-02-03 20:15:58, 160-8FL-P, None, k:\TriageIR v.79\Tools\Desktops.exe
+2015-02-04 22:23:29, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\Updater\TBNotifier.exe, 3692
 
-2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\disk2vhd.exe
+2015-02-04 22:23:31, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 428
 
-2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\diskext.exe
+2015-02-04 22:23:32, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 3080
 
-2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\Diskmon.exe
+2015-02-04 22:23:33, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\ntvdm.exe, 7428
 
-2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\DiskView.exe
+2015-02-04 22:23:34, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 916
 
-2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\DMON.SYS
+2015-02-04 22:23:36, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 3712
 
-2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\du.exe
+2015-02-04 22:23:37, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Internet Explorer\iexplore.exe, 6220
 
-2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\efsdump.exe
+2015-02-04 22:23:40, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Internet Explorer\iexplore.exe, 3340
 
-2015-02-03 20:15:59, 160-8FL-P, None, k:\TriageIR v.79\Tools\FindLinks.exe
+2015-02-04 22:23:42, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grr.exe, 7892
 
-2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\handle.exe
+2015-02-04 22:23:43, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 3720
 
-2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\hex2dec.exe
+2015-02-04 22:23:44, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Python27\python.exe, 468
 
-2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\junction.exe
+2015-02-04 22:27:43, WIN-M4BNKTIO76D, PE_file, yaramem, None, 312
 
-2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\ldmdump.exe
+2015-02-04 22:27:44, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 412
 
-2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\Listdlls.exe
+2015-02-04 22:27:46, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wininit.exe, 500
 
-2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\livekd.exe
+2015-02-04 22:27:47, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 508
 
-2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\LoadOrd.exe
+2015-02-04 22:27:48, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\services.exe, 560
 
-2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\logonsessions.exe
+2015-02-04 22:27:49, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsass.exe, 576
 
-2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\movefile.exe
+2015-02-04 22:27:50, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsm.exe, 584
 
-2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\ntfsinfo.exe
+2015-02-04 22:27:52, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\winlogon.exe, 644
 
-2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\pagedfrg.exe
+2015-02-04 22:27:53, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 732
 
-2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\pendmoves.exe
+2015-02-04 22:27:54, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 812
 
-2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\pipelist.exe
+2015-02-04 22:27:55, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 904
 
-2015-02-03 20:16:00, 160-8FL-P, None, k:\TriageIR v.79\Tools\portmon.exe
+2015-02-04 22:27:57, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 944
 
-2015-02-03 20:16:01, 160-8FL-P, None, k:\TriageIR v.79\Tools\procdump.exe
+2015-02-04 22:27:58, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 984
 
-2015-02-03 20:16:01, 160-8FL-P, None, k:\TriageIR v.79\Tools\procexp.exe
+2015-02-04 22:28:00, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1008
 
-2015-02-03 20:16:01, 160-8FL-P, None, k:\TriageIR v.79\Tools\Procmon.exe
+2015-02-04 22:28:01, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1284
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\PsExec.exe
+2015-02-04 22:28:02, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\spoolsv.exe, 1408
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\psfile.exe
+2015-02-04 22:28:04, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1436
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\PsGetsid.exe
+2015-02-04 22:28:05, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 1496
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\PsInfo.exe
+2015-02-04 22:28:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Adobe\ARM\1.0\armsvc.exe, 1568
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\pskill.exe
+2015-02-04 22:28:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1616
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\pslist.exe
+2015-02-04 22:28:09, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Juniper Networks\Common Files\dsNcService.exe, 1648
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\PsLoggedon.exe
+2015-02-04 22:28:10, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grrservice.exe, 1716
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\psloglist.exe
+2015-02-04 22:28:11, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Juniper Networks\JUNS\dsAccessService.exe, 1764
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\pspasswd.exe
+2015-02-04 22:28:12, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\FrameworkService.exe, 1816
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\psping.exe
+2015-02-04 22:28:14, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\VsTskMgr.exe, 1884
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\PsService.exe
+2015-02-04 22:28:15, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\mfevtps.exe, 1916
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\psshutdown.exe
+2015-02-04 22:28:17, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Microsoft.NET\Framework\v4.0.30319\SMSvcHost.exe, 1936
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\pssuspend.exe
+2015-02-04 22:28:18, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\mfeann.exe, 1972
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\RAMMap.exe
+2015-02-04 22:28:19, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 1988
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\regjump.exe
+2015-02-04 22:28:20, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\naPrdMgr.exe, 404
 
-2015-02-03 20:16:02, 160-8FL-P, None, k:\TriageIR v.79\Tools\RegDelNull.exe
+2015-02-04 22:28:22, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe, 684
 
-2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\RootkitRevealer.exe
+2015-02-04 22:28:23, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 888
 
-2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\ru.exe
+2015-02-04 22:28:24, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 1184
 
-2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\sdelete.exe
+2015-02-04 22:28:25, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 408
 
-2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\ShareEnum.exe
+2015-02-04 22:28:27, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\McAfee\SystemCore\mcshield.exe, 1948
 
-2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\ShellRunas.exe
+2015-02-04 22:28:28, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\VMware\USB\vmware-usbarbitrator.exe, 2112
 
-2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\sigcheck.exe
+2015-02-04 22:28:30, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 2428
 
-2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\streams.exe
+2015-02-04 22:28:31, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 2620
 
-2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\strings.exe
+2015-02-04 22:28:32, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\msdtc.exe, 2892
 
-2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\sync.exe
+2015-02-04 22:28:34, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\taskhost.exe, 3032
 
-2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\Sysmon.exe
+2015-02-04 22:28:38, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\Dwm.exe, 3268
 
-2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\Tcpvcon.exe
+2015-02-04 22:28:41, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Explorer.EXE, 3304
 
-2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\Tcpview.exe
+2015-02-04 22:28:43, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 3412
 
-2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\Vmmap.chm
+2015-02-04 22:28:44, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\concentr.exe, 3424
 
-2015-02-03 20:16:03, 160-8FL-P, None, k:\TriageIR v.79\Tools\vmmap.exe
+2015-02-04 22:28:45, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\redirector.exe, 3440
 
-2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\Volumeid.exe
+2015-02-04 22:28:47, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\UdaterUI.exe, 3448
 
-2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\whois.exe
+2015-02-04 22:28:48, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\Receiver\Receiver.exe, 3580
 
-2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\Winobj.exe
+2015-02-04 22:28:49, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Novell\Messenger\NMCL32.exe, 3616
 
-2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\ZoomIt.exe
+2015-02-04 22:28:51, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\McTray.exe, 2148
 
-2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\AccessEnum.exe
+2015-02-04 22:28:52, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\SearchIndexer.exe, 1112
 
-2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\ADExplorer.exe
+2015-02-04 22:28:54, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\wfcrun32.exe, 1544
 
-2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\ADInsight.chm
+2015-02-04 22:28:55, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\SelfServicePlugin\SelfServicePlugin.exe, 4120
 
-2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\ADInsight.exe
+2015-02-04 22:28:57, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Windows Media Player\wmpnetwk.exe, 5032
 
-2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\adrestore.exe
+2015-02-04 22:28:58, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\SHSTAT.EXE, 5096
 
-2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\Autologon.exe
+2015-02-04 22:29:00, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 5244
 
-2015-02-03 20:16:04, 160-8FL-P, None, k:\TriageIR v.79\Tools\autoruns.exe
+2015-02-04 22:29:01, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\sppsvc.exe, 4964
 
-2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\autorunsc.exe
+2015-02-04 22:29:02, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 3684
 
-2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\Bginfo.exe
+2015-02-04 22:29:04, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\apnmcp.exe, 5552
 
-2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\Cacheset.exe
+2015-02-04 22:29:05, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\unsecapp.exe, 5984
 
-2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\Clockres.exe
+2015-02-04 22:29:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Users\user\AppData\Local\AskPartnerNetwork\Toolbar\Updater\IDC\IdcLdr.exe, 2372
 
-2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\Contig.exe
+2015-02-04 22:29:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\Updater\TBNotifier.exe, 3692
 
-2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\Coreinfo.exe
+2015-02-04 22:29:09, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 428
 
-2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\ctrl2cap.amd.sys
+2015-02-04 22:29:10, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 3080
 
-2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\ctrl2cap.exe
+2015-02-04 22:29:11, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\ntvdm.exe, 7428
 
-2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\ctrl2cap.nt4.sys
+2015-02-04 22:29:12, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 916
 
-2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\ctrl2cap.nt5.sys
+2015-02-04 22:29:13, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 3712
 
-2015-02-03 20:16:05, 160-8FL-P, None, k:\TriageIR v.79\Tools\RegRipper\p2x588.dll
+2015-02-04 22:29:15, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Internet Explorer\iexplore.exe, 6220
 
-2015-02-03 20:16:06, 160-8FL-P, None, k:\TriageIR v.79\Tools\RegRipper\pb.exe
+2015-02-04 22:29:18, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Internet Explorer\iexplore.exe, 3340
 
-2015-02-03 20:16:06, 160-8FL-P, None, k:\TriageIR v.79\Tools\RegRipper\rip.exe
+2015-02-04 22:29:20, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grr.exe, 7892
 
-2015-02-03 20:16:06, 160-8FL-P, None, k:\TriageIR v.79\Tools\RegRipper\ripxp.exe
+2015-02-04 22:29:21, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 3720
 
-2015-02-03 20:16:06, 160-8FL-P, None, k:\TriageIR v.79\Tools\RegRipper\rr.exe
+2015-02-04 22:29:22, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Python27\python.exe, 468
 
-2015-02-03 20:16:10, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\blkcalc.exe
-
-2015-02-03 20:16:10, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\blkcat.exe
-
-2015-02-03 20:16:10, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\blkls.exe
-
-2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\blkstat.exe
-
-2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\ffind.exe
-
-2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\fls.exe
-
-2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\fsstat.exe
-
-2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\hfind.exe
-
-2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\icat.exe
-
-2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\ifind.exe
-
-2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\ils.exe
-
-2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\img_cat.exe
-
-2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\img_stat.exe
-
-2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\istat.exe
-
-2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\jcat.exe
-
-2015-02-03 20:16:11, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\jls.exe
-
-2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\libewf.dll
-
-2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\mmcat.exe
-
-2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\mmls.exe
-
-2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\mmstat.exe
-
-2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\msvcm90.dll
-
-2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\msvcp90.dll
-
-2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\msvcr90.dll
-
-2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\tsk_comparedir.exe
-
-2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\tsk_gettimes.exe
-
-2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\tsk_loaddb.exe
-
-2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\tsk_recover.exe
-
-2015-02-03 20:16:12, 160-8FL-P, None, k:\TriageIR v.79\Tools\sleuthkit-win32-3.2.3\bin\zlib1.dll
-
-2015-02-03 20:16:15, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Directory Info.txt
-
-2015-02-03 20:16:15, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\MD5 Hashes.txt
-
-2015-02-03 20:16:15, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\SHA1 Hashes.txt
-
-2015-02-03 20:16:23, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\SYSTEM_55W-25FL-P99.hiv
-
-2015-02-03 20:16:29, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\SOFTWARE_55W-25FL-P99.hiv
-
-2015-02-03 20:16:30, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\55W-25FL-P99_USER_13.dat
-
-2015-02-03 20:16:32, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\55W-25FL-P99_USER_13.dat_Ripped_Report.txt
-
-2015-02-03 20:16:35, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgCx_S2_S-1-5-21-2250110424-2442967196-2465209428-28170.snp.db
-
-2015-02-03 20:16:36, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgCx_SC1.db
-
-2015-02-03 20:16:36, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgCx_SC3_47AB7EDB.db
-
-2015-02-03 20:16:36, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgCx_SC4.db
-
-2015-02-03 20:16:36, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlFaultHistory.db
-
-2015-02-03 20:16:36, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlFgAppHistory.db
-
-2015-02-03 20:16:37, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlGlobalHistory.db
-
-2015-02-03 20:16:37, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-2250110424-2442967196-2465209428-28170.db
-
-2015-02-03 20:16:37, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-2250110424-2442967196-2465209428-28180.db
-
-2015-02-03 20:16:37, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-2567269325-751744449-2381251693-7403.db
-
-2015-02-03 20:16:37, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-13607.db
-
-2015-02-03 20:16:37, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-13741.db
-
-2015-02-03 20:16:38, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-13910.db
-
-2015-02-03 20:16:38, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-20669.db
-
-2015-02-03 20:16:38, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-20975.db
-
-2015-02-03 20:16:38, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-22691.db
-
-2015-02-03 20:16:38, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-2347.db
-
-2015-02-03 20:16:38, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-2541.db
-
-2015-02-03 20:16:39, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-37560.db
-
-2015-02-03 20:16:39, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-37564.db
-
-2015-02-03 20:16:39, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-3884.db
-
-2015-02-03 20:16:39, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-39417.db
-
-2015-02-03 20:16:39, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-42013.db
-
-2015-02-03 20:16:40, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_P_S-1-5-21-3244953165-11772318-3714093831-43857.db
-
-2015-02-03 20:16:40, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-2250110424-2442967196-2465209428-28170.db
-
-2015-02-03 20:16:40, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-2250110424-2442967196-2465209428-28180.db
-
-2015-02-03 20:16:40, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-2567269325-751744449-2381251693-7403.db
-
-2015-02-03 20:16:40, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-13607.db
-
-2015-02-03 20:16:40, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-13910.db
-
-2015-02-03 20:16:41, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-20669.db
-
-2015-02-03 20:16:41, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-20975.db
-
-2015-02-03 20:16:41, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-22691.db
-
-2015-02-03 20:16:41, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-37560.db
-
-2015-02-03 20:16:41, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-37564.db
-
-2015-02-03 20:16:42, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-3884.db
-
-2015-02-03 20:16:42, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-39417.db
-
-2015-02-03 20:16:42, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-42013.db
-
-2015-02-03 20:16:42, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\AgGlUAD_S-1-5-21-3244953165-11772318-3714093831-43857.db
-
-2015-02-03 20:16:44, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Prefetch\NTOSBOOT-B00DFAAD.pf
-
-2015-02-03 20:16:46, 160-8FL-P, None, k:\TriageIR v.79\20141229131642 - 55W-25FL-P99 Incident\Evidence\Recent LNKs\a-sherlocd1_Recent_Copy.txt
-
-2015-02-03 20:17:03, 160-8FL-P, None, k:\TriageIR v.79\20140911150856 - 160-8FL-P Incident\Evidence\SYSTEM_160-8FL-P.hiv
-
-2015-02-03 20:17:09, 160-8FL-P, None, k:\TriageIR v.79\20140911150856 - 160-8FL-P Incident\Evidence\SOFTWARE_160-8FL-P.hiv
-
-2015-02-03 20:17:16, 160-8FL-P, None, k:\25FL-P99-DriveImage\image.001
-
-2015-02-03 21:04:23, 160-8FL-P, None, ./suspicious.yara
-
-2015-02-03 21:04:23, 160-8FL-P, None, ./write.exe
-
-2015-02-03 21:04:23, 160-8FL-P, None, ./rules\suspicious.yara
-
-2015-02-03 21:04:34, 160-8FL-P, None, ./suspicious.yara
-
-2015-02-03 21:04:34, 160-8FL-P, None, ./write.exe
-
-2015-02-03 21:04:34, 160-8FL-P, None, ./rules\suspicious.yara
-
-2015-02-03 21:04:42, 160-8FL-P, None, ./suspicious.yara
-
-2015-02-03 21:04:42, 160-8FL-P, None, ./write.exe
-
-2015-02-03 21:04:42, 160-8FL-P, None, ./rules\suspicious.yara
+2015-02-04 22:29:23, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\NOTEPAD.EXE, 6744
 
