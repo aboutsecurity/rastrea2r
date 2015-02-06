@@ -1,0 +1,136 @@
+2015-02-05 00:45:54, WIN-M4BNKTIO76D, PE_file, yaramem, None, 312
+
+2015-02-05 00:45:56, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 412
+
+2015-02-05 00:45:57, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wininit.exe, 500
+
+2015-02-05 00:45:58, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 508
+
+2015-02-05 00:45:59, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\services.exe, 560
+
+2015-02-05 00:46:01, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsass.exe, 576
+
+2015-02-05 00:46:02, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsm.exe, 584
+
+2015-02-05 00:46:03, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\winlogon.exe, 644
+
+2015-02-05 00:46:05, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 732
+
+2015-02-05 00:46:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 812
+
+2015-02-05 00:46:08, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 904
+
+2015-02-05 00:46:09, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 944
+
+2015-02-05 00:46:11, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 984
+
+2015-02-05 00:46:13, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1008
+
+2015-02-05 00:46:14, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1284
+
+2015-02-05 00:46:15, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\spoolsv.exe, 1408
+
+2015-02-05 00:46:16, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1436
+
+2015-02-05 00:46:18, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 1496
+
+2015-02-05 00:46:19, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Adobe\ARM\1.0\armsvc.exe, 1568
+
+2015-02-05 00:46:20, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1616
+
+2015-02-05 00:46:22, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Juniper Networks\Common Files\dsNcService.exe, 1648
+
+2015-02-05 00:46:23, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grrservice.exe, 1716
+
+2015-02-05 00:46:24, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Juniper Networks\JUNS\dsAccessService.exe, 1764
+
+2015-02-05 00:46:25, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\FrameworkService.exe, 1816
+
+2015-02-05 00:46:27, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\VsTskMgr.exe, 1884
+
+2015-02-05 00:46:28, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\mfevtps.exe, 1916
+
+2015-02-05 00:46:30, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Microsoft.NET\Framework\v4.0.30319\SMSvcHost.exe, 1936
+
+2015-02-05 00:46:31, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\mfeann.exe, 1972
+
+2015-02-05 00:46:32, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 1988
+
+2015-02-05 00:46:34, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\naPrdMgr.exe, 404
+
+2015-02-05 00:46:35, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe, 684
+
+2015-02-05 00:46:36, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 888
+
+2015-02-05 00:46:38, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 1184
+
+2015-02-05 00:46:39, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 408
+
+2015-02-05 00:46:41, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\McAfee\SystemCore\mcshield.exe, 1948
+
+2015-02-05 00:46:42, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\VMware\USB\vmware-usbarbitrator.exe, 2112
+
+2015-02-05 00:46:43, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 2428
+
+2015-02-05 00:46:45, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 2620
+
+2015-02-05 00:46:46, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\msdtc.exe, 2892
+
+2015-02-05 00:46:47, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\taskhost.exe, 3032
+
+2015-02-05 00:46:51, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\Dwm.exe, 3268
+
+2015-02-05 00:46:54, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Explorer.EXE, 3304
+
+2015-02-05 00:46:56, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 3412
+
+2015-02-05 00:46:57, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\concentr.exe, 3424
+
+2015-02-05 00:46:58, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\redirector.exe, 3440
+
+2015-02-05 00:47:00, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\UdaterUI.exe, 3448
+
+2015-02-05 00:47:01, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\Receiver\Receiver.exe, 3580
+
+2015-02-05 00:47:03, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Novell\Messenger\NMCL32.exe, 3616
+
+2015-02-05 00:47:04, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\McTray.exe, 2148
+
+2015-02-05 00:47:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\SearchIndexer.exe, 1112
+
+2015-02-05 00:47:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\wfcrun32.exe, 1544
+
+2015-02-05 00:47:09, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\SelfServicePlugin\SelfServicePlugin.exe, 4120
+
+2015-02-05 00:47:11, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Windows Media Player\wmpnetwk.exe, 5032
+
+2015-02-05 00:47:12, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\SHSTAT.EXE, 5096
+
+2015-02-05 00:47:13, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 5244
+
+2015-02-05 00:47:15, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\sppsvc.exe, 4964
+
+2015-02-05 00:47:16, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 3684
+
+2015-02-05 00:47:17, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\apnmcp.exe, 5552
+
+2015-02-05 00:47:18, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\unsecapp.exe, 5984
+
+2015-02-05 00:47:20, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Users\user\AppData\Local\AskPartnerNetwork\Toolbar\Updater\IDC\IdcLdr.exe, 2372
+
+2015-02-05 00:47:21, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\Updater\TBNotifier.exe, 3692
+
+2015-02-05 00:47:23, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grr.exe, 7892
+
+2015-02-05 00:47:24, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 8188
+
+2015-02-05 00:47:25, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 6832
+
+2015-02-05 00:47:27, WIN-M4BNKTIO76D, PE_file, yaramem, Z:\ivalenzuela\github\aboutsecurity\rastrea2r\rastrea2r_server_v01\rastrea2r_server.exe, 6340
+
+2015-02-05 00:47:28, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 4700
+
+2015-02-05 00:47:29, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 3576
+
+2015-02-05 00:47:30, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 7732
+

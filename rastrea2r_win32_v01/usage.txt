@@ -1,0 +1,9 @@
+usage: rastrea2r_win32.exe yara-mem [-h] [-s] server rule
+
+positional arguments:
+  server        rastrea2r REST server
+  rule          Yara rule on REST server
+
+optional arguments:
+  -h, --help    show this help message and exit
+  -s, --silent  Suppresses standard output
