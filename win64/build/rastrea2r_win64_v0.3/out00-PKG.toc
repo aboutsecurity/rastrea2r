@@ -1,0 +1,11 @@
+('Z:\\ivalenzuela\\github\\aboutsecurity\\rastrea2r\\win64\\build\\rastrea2r_win64_v0.3\\out00-PKG.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1},
+ [('out00-PYZ.pyz', 'Z:\\ivalenzuela\\github\\aboutsecurity\\rastrea2r\\win64\\build\\rastrea2r_win64_v0.3\\out00-PYZ.pyz', 'PYZ'), ('struct', 'C:\\Python27\\lib\\struct.pyc', 'PYMODULE'), ('pyi_os_path', 'C:\\Python27\\lib\\site-packages\\PyInstaller\\loader\\pyi_os_path.pyc', 'PYMODULE'), ('pyi_archive', 'C:\\Python27\\lib\\site-packages\\PyInstaller\\loader\\pyi_archive.pyc', 'PYMODULE'), ('pyi_importers', 'C:\\Python27\\lib\\site-packages\\PyInstaller\\loader\\pyi_importers.pyc', 'PYMODULE'), ('_pyi_bootstrap', 'C:\\Python27\\lib\\site-packages\\PyInstaller\\loader\\_pyi_bootstrap.py', 'PYSOURCE'), ('pyi_carchive', 'C:\\Python27\\lib\\site-packages\\PyInstaller\\loader\\pyi_carchive.py', 'PYSOURCE'), ('rastrea2r_win64_v0.3', 'rastrea2r_win64_v0.3.py', 'PYSOURCE'), ('rastrea2r_win64_v0.3.exe.manifest', 'Z:\\ivalenzuela\\github\\aboutsecurity\\rastrea2r\\win64\\build\\rastrea2r_win64_v0.3\\rastrea2r_win64_v0.3.exe.manifest', 'BINARY')],
+ True,
+ None,
+ False)
