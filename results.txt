@@ -1,548 +1,2174 @@
-2015-02-04 22:12:50
+2015-02-08 17:05:57, FIXNETIX-139, fixlondon_zbot, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgnsa.exe, 3232
 
-2015-02-04 22:13:25, WIN-M4BNKTIO76D
+2015-02-08 17:05:59, FIXNETIX-139, fixlondon_zbot, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgcsrva.exe, 3836
 
-2015-02-04 22:13:26, WIN-M4BNKTIO76D
+2015-02-08 17:06:20, FIXNETIX-139, fixlondon_zbot, yaramem, C:\Windows\system32\conhost.exe, 6804
 
-2015-02-04 22:14:02, WIN-M4BNKTIO76D, PE_file
+2015-02-08 17:08:52, FIXNETIX-165, fixlondon_zbot, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgnsa.exe, 2756
 
-2015-02-04 22:14:03, WIN-M4BNKTIO76D, PE_file
+2015-02-08 17:08:54, FIXNETIX-165, fixlondon_zbot, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgcsrva.exe, 3384
 
-2015-02-04 22:14:21, WIN-M4BNKTIO76D, PE_file
+2015-02-08 17:09:32, FIXNETIX-165, fixlondon_zbot, yaramem, C:\windows\system32\conhost.exe, 4988
 
-2015-02-04 22:14:31, WIN-M4BNKTIO76D, PE_file,yaramem
+2015-02-08 17:12:34, FIXNETIX-315, fixlondon_zbot, yaramem, C:\Program Files\Trend Micro\AMSP\coreServiceShell.exe, 1928
 
-2015-02-04 22:14:32, WIN-M4BNKTIO76D, PE_file,yaramem
+2015-02-08 17:12:49, FIXNETIX-315, fixlondon_zbot, yaramem, C:\Windows\system32\conhost.exe, 4536
 
-2015-02-04 22:14:33, WIN-M4BNKTIO76D, PE_file,yaramem
+2015-02-08 17:29:52, FIXNETIX-082, fixlondon_zbot, yaramem, C:\Program Files\AVG\AVG2013\avgnsx.exe, 3156
 
-2015-02-04 22:14:36, WIN-M4BNKTIO76D, PE_file,yaramem
+2015-02-08 17:29:55, FIXNETIX-082, fixlondon_zbot, yaramem, C:\Program Files\AVG\AVG2013\avgcsrvx.exe, 3428
 
-2015-02-04 22:15:31, WIN-M4BNKTIO76D, PE_file, yaramem, None
+2015-02-08 17:30:20, FIXNETIX-082, fixlondon_zbot, yaramem, C:\Windows\system32\conhost.exe, 2008
 
-2015-02-04 22:15:33, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe
+2015-02-08 17:47:37, FIXNETIX-309, fixlondon_zbot, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgnsa.exe, 2148
 
-2015-02-04 22:15:36, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wininit.exe
+2015-02-08 17:47:50, FIXNETIX-309, fixlondon_zbot, yaramem, C:\windows\system32\conhost.exe, 1716
 
-2015-02-04 22:15:47, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe
+2015-02-09 14:18:21, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgcsrva.exe, 336
 
-2015-02-04 22:17:26, WIN-M4BNKTIO76D, PE_file, yaramem, None, 312
+2015-02-09 14:18:21, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\wininit.exe, 600
 
-2015-02-04 22:17:27, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 412
+2015-02-09 14:18:22, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\services.exe, 652
 
-2015-02-04 22:17:28, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wininit.exe, 500
+2015-02-09 14:18:23, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\lsass.exe, 668
 
-2015-02-04 22:17:29, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 508
+2015-02-09 14:18:23, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\lsm.exe, 676
 
-2015-02-04 22:17:31, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\services.exe, 560
+2015-02-09 14:18:23, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\svchost.exe, 792
 
-2015-02-04 22:17:32, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsass.exe, 576
+2015-02-09 14:18:23, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\winlogon.exe, 852
 
-2015-02-04 22:17:33, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsm.exe, 584
+2015-02-09 14:18:23, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\svchost.exe, 916
 
-2015-02-04 22:17:34, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\winlogon.exe, 644
+2015-02-09 14:18:24, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\System32\svchost.exe, 964
 
-2015-02-04 22:17:35, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 732
+2015-02-09 14:18:25, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\System32\svchost.exe, 500
 
-2015-02-04 22:17:37, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 812
+2015-02-09 14:18:26, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\svchost.exe, 544
 
-2015-02-04 22:17:38, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 904
+2015-02-09 14:18:26, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\svchost.exe, 596
 
-2015-02-04 22:17:39, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 944
+2015-02-09 14:18:26, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\svchost.exe, 1096
 
-2015-02-04 22:17:41, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 984
+2015-02-09 14:18:27, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\svchost.exe, 1284
 
-2015-02-04 22:17:43, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1008
+2015-02-09 14:18:27, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\System32\spoolsv.exe, 1408
 
-2015-02-04 22:17:44, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1284
+2015-02-09 14:18:27, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\svchost.exe, 1444
 
-2015-02-04 22:17:45, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\spoolsv.exe, 1408
+2015-02-09 14:18:28, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, c:\Program Files (x86)\Common Files\Adobe\ARM\1.0\armsvc.exe, 1556
 
-2015-02-04 22:17:46, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1436
+2015-02-09 14:18:31, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgidsagent.exe, 1580
 
-2015-02-04 22:17:48, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 1496
+2015-02-09 14:18:32, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgwdsvc.exe, 1612
 
-2015-02-04 22:17:49, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Adobe\ARM\1.0\armsvc.exe, 1568
+2015-02-09 14:18:32, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files\ShrewSoft\VPN Client\iked.exe, 1676
 
-2015-02-04 22:17:50, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1616
+2015-02-09 14:18:32, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files\ShrewSoft\VPN Client\ipsecd.exe, 1732
 
-2015-02-04 22:17:52, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Juniper Networks\Common Files\dsNcService.exe, 1648
+2015-02-09 14:18:32, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\msiexec.exe, 1812
 
-2015-02-04 22:17:53, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grrservice.exe, 1716
+2015-02-09 14:18:33, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files\Powwownow Plugin for Outlook\UpdaterService.exe, 1864
 
-2015-02-04 22:17:54, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Juniper Networks\JUNS\dsAccessService.exe, 1764
+2015-02-09 14:18:34, FIXNETIX-185, Malware_Cridex_Component, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgnsa.exe, 1308
 
-2015-02-04 22:17:55, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\FrameworkService.exe, 1816
+2015-02-09 14:18:34, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgemca.exe, 1548
 
-2015-02-04 22:17:57, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\VsTskMgr.exe, 1884
+2015-02-09 14:18:34, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\svchost.exe, 2072
 
-2015-02-04 22:17:58, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\mfevtps.exe, 1916
+2015-02-09 14:18:34, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\Soda PDF 6\creator-ws.exe, 2176
 
-2015-02-04 22:18:00, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Microsoft.NET\Framework\v4.0.30319\SMSvcHost.exe, 1936
+2015-02-09 14:18:35, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files\TightVNC\tvnserver.exe, 2328
 
-2015-02-04 22:18:01, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\mfeann.exe, 1972
+2015-02-09 14:18:35, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\svchost.exe, 2796
 
-2015-02-04 22:18:02, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 1988
+2015-02-09 14:18:37, FIXNETIX-185, crime_cridex_memory, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgcsrva.exe, 2920
 
-2015-02-04 22:18:04, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\naPrdMgr.exe, 404
+2015-02-09 14:18:37, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\taskhost.exe, 208
 
-2015-02-04 22:18:05, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe, 684
+2015-02-09 14:18:39, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\Dwm.exe, 2324
 
-2015-02-04 22:18:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 888
+2015-02-09 14:18:40, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\Explorer.EXE, 1272
 
-2015-02-04 22:18:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 1184
+2015-02-09 14:18:40, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files\TightVNC\tvnserver.exe, 3216
 
-2015-02-04 22:18:09, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 408
+2015-02-09 14:18:41, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files\Windows Sidebar\sidebar.exe, 3264
 
-2015-02-04 22:18:10, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\McAfee\SystemCore\mcshield.exe, 1948
+2015-02-09 14:18:42, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\Microsoft Office\Office14\MSOSYNC.EXE, 3276
 
-2015-02-04 22:18:12, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\VMware\USB\vmware-usbarbitrator.exe, 2112
+2015-02-09 14:18:43, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\Driver Support\Driver Support\DriverSupport.exe, 3336
 
-2015-02-04 22:18:13, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 2428
+2015-02-09 14:18:43, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Windows\System32\rundll32.exe, 3344
 
-2015-02-04 22:18:14, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 2620
+2015-02-09 14:18:48, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\TechSmith\Snagit 11\Snagit32.exe, 3396
 
-2015-02-04 22:18:16, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\msdtc.exe, 2892
+2015-02-09 14:18:48, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\Microsoft Office\Office14\ONENOTEM.EXE, 3404
 
-2015-02-04 22:18:17, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\taskhost.exe, 3032
+2015-02-09 14:18:49, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgui.exe, 3688
 
-2015-02-04 22:18:21, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\Dwm.exe, 3268
+2015-02-09 14:18:50, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\TechSmith\Snagit 11\TSCHelp.exe, 3956
 
-2015-02-04 22:18:25, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Explorer.EXE, 3304
+2015-02-09 14:18:50, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\TechSmith\Snagit 11\SnagPriv.exe, 3976
 
-2015-02-04 22:18:27, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 3412
+2015-02-09 14:18:52, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\SearchIndexer.exe, 3412
 
-2015-02-04 22:18:28, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\concentr.exe, 3424
+2015-02-09 14:18:54, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\TechSmith\Snagit 11\snagiteditor.exe, 672
 
-2015-02-04 22:18:29, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\redirector.exe, 3440
+2015-02-09 14:18:54, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\splwow64.exe, 3056
 
-2015-02-04 22:18:31, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\UdaterUI.exe, 3448
+2015-02-09 14:18:54, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\cmd.exe, 3132
 
-2015-02-04 22:18:32, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\Receiver\Receiver.exe, 3580
+2015-02-09 14:18:55, FIXNETIX-185, Malware_Cridex_Generic2, yaramem, C:\windows\system32\conhost.exe, 3920
 
-2015-02-04 22:18:34, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Novell\Messenger\NMCL32.exe, 3616
+2015-02-09 14:58:19, FIXNETIX-LT508, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgcsrva.exe, 676
 
-2015-02-04 22:18:35, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\McTray.exe, 2148
+2015-02-09 14:58:26, FIXNETIX-LT508, Malware_Cridex_Component, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgnsa.exe, 2284
 
-2015-02-04 22:18:37, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\SearchIndexer.exe, 1112
+2015-02-09 14:58:31, FIXNETIX-LT508, crime_cridex_memory, yaramem, C:\Program Files (x86)\AVG\AVG2013\avgcsrva.exe, 3944
 
-2015-02-04 22:18:38, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\wfcrun32.exe, 1544
+2015-02-09 14:58:35, FIXNETIX-LT508, Malware_Cridex_Generic2, yaramem, C:\Program Files\Common Files\McAfee\AMCore\mcshield.exe, 5296
 
-2015-02-04 22:18:40, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\SelfServicePlugin\SelfServicePlugin.exe, 4120
+2015-02-09 14:58:43, FIXNETIX-LT508, Malware_Cridex_Generic2, yaramem, C:\Windows\Explorer.EXE, 1892
 
-2015-02-04 22:18:41, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Windows Media Player\wmpnetwk.exe, 5032
+2015-02-09 14:58:47, FIXNETIX-LT508, Malware_Cridex_Generic2, yaramem, C:\Dolby PCEE4\pcee4.exe, 2904
 
-2015-02-04 22:18:43, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\SHSTAT.EXE, 5096
+2015-02-09 14:58:51, FIXNETIX-LT508, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\Bluetooth Suite\BtTray.exe, 6404
 
-2015-02-04 22:18:44, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 5244
+2015-02-09 14:58:51, FIXNETIX-LT508, Malware_Cridex_Generic2, yaramem, C:\Program Files (x86)\Bluetooth Suite\BtvStack.exe, 8068
 
-2015-02-04 22:18:45, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\sppsvc.exe, 4964
+2015-02-09 14:58:53, FIXNETIX-LT508, Malware_Cridex_Generic2, yaramem, C:\Program Files\Acer\Acer Instant Service\InstantUpdate\iuEmailOutlookAgent.exe, 704
 
-2015-02-04 22:18:47, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 3684
+2015-02-09 14:58:55, FIXNETIX-LT508, Malware_Cridex_Generic2, yaramem, C:\Program Files\Acer\Acer Instant Service\InstantUpdate\iuBrowserIEAgent.exe, 144
 
-2015-02-04 22:18:48, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\apnmcp.exe, 5552
+2015-02-09 14:59:02, FIXNETIX-LT508, Malware_Cridex_Generic2, yaramem, C:\Users\shaunj\AppData\Local\Microsoft\Windows\Temporary Internet Files\Content.IE5\ZN5CTBXY\getsusp.exe, 7912
 
-2015-02-04 22:18:49, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\unsecapp.exe, 5984
+2015-02-10 12:29:55, WIN8-TEST, dridex_tempfiles, yaramem, C:\Windows\System32\conhost.exe, 3512
 
-2015-02-04 22:18:51, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Users\user\AppData\Local\AskPartnerNetwork\Toolbar\Updater\IDC\IdcLdr.exe, 2372
+2015-02-10 12:29:56, WIN8-TEST, dridex_tempfiles, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 3948
 
-2015-02-04 22:18:52, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\Updater\TBNotifier.exe, 3692
+2015-02-10 13:48:26, WIN8-TEST, dridex_tempfiles, yaramem, C:\Windows\System32\conhost.exe, 3512
 
-2015-02-04 22:18:53, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 428
+2015-02-10 13:48:26, WIN8-TEST, dridex_tempfiles, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 3948
 
-2015-02-04 22:18:54, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 3080
+2015-02-10 13:50:46, WIN8-TEST, dridex_tempfiles, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 3948
 
-2015-02-04 22:18:56, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\ntvdm.exe, 7428
+2015-02-10 13:52:18, WIN8-TEST, Malware_Cridex_Component, yaramem, C:\Windows\System32\conhost.exe, 4352
 
-2015-02-04 22:18:57, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 916
+2015-02-10 13:54:39, WIN8-TEST, Malware_Cridex_Component, yaramem, C:\Windows\System32\conhost.exe, 4352
 
-2015-02-04 22:18:58, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 3712
+2015-02-10 13:59:31, WIN8-TEST, Malware_Cridex_Component, yaramem, C:\Windows\System32\conhost.exe, 4352
 
-2015-02-04 22:19:00, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Internet Explorer\iexplore.exe, 6220
+2015-02-10 14:01:09, WIN8-TEST, Malware_Cridex_Component, yaramem, C:\Windows\System32\conhost.exe, 4352
 
-2015-02-04 22:19:03, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Internet Explorer\iexplore.exe, 3340
+2015-02-10 14:01:31, WIN8-TEST, Malware_Cridex_Component, yaramem, C:\Windows\System32\conhost.exe, 4352
 
-2015-02-04 22:19:05, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grr.exe, 7892
+2015-02-10 14:01:52, WIN8-TEST, Malware_Cridex_Generic2, yaramem, C:\Windows\System32\wbem\WmiPrvSE.exe, 3160
 
-2015-02-04 22:19:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 3720
+2015-02-10 14:01:54, WIN8-TEST, Malware_Cridex_Component, yaramem, C:\Windows\System32\conhost.exe, 4352
 
-2015-02-04 22:19:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Python27\python.exe, 468
+2015-02-10 14:02:15, WIN8-TEST, Malware_Cridex_Generic2, yaramem, C:\Windows\System32\wbem\WmiPrvSE.exe, 3160
 
-2015-02-04 22:20:05, WIN-M4BNKTIO76D, PE_file, yaradisk, ./suspicious.yara
+2015-02-10 14:02:17, WIN8-TEST, Malware_Cridex_Component, yaramem, C:\Windows\System32\conhost.exe, 4352
 
-2015-02-04 22:20:07, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\01\12eba29ffd2ea17bf68559b6823936c8f521ad
+2015-02-10 14:02:40, WIN8-TEST, Malware_Cridex_Component, yaramem, C:\Windows\System32\conhost.exe, 4352
 
-2015-02-04 22:20:08, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\11\1dc56a791acc4b2d360b4b153c9a4eed57c23a
+2015-02-10 14:03:02, WIN8-TEST, Malware_Cridex_Component, yaramem, C:\Windows\System32\conhost.exe, 4352
 
-2015-02-04 22:20:09, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\39\9173ab0fc44906516861ee2fb546d8dafcfa33
+2015-02-10 14:03:25, WIN8-TEST, Malware_Cridex_Component, yaramem, C:\Windows\System32\conhost.exe, 4352
 
-2015-02-04 22:20:10, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\3e\03d9009edc17a3ed043b44ccabc57bb7e4ae12
+2015-02-10 14:03:25, WIN8-TEST, malicious_url, yaramem, C:\rastrea2r_win64\rastrea2r_win64.exe, 4224
 
-2015-02-04 22:20:11, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\65\b7888c61df39d59ff6a8042fef7172cf1a39c2
+2015-02-11 07:19:57, spooks.local, PE_file, yaramem, /sbin/launchd, 1
 
-2015-02-04 22:20:13, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\70\b5e84333fb0bc764427bb73cc80a2c40bae7de
+2015-02-11 07:20:00, spooks.local, PE_file, yaramem, /usr/sbin/syslogd, 16
 
-2015-02-04 22:20:14, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\a5\84ea2834493f10d1d40cf680b70175e095e409
+2015-02-11 07:20:04, spooks.local, PE_file, yaramem, /usr/libexec/UserEventAgent, 17
 
-2015-02-04 22:20:15, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\b0\22cad69acbad42f12c4cf9891a0ba3aeca56cf
+2015-02-11 07:20:07, spooks.local, PE_file, yaramem, /usr/libexec/kextd, 19
 
-2015-02-04 22:20:17, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_ctypes.pyd
+2015-02-11 07:20:11, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd, 20
 
-2015-02-04 22:20:18, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_hashlib.pyd
+2015-02-11 07:20:14, spooks.local, PE_file, yaramem, /opt/cisco/anyconnect/bin/vpnagentd, 22
 
-2015-02-04 22:20:19, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_socket.pyd
+2015-02-11 07:20:17, spooks.local, PE_file, yaramem, /usr/local/McAfee/AntiMalware/VShieldUpdate, 23
 
-2015-02-04 22:20:20, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_ssl.pyd
+2015-02-11 07:20:20, spooks.local, PE_file, yaramem, /usr/libexec/thermald, 24
 
-2015-02-04 22:20:21, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\bz2.pyd
+2015-02-11 07:20:23, spooks.local, PE_file, yaramem, /System/Library/CoreServices/backupd.bundle/Contents/Resources/mtmd, 25
 
-2015-02-04 22:20:22, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\pyexpat.pyd
+2015-02-11 07:20:27, spooks.local, PE_file, yaramem, /opt/cisco/hostscan/bin/ciscod, 26
 
-2015-02-04 22:20:24, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\python27.dll
+2015-02-11 07:20:30, spooks.local, PE_file, yaramem, /System/Library/CoreServices/appleeventsd, 28
 
-2015-02-04 22:20:25, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\rastrea2r.exe
+2015-02-11 07:20:33, spooks.local, PE_file, yaramem, /usr/libexec/configd, 29
 
-2015-02-04 22:20:26, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\select.pyd
+2015-02-11 07:20:36, spooks.local, PE_file, yaramem, /System/Library/CoreServices/powerd.bundle/powerd, 30
 
-2015-02-04 22:20:27, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\unicodedata.pyd
+2015-02-11 07:20:39, spooks.local, PE_file, yaramem, /Library/Application Support/BlackBerry/tunmgr, 33
 
-2015-02-04 22:20:28, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\w9xpopen.exe
+2015-02-11 07:20:42, spooks.local, PE_file, yaramem, /usr/libexec/airportd, 34
 
-2015-02-04 22:20:29, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\yara.pyd
+2015-02-11 07:20:46, spooks.local, PE_file, yaramem, /usr/libexec/warmd, 36
 
-2015-02-04 22:20:30, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\yararest.exe
+2015-02-11 07:20:53, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mds, 37
 
-2015-02-04 22:20:31, WIN-M4BNKTIO76D, PE_file, yaradisk, ./rules\suspicious.yara
+2015-02-11 07:20:57, spooks.local, PE_file, yaramem, /System/Library/CoreServices/iconservicesd, 41
 
-2015-02-04 22:20:55, WIN-M4BNKTIO76D, PE_file, yaradisk, ./suspicious.yara
+2015-02-11 07:21:05, spooks.local, PE_file, yaramem, /System/Library/CoreServices/iconservicesagent, 42
 
-2015-02-04 22:20:57, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\01\12eba29ffd2ea17bf68559b6823936c8f521ad
+2015-02-11 07:21:08, spooks.local, PE_file, yaramem, /usr/libexec/diskarbitrationd, 43
 
-2015-02-04 22:20:58, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\11\1dc56a791acc4b2d360b4b153c9a4eed57c23a
+2015-02-11 07:21:12, spooks.local, PE_file, yaramem, /usr/libexec/coreduetd, 46
 
-2015-02-04 22:20:59, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\39\9173ab0fc44906516861ee2fb546d8dafcfa33
+2015-02-11 07:21:15, spooks.local, PE_file, yaramem, /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper, 47
 
-2015-02-04 22:21:00, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\3e\03d9009edc17a3ed043b44ccabc57bb7e4ae12
+2015-02-11 07:21:17, spooks.local, PE_file, yaramem, /Applications/Junos Pulse.app/Contents/Plugins/JUNS/dsAccessService, 48
 
-2015-02-04 22:21:01, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\65\b7888c61df39d59ff6a8042fef7172cf1a39c2
+2015-02-11 07:21:20, spooks.local, PE_file, yaramem, /usr/libexec/wdhelper, 50
 
-2015-02-04 22:21:02, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\70\b5e84333fb0bc764427bb73cc80a2c40bae7de
+2015-02-11 07:21:23, spooks.local, PE_file, yaramem, /System/Library/CoreServices/backupd.bundle/Contents/Resources/mtmfs, 52
 
-2015-02-04 22:21:03, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\a5\84ea2834493f10d1d40cf680b70175e095e409
+2015-02-11 07:21:27, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd, 53
 
-2015-02-04 22:21:05, WIN-M4BNKTIO76D, PE_file, yaradisk, ./.git\objects\b0\22cad69acbad42f12c4cf9891a0ba3aeca56cf
+2015-02-11 07:21:29, spooks.local, PE_file, yaramem, /Library/Application Support/BlackBerry/BBDaemon, 54
 
-2015-02-04 22:21:07, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_ctypes.pyd
+2015-02-11 07:21:32, spooks.local, PE_file, yaramem, /usr/local/McAfee/AntiMalware/VShieldScanner, 55
 
-2015-02-04 22:21:08, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_hashlib.pyd
+2015-02-11 07:21:36, spooks.local, PE_file, yaramem, /usr/libexec/opendirectoryd, 56
 
-2015-02-04 22:21:09, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_socket.pyd
+2015-02-11 07:21:39, spooks.local, PE_file, yaramem, /usr/sbin/wirelessproxd, 57
 
-2015-02-04 22:21:10, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\_ssl.pyd
+2015-02-11 07:21:43, spooks.local, PE_file, yaramem, /usr/libexec/discoveryd, 59
 
-2015-02-04 22:21:11, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\bz2.pyd
+2015-02-11 07:21:46, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/ApplePushService.framework/apsd, 60
 
-2015-02-04 22:21:12, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\pyexpat.pyd
+2015-02-11 07:21:49, spooks.local, PE_file, yaramem, /System/Library/CoreServices/launchservicesd, 62
 
-2015-02-04 22:21:13, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\python27.dll
+2015-02-11 07:21:52, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd, 63
 
-2015-02-04 22:21:14, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\rastrea2r.exe
+2015-02-11 07:21:55, spooks.local, PE_file, yaramem, /usr/sbin/securityd, 64
 
-2015-02-04 22:21:15, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\select.pyd
+2015-02-11 07:21:59, spooks.local, PE_file, yaramem, /usr/libexec/locationd, 66
 
-2015-02-04 22:21:16, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\unicodedata.pyd
+2015-02-11 07:22:02, spooks.local, PE_file, yaramem, /usr/libexec/autofsd, 69
 
-2015-02-04 22:21:17, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\w9xpopen.exe
+2015-02-11 07:22:05, spooks.local, PE_file, yaramem, /usr/sbin/blued, 70
 
-2015-02-04 22:21:18, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\yara.pyd
+2015-02-11 07:22:07, spooks.local, PE_file, yaramem, /usr/local/McAfee/fmp/bin/fmpd, 71
 
-2015-02-04 22:21:19, WIN-M4BNKTIO76D, PE_file, yaradisk, ./dist\yararest.exe
+2015-02-11 07:22:10, spooks.local, PE_file, yaramem, /usr/local/McAfee/AntiMalware/VShieldScanManager, 75
 
-2015-02-04 22:21:20, WIN-M4BNKTIO76D, PE_file, yaradisk, ./rules\suspicious.yara
+2015-02-11 07:22:13, spooks.local, PE_file, yaramem, /usr/libexec/stackshot, 76
 
-2015-02-04 22:22:03, WIN-M4BNKTIO76D, PE_file, yaramem, None, 312
+2015-02-11 07:22:16, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond, 77
 
-2015-02-04 22:22:05, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 412
+2015-02-11 07:22:23, spooks.local, PE_file, yaramem, /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow, 78
 
-2015-02-04 22:22:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wininit.exe, 500
+2015-02-11 07:22:25, spooks.local, PE_file, yaramem, /System/Library/CoreServices/logind, 79
 
-2015-02-04 22:22:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 508
+2015-02-11 07:22:28, spooks.local, PE_file, yaramem, /usr/sbin/KernelEventAgent, 80
 
-2015-02-04 22:22:08, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\services.exe, 560
+2015-02-11 07:22:31, spooks.local, PE_file, yaramem, /usr/libexec/hidd, 82
 
-2015-02-04 22:22:10, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsass.exe, 576
+2015-02-11 07:22:32, spooks.local, PE_file, yaramem, /Library/McAfee/cma/bin/launchcma, 83
 
-2015-02-04 22:22:11, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsm.exe, 584
+2015-02-11 07:22:35, spooks.local, PE_file, yaramem, /usr/libexec/amfid, 84
 
-2015-02-04 22:22:12, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\winlogon.exe, 644
+2015-02-11 07:22:39, spooks.local, PE_file, yaramem, /usr/libexec/taskgated, 85
 
-2015-02-04 22:22:13, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 732
+2015-02-11 07:22:42, spooks.local, PE_file, yaramem, /usr/sbin/notifyd, 86
 
-2015-02-04 22:22:14, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 812
+2015-02-11 07:22:44, spooks.local, PE_file, yaramem, /usr/sbin/distnoted, 87
 
-2015-02-04 22:22:16, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 904
+2015-02-11 07:22:48, spooks.local, PE_file, yaramem, /usr/libexec/diagnosticd, 92
 
-2015-02-04 22:22:17, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 944
+2015-02-11 07:22:52, spooks.local, PE_file, yaramem, /usr/sbin/cfprefsd, 93
 
-2015-02-04 22:22:19, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 984
+2015-02-11 07:22:55, spooks.local, PE_file, yaramem, /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd, 95
 
-2015-02-04 22:22:21, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1008
+2015-02-11 07:22:59, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/Support/coreservicesd, 101
 
-2015-02-04 22:22:22, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1284
+2015-02-11 07:23:03, spooks.local, PE_file, yaramem, /System/Library/Frameworks/PCSC.framework/Versions/A/XPCServices/com.apple.ctkpcscd.xpc/Contents/MacOS/com.apple.ctkpcscd, 105
 
-2015-02-04 22:22:23, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\spoolsv.exe, 1408
+2015-02-11 07:24:11, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreGraphics.framework/Versions/A/Resources/WindowServer, 121
 
-2015-02-04 22:22:25, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1436
+2015-02-11 07:24:14, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CryptoTokenKit.framework/ctkd, 122
 
-2015-02-04 22:22:26, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 1496
+2015-02-11 07:24:18, spooks.local, PE_file, yaramem, /usr/libexec/secinitd, 123
 
-2015-02-04 22:22:27, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Adobe\ARM\1.0\armsvc.exe, 1568
+2015-02-11 07:24:21, spooks.local, PE_file, yaramem, /usr/libexec/findmydeviced, 124
 
-2015-02-04 22:22:28, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1616
+2015-02-11 07:24:24, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd, 126
 
-2015-02-04 22:22:30, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Juniper Networks\Common Files\dsNcService.exe, 1648
+2015-02-11 07:24:27, spooks.local, PE_file, yaramem, /usr/libexec/nsurlstoraged, 127
 
-2015-02-04 22:22:31, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grrservice.exe, 1716
+2015-02-11 07:24:30, spooks.local, PE_file, yaramem, /usr/libexec/nsurlsessiond, 129
 
-2015-02-04 22:22:32, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Juniper Networks\JUNS\dsAccessService.exe, 1764
+2015-02-11 07:24:33, spooks.local, PE_file, yaramem, /usr/libexec/nehelper, 130
 
-2015-02-04 22:22:33, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\FrameworkService.exe, 1816
+2015-02-11 07:24:36, spooks.local, PE_file, yaramem, /usr/sbin/ntpd, 131
 
-2015-02-04 22:22:35, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\VsTskMgr.exe, 1884
+2015-02-11 07:24:39, spooks.local, PE_file, yaramem, /usr/libexec/usbd, 132
 
-2015-02-04 22:22:36, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\mfevtps.exe, 1916
+2015-02-11 07:24:42, spooks.local, PE_file, yaramem, /usr/libexec/networkd, 133
 
-2015-02-04 22:22:38, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Microsoft.NET\Framework\v4.0.30319\SMSvcHost.exe, 1936
+2015-02-11 07:24:43, spooks.local, PE_file, yaramem, /usr/sbin/cron, 135
 
-2015-02-04 22:22:39, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\mfeann.exe, 1972
+2015-02-11 07:24:46, spooks.local, PE_file, yaramem, /System/Library/CryptoTokenKit/com.apple.ifdreader.slotd/Contents/MacOS/com.apple.ifdreader, 136
 
-2015-02-04 22:22:40, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 1988
+2015-02-11 07:24:49, spooks.local, PE_file, yaramem, /usr/libexec/corestoraged, 139
 
-2015-02-04 22:22:42, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\naPrdMgr.exe, 404
+2015-02-11 07:24:53, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/VDC.plugin/Contents/Resources/VDCAssistant, 140
 
-2015-02-04 22:22:43, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe, 684
+2015-02-11 07:24:55, spooks.local, PE_file, yaramem, /usr/libexec/sysmond, 141
 
-2015-02-04 22:22:44, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 888
+2015-02-11 07:24:58, spooks.local, PE_file, yaramem, /usr/libexec/networkd_privileged, 142
 
-2015-02-04 22:22:45, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 1184
+2015-02-11 07:25:00, spooks.local, PE_file, yaramem, /usr/libexec/discoveryd_helper, 148
 
-2015-02-04 22:22:47, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 408
+2015-02-11 07:25:30, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mds_stores, 152
 
-2015-02-04 22:22:49, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\McAfee\SystemCore\mcshield.exe, 1948
+2015-02-11 07:25:33, spooks.local, PE_file, yaramem, /System/Library/CoreServices/CrashReporterSupportHelper, 161
 
-2015-02-04 22:22:50, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\VMware\USB\vmware-usbarbitrator.exe, 2112
+2015-02-11 07:25:37, spooks.local, PE_file, yaramem, /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer, 163
 
-2015-02-04 22:22:51, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 2428
+2015-02-11 07:25:40, spooks.local, PE_file, yaramem, /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper, 174
 
-2015-02-04 22:22:52, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 2620
+2015-02-11 07:25:41, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/_CodeSignature/CodeResources
 
-2015-02-04 22:22:54, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\msdtc.exe, 2892
+2015-02-11 07:25:41, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/AcroExt/AcroExt.app/Contents/MacOS/AcroExt
 
-2015-02-04 22:22:55, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\taskhost.exe, 3032
+2015-02-11 07:25:42, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/AcroForm.acroplugin/Contents/MacOS/AcroForm
 
-2015-02-04 22:22:59, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\Dwm.exe, 3268
+2015-02-11 07:25:42, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/AcroForm.acroplugin/Contents/Resources/en.lproj/Navigators/FormsDataCollection.nav
 
-2015-02-04 22:23:02, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Explorer.EXE, 3304
+2015-02-11 07:25:42, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/AcroForm.acroplugin/Contents/Resources/es.lproj/Navigators/FormsDataCollection.nav
 
-2015-02-04 22:23:04, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 3412
+2015-02-11 07:25:42, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/Comments.acroplugin/Contents/MacOS/Comments
 
-2015-02-04 22:23:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\concentr.exe, 3424
+2015-02-11 07:25:42, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/Comments.acroplugin/Contents/Resources/en.lproj/10509.swf
 
-2015-02-04 22:23:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\redirector.exe, 3440
+2015-02-11 07:25:42, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/Comments.acroplugin/Contents/Resources/en.lproj/20000.pdf
 
-2015-02-04 22:23:08, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\UdaterUI.exe, 3448
+2015-02-11 07:25:42, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/Comments.acroplugin/Contents/Resources/en.lproj/Primary.zbin
 
-2015-02-04 22:23:10, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\Receiver\Receiver.exe, 3580
+2015-02-11 07:25:42, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/Comments.acroplugin/Stamps/ESP/Standard.pdf
 
-2015-02-04 22:23:11, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Novell\Messenger\NMCL32.exe, 3616
+2015-02-11 07:25:42, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/DigSig.acroplugin/Contents/MacOS/DigSig
 
-2015-02-04 22:23:12, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\McTray.exe, 2148
+2015-02-11 07:25:43, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/EScript.acroplugin/Contents/MacOS/EScript
 
-2015-02-04 22:23:14, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\SearchIndexer.exe, 1112
+2015-02-11 07:25:43, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/MakeAccessible.acroplugin/Contents/MacOS/MakeAccessible
 
-2015-02-04 22:23:15, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\wfcrun32.exe, 1544
+2015-02-11 07:25:43, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/Multimedia.acroplugin/Contents/MacOS/Multimedia
 
-2015-02-04 22:23:17, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\SelfServicePlugin\SelfServicePlugin.exe, 4120
+2015-02-11 07:25:43, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper, 185
 
-2015-02-04 22:23:19, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Windows Media Player\wmpnetwk.exe, 5032
+2015-02-11 07:25:43, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/PPKLite.acroplugin/Contents/MacOS/PPKLite
 
-2015-02-04 22:23:20, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\SHSTAT.EXE, 5096
+2015-02-11 07:25:43, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/PPKLite.acroplugin/Contents/Resources/en.lproj/Primary.zbin
 
-2015-02-04 22:23:22, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 5244
+2015-02-11 07:25:44, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/SaveAsRTF.acroplugin/Contents/MacOS/SaveAsRTF
 
-2015-02-04 22:23:23, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\sppsvc.exe, 4964
+2015-02-11 07:25:44, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/Search.acroplugin/Contents/MacOS/Search
 
-2015-02-04 22:23:24, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 3684
+2015-02-11 07:25:44, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/SendMail.acroplugin/Contents/MacOS/SendMail
 
-2015-02-04 22:23:26, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\apnmcp.exe, 5552
+2015-02-11 07:25:44, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Built-in/Spelling.acroplugin/Contents/MacOS/Spelling
 
-2015-02-04 22:23:27, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\unsecapp.exe, 5984
+2015-02-11 07:25:45, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/Acrobat.framework/Acrobat
 
-2015-02-04 22:23:28, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Users\user\AppData\Local\AskPartnerNetwork\Toolbar\Updater\IDC\IdcLdr.exe, 2372
+2015-02-11 07:25:46, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/AcroExt Helper EH.app/Contents/MacOS/AcroExt Helper EH
 
-2015-02-04 22:23:29, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\Updater\TBNotifier.exe, 3692
+2015-02-11 07:25:46, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/AcroExt Helper NP.app/Contents/MacOS/AcroExt Helper NP
 
-2015-02-04 22:23:31, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 428
+2015-02-11 07:25:46, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/AcroExt helper.app/Contents/MacOS/AcroExt Helper
 
-2015-02-04 22:23:32, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 3080
+2015-02-11 07:25:46, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/Adobe3D.framework/Versions/A/Frameworks/Adobe2D.x3d/Adobe2D
 
-2015-02-04 22:23:33, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\ntvdm.exe, 7428
+2015-02-11 07:25:46, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/Adobe3D.framework/Versions/A/Frameworks/Adobe2D.x3d/Versions/A/Adobe2D
 
-2015-02-04 22:23:34, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 916
+2015-02-11 07:25:46, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/Adobe3D.framework/Versions/A/Frameworks/AdobePRC.x3d/AdobePRC
 
-2015-02-04 22:23:36, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 3712
+2015-02-11 07:25:46, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/Adobe3D.framework/Versions/A/Frameworks/AdobePRC.x3d/Versions/A/AdobePRC
 
-2015-02-04 22:23:37, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Internet Explorer\iexplore.exe, 6220
+2015-02-11 07:25:47, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/AdobeACE.framework/AdobeACE
 
-2015-02-04 22:23:40, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Internet Explorer\iexplore.exe, 3340
+2015-02-11 07:25:47, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/AdobeACE.framework/Versions/A/AdobeACE
 
-2015-02-04 22:23:42, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grr.exe, 7892
+2015-02-11 07:25:47, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/AdobeAGM.framework/AdobeAGM
 
-2015-02-04 22:23:43, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 3720
+2015-02-11 07:25:47, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/AdobeAGM.framework/Versions/A/AdobeAGM
 
-2015-02-04 22:23:44, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Python27\python.exe, 468
+2015-02-11 07:25:47, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/AdobeAXE8SharedExpat.framework/AdobeAXE8SharedExpat
 
-2015-02-04 22:27:43, WIN-M4BNKTIO76D, PE_file, yaramem, None, 312
+2015-02-11 07:25:47, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/AdobeAXE8SharedExpat.framework/Versions/A/AdobeAXE8SharedExpat
 
-2015-02-04 22:27:44, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 412
+2015-02-11 07:25:47, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/AdobeExtendScript.framework/AdobeExtendScript
 
-2015-02-04 22:27:46, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wininit.exe, 500
+2015-02-11 07:25:48, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/AdobeExtendScript.framework/Versions/A/AdobeExtendScript
 
-2015-02-04 22:27:47, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 508
+2015-02-11 07:25:48, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/AdobeJP2K.framework/AdobeJP2K
 
-2015-02-04 22:27:48, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\services.exe, 560
+2015-02-11 07:25:48, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/AdobeJP2K.framework/Versions/A/AdobeJP2K
 
-2015-02-04 22:27:49, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsass.exe, 576
+2015-02-11 07:25:49, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/Chromium Embedded Framework.framework/Resources/cef.pak
 
-2015-02-04 22:27:50, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsm.exe, 584
+2015-02-11 07:25:50, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/ICUData.framework/Versions/4.0/libicudata.40.0.dylib
 
-2015-02-04 22:27:52, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\winlogon.exe, 644
+2015-02-11 07:25:50, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Frameworks/pe.framework/Versions/A/pe
 
-2015-02-04 22:27:53, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 732
+2015-02-11 07:25:50, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/MacOS/Updater/Adobe Reader Updater Helper.app/Contents/MacOS/Adobe Reader Updater Helper
 
-2015-02-04 22:27:54, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 812
+2015-02-11 07:25:50, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/MacOS/Updater/Adobe Reader Updater.app/Contents/Library/LaunchServices/com.adobe.ARM.SMJobBlessHelper
 
-2015-02-04 22:27:55, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 904
+2015-02-11 07:25:50, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Resources/A_SecSet_N.icns
 
-2015-02-04 22:27:57, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 944
+2015-02-11 07:25:50, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Resources/ACP_PDF.icns
 
-2015-02-04 22:27:58, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 984
+2015-02-11 07:25:50, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Resources/ACP_PxDF.icns
 
-2015-02-04 22:28:00, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1008
+2015-02-11 07:25:50, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Resources/ACP_XDP.icns
 
-2015-02-04 22:28:01, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1284
+2015-02-11 07:25:50, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Resources/ACP_XFD.icns
 
-2015-02-04 22:28:02, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\spoolsv.exe, 1408
+2015-02-11 07:25:50, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Resources/PDFSigQFormalRep.pdf
 
-2015-02-04 22:28:04, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1436
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Resources/Resource/Font/MinionPro-Regular.otf
 
-2015-02-04 22:28:05, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 1496
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Resources/Services/DEXEchoSign.spi
 
-2015-02-04 22:28:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Adobe\ARM\1.0\armsvc.exe, 1568
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Resources/Services/DEXShare.spi
 
-2015-02-04 22:28:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1616
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Resources/Services/files.acx
 
-2015-02-04 22:28:09, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Juniper Networks\Common Files\dsNcService.exe, 1648
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Resources/Services/Services.cfg
 
-2015-02-04 22:28:10, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grrservice.exe, 1716
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Resources/swf/10002.swf
 
-2015-02-04 22:28:11, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Juniper Networks\JUNS\dsAccessService.exe, 1764
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Resources/swf/10003.swf
 
-2015-02-04 22:28:12, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\FrameworkService.exe, 1816
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Resources/swf/10005.swf
 
-2015-02-04 22:28:14, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\VsTskMgr.exe, 1884
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Adobe Reader.app/Contents/Support/AdobeResourceSynchronizer.app/Contents/MacOS/AdobeResourceSynchronizer
 
-2015-02-04 22:28:15, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\mfevtps.exe, 1916
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/App Store.app/Contents/Resources/appStore.icns
 
-2015-02-04 22:28:17, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Microsoft.NET\Framework\v4.0.30319\SMSvcHost.exe, 1936
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/index.html
 
-2015-02-04 22:28:18, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\mfeann.exe, 1972
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/App Store.app/Contents/Resources/AppStore.help/Contents/Resources/GlobalArt/AppLanding_AppStore.png
 
-2015-02-04 22:28:19, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 1988
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Armitage.app/Contents/Resources/aquaicon2.icns
 
-2015-02-04 22:28:20, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\naPrdMgr.exe, 404
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Armitage.app/Contents/Resources/Java/armitage.jar
 
-2015-02-04 22:28:22, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe, 684
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/Automator.icns
 
-2015-02-04 22:28:23, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 888
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/AutomatorAction.icns
 
-2015-02-04 22:28:24, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 1184
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/AutomatorApplet.icns
 
-2015-02-04 22:28:25, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 408
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/AutomatorConversionAction.icns
 
-2015-02-04 22:28:27, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\McAfee\SystemCore\mcshield.exe, 1948
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/AutomatorDefinition.icns
 
-2015-02-04 22:28:28, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\VMware\USB\vmware-usbarbitrator.exe, 2112
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/AutomatorDocument.icns
 
-2015-02-04 22:28:30, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 2428
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/AutomatorService.icns
 
-2015-02-04 22:28:31, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 2620
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/HUD-Progress-Dark.pdf
 
-2015-02-04 22:28:32, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\msdtc.exe, 2892
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/HUD-Progress-Dim.pdf
 
-2015-02-04 22:28:34, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\taskhost.exe, 3032
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/HUD_BTN_TRANS-StopNorm.pdf
 
-2015-02-04 22:28:38, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\Dwm.exe, 3268
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/HUD_BTN_TRANS-StopPressed.pdf
 
-2015-02-04 22:28:41, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Explorer.EXE, 3304
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/StepTemplate.pdf
 
-2015-02-04 22:28:43, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 3412
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/Application Stub.app/Contents/Resources/AutomatorApplet.icns
 
-2015-02-04 22:28:44, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\concentr.exe, 3424
+2015-02-11 07:25:51, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/Automator.help/Contents/Resources/index.html
 
-2015-02-04 22:28:45, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\redirector.exe, 3440
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Automator.app/Contents/Resources/Automator.help/Contents/Resources/GlobalArt/AppLanding_Automator.png
 
-2015-02-04 22:28:47, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\UdaterUI.exe, 3448
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Brother/Utilities/BRAdminLight/BRAdmin Light.jar
 
-2015-02-04 22:28:48, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\Receiver\Receiver.exe, 3580
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calculator.app/Contents/_CodeSignature/CodeResources
 
-2015-02-04 22:28:49, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Novell\Messenger\NMCL32.exe, 3616
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calculator.app/Contents/Resources/AppIcon.icns
 
-2015-02-04 22:28:51, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\McTray.exe, 2148
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calculator.app/Contents/Resources/Calculator.help/Contents/Resources/index.html
 
-2015-02-04 22:28:52, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\SearchIndexer.exe, 1112
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/MacOS/Calendar
 
-2015-02-04 22:28:54, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\wfcrun32.exe, 1544
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/App-empty.icns
 
-2015-02-04 22:28:55, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\SelfServicePlugin\SelfServicePlugin.exe, 4120
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/App.icns
 
-2015-02-04 22:28:57, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Windows Media Player\wmpnetwk.exe, 5032
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/Calendar_Publish.pdf
 
-2015-02-04 22:28:58, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\SHSTAT.EXE, 5096
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/diagonal_2_dark.pdf
 
-2015-02-04 22:29:00, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 5244
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/diagonal_2_dark_light.pdf
 
-2015-02-04 22:29:01, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\sppsvc.exe, 4964
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/diagonal_2_light.pdf
 
-2015-02-04 22:29:02, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 3684
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/diagonal_2_light_light.pdf
 
-2015-02-04 22:29:04, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\apnmcp.exe, 5552
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/diagonal_light.pdf
 
-2015-02-04 22:29:05, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\unsecapp.exe, 5984
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/diagonal_medium_light.pdf
 
-2015-02-04 22:29:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Users\user\AppData\Local\AskPartnerNetwork\Toolbar\Updater\IDC\IdcLdr.exe, 2372
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/GlyphInvites.pdf
 
-2015-02-04 22:29:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\Updater\TBNotifier.exe, 3692
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/icbu.icns
 
-2015-02-04 22:29:09, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 428
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/ics.icns
 
-2015-02-04 22:29:10, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 3080
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/Locations.pdf
 
-2015-02-04 22:29:11, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\ntvdm.exe, 7428
+2015-02-11 07:25:52, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/vcs.icns
 
-2015-02-04 22:29:12, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 916
+2015-02-11 07:25:53, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/ar.lproj/PrintPanel.nib
 
-2015-02-04 22:29:13, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 3712
+2015-02-11 07:25:53, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/Base.lproj/MainMenu.nib
 
-2015-02-04 22:29:15, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Internet Explorer\iexplore.exe, 6220
+2015-02-11 07:25:53, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/ca.lproj/InspectorViews.nib
 
-2015-02-04 22:29:18, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Internet Explorer\iexplore.exe, 3340
+2015-02-11 07:25:53, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/Calendar.docktileplugin/Contents/Resources/App-empty.icns
 
-2015-02-04 22:29:20, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grr.exe, 7892
+2015-02-11 07:25:53, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/da.lproj/PrintPanel.nib
 
-2015-02-04 22:29:21, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 3720
+2015-02-11 07:25:53, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/English.lproj/PreferencesPanel.nib
 
-2015-02-04 22:29:22, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Python27\python.exe, 468
+2015-02-11 07:25:53, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/fi.lproj/RecInspector.nib
 
-2015-02-04 22:29:23, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\NOTEPAD.EXE, 6744
+2015-02-11 07:25:53, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/hu.lproj/RecInspector.nib
+
+2015-02-11 07:25:53, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/iCal.help/Contents/Resources/index.html
+
+2015-02-11 07:25:54, spooks.local, PE_file, yaradisk, /Applications/Calendar.app/Contents/Resources/vi.lproj/PrintPanel.nib
+
+2015-02-11 07:25:54, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/_CodeSignature/CodeResources
+
+2015-02-11 07:25:54, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Frameworks/libCSMediaLib.dylib
+
+2015-02-11 07:25:54, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Frameworks/libCSMediaLibParser.dylib
+
+2015-02-11 07:25:54, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Frameworks/libSmartFocusCmds.dylib
+
+2015-02-11 07:25:54, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Frameworks/GData.framework/GData
+
+2015-02-11 07:25:54, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Frameworks/GData.framework/Versions/A/GData
+
+2015-02-11 07:25:55, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Frameworks/mc_enc_avc.framework/mc_enc_avc
+
+2015-02-11 07:25:55, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Frameworks/mc_enc_avc.framework/Versions/9/mc_enc_avc
+
+2015-02-11 07:25:55, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Frameworks/mc_mux_mp4.framework/mc_mux_mp4
+
+2015-02-11 07:25:55, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Frameworks/mc_mux_mp4.framework/Versions/9/mc_mux_mp4
+
+2015-02-11 07:25:55, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Frameworks/RegionSelector.framework/RegionSelector
+
+2015-02-11 07:25:55, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Frameworks/RegionSelector.framework/Versions/A/RegionSelector
+
+2015-02-11 07:25:55, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Frameworks/RegionSelector.framework/Versions/A/Resources/SnagitMagnifier.tiff
+
+2015-02-11 07:25:55, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Frameworks/SBJson.framework/SBJson
+
+2015-02-11 07:25:55, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Frameworks/SBJson.framework/Versions/A/SBJson
+
+2015-02-11 07:25:55, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/MacOS/Camtasia 2
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/blackLargeKey.png
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/blackMediumKey.png
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/blackSmallKey.png
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/camproj.icns
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/camrec.icns
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/CamtasiaEditorIcon.icns
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Captions_Preview.png
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Captions_Preview@2x.png
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ClipSpeed.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ColorAdjustment.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Colorize.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/CountdownWindow@2x.png
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Custom.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Default_Export_Settings_3g.plist
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Default_Export_Settings_aiff.plist
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Default_Export_Settings_au.plist
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Default_Export_Settings_avi.plist
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Default_Export_Settings_mov.plist
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Default_Export_Settings_mpeg4.plist
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Default_Export_Settings_wav.plist
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/FadeIn.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/FadeInFadeOut.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/FlyInFlyOut.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/FreezeRegion.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Glow.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Hotspot.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/iconKeystroke@2x.png
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/iPhone_5_white_Vertical.png
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/LeftClickScope.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/LeftClickWarp.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/MacBookAir_2010_Vertical_2048.png
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Mask.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/PresetRecord.png
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/RegKeyTopImage.png
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/RemoveAColor.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/RightClickWarp.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/RotateInRotateOut.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ScaleTo100.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ScaleToFit.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ScreencastHeader.png
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/SlideInSlideOut.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/SmartFocus.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/SmartFocusAtTime.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/Spotlight.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/TiltLeft.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/TiltRight.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/WindowSpotlight.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ZoomInZoomOut.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ZoomOut.mov
+
+2015-02-11 07:25:56, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/camtasia-ad.jpg
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/camtasia-ad@2x.jpg
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/Camtasia2_Help.helpindex
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/640x360-final.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/640x480-final.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/callouts-examples.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/campreview.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/canvas.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/Clip 1.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/connection-name.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/extend-duration.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/eyedropper-selection.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/freeze-1.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/freeze-2.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/marker-global.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/marker-media.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/mask-2.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/recicon.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/shapes.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/sharehistory-facebookdialog.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/sharehistory-window.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/spotlight-hero.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/system-audio-2.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/systemcolorpicker.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/timeline-tracks.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/trim.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Camtasia2_Help/gfx/watermark-examplesm.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Einführungsprojekt.cmproj/media/1381837342.135653/Sterne.png
+
+2015-02-11 07:25:57, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Einführungsprojekt.cmproj/recordings/1381837342.135220/Aufnahme Bildschirm.cmrec/camera.mov
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/Einführungsprojekt.cmproj/recordings/1381837342.135220/Aufnahme Bildschirm.cmrec/screen.mov
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/GettingStarted/images/background-getting-started-offline.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/GettingStarted/images/background-getting-started.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/GettingStarted/images/background-tutorial-viewer-offline.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/de.lproj/TutorialViewer/images/background_offline.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/camtasia-ad.jpg
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/camtasia-ad@2x.jpg
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Spotlight.nib
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/640x360-final.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/640x480-final.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/callout1.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/callouts-examples.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/campreview.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/canvas.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/cc.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/Clip 1.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/colorslider.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/connection-name.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/easing.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/freeze-1.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/freeze-2.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/mask-2.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/microphone-alternative2.png
+
+2015-02-11 07:25:58, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/open.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/recicon.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/shapes.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/sharehistory-window.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/spotlight-hero.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/system-audio-2.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/systemcolorpicker.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/track.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/Camtasia2_Help/gfx/watermark-examplesm.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/GettingStarted/images/background-getting-started-offline.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/GettingStarted/images/background-getting-started.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/GettingStarted/images/background-help.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/GettingStarted/images/background-tutorial-viewer-offline.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/GettingStarted/images/background-tutorial-viewer.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/GettingStarted/images/background.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/GettingStarted.cmproj/media/ProjFileList.xml
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/GettingStarted.cmproj/media/1366782197.902194/stars.png
+
+2015-02-11 07:25:59, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/GettingStarted.cmproj/recordings/1366782197.900471/Rec 04-22-13 6.cmrec/camera.mov
+
+2015-02-11 07:26:00, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/GettingStarted.cmproj/recordings/1366782197.900471/Rec 04-22-13 6.cmrec/screen.mov
+
+2015-02-11 07:26:00, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/en.lproj/TutorialViewer/images/background_offline.png
+
+2015-02-11 07:26:00, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ExportSettings/Animation.24bit.AACAudio64kbps44.1kHzMono.plist
+
+2015-02-11 07:26:00, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ExportSettings/Animation.24bit.PCMAudio16bit.plist
+
+2015-02-11 07:26:00, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ExportSettings/EnSharpen.24bit.AACAudio64kbps44.1kHzMono.plist
+
+2015-02-11 07:26:00, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ExportSettings/MOV.h264.high.SinglePass.AAC.44.1kHz.mono.plist
+
+2015-02-11 07:26:00, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ExportSettings/MOVNoVideoAACAudio64kbps44.1kHzMono.plist
+
+2015-02-11 07:26:00, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ExportSettings/MP4NoVideoAACAudio64kbps44.1kHzMono.plist
+
+2015-02-11 07:26:00, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ExportSettings/MP4SinglePassh264mp4.plist
+
+2015-02-11 07:26:00, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ExportSettings/MP4VideoPassThroughAACAudio.plist
+
+2015-02-11 07:26:00, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/ExportSettings/MP4VideoPassThroughAACAudio96kb44kHz.plist
+
+2015-02-11 07:26:00, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/iZAudioRestoreAUHook.component/Contents/Resources/iZAudioRestore.bundle/Contents/MacOS/iZAudioRestore
+
+2015-02-11 07:26:00, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/iZAudioRestoreAUHook.component/Contents/Resources/iZAudioRestore.bundle/Contents/Resources/resources.resembed
+
+2015-02-11 07:26:00, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/smartplayer/Template_Player.html
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/smartplayer/tsc_player.swf
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/smartplayer/scripts/techsmith-smart-player.min.js
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/Resources/smartplayer/skins/overlay/techsmith-smart-player.min.css
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/SharedSupport/Assets/1.0/Skinny Arrow.pdf
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Camtasia 2.app/Contents/SharedSupport/Assets/1.0/Speech Bubble.pdf
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Canon Utilities/IJ Network Tool/Canon IJ Network Tool.app/Contents/_CodeSignature/CodeResources
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Canon Utilities/IJ Network Tool/Canon IJ Network Tool.app/Contents/MacOS/Canon IJ Network Tool
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Canon Utilities/IJ Network Tool/Canon IJ Network Tool.app/Contents/Resources/App.icns
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Canon Utilities/IJ Network Tool/Canon IJ Network Tool.app/Contents/Resources/indicator_level_5.tif
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Canon Utilities/IJ Network Tool/Canon IJ Network Tool.app/Contents/Resources/English.lproj/DetailSetting.nib
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Canon Utilities/IJ Network Tool/Canon IJ Network Tool.app/Contents/Resources/French.lproj/Maintenance.nib
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Canon Utilities/IJ Network Tool/Canon IJ Network Tool.app/Contents/Resources/pt.lproj/Maintenance.nib
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/embedded.provisionprofile
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Chess.icns
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Game.icns
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Moves.icns
+
+2015-02-11 07:26:01, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Chess.help/Contents/Resources/index.html
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Styles/Fur/WhitePiece.png
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Styles/Grass/BlackBoard.png
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Styles/Grass/WhiteBoard.png
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Styles/Marble/Border.png
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Styles/Marble/WhiteBoard.png
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Styles/Marble/WhitePiece.png
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Styles/Metal/BlackBoard.png
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Styles/Metal/BlackPiece.png
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Styles/Metal/Border.png
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Styles/Metal/WhiteBoard.png
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Styles/Metal/WhitePiece.png
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/Chess.app/Contents/Resources/Styles/Wood/Border.png
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/CMake 2.8-11.app/Contents/bin/ccmake
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/CMake 2.8-11.app/Contents/bin/cmake
+
+2015-02-11 07:26:02, spooks.local, PE_file, yaradisk, /Applications/CMake 2.8-11.app/Contents/bin/cmake-gui
+
+2015-02-11 07:26:03, spooks.local, PE_file, yaradisk, /Applications/CMake 2.8-11.app/Contents/bin/cpack
+
+2015-02-11 07:26:03, spooks.local, PE_file, yaradisk, /Applications/CMake 2.8-11.app/Contents/bin/ctest
+
+2015-02-11 07:26:03, spooks.local, PE_file, yaradisk, /Applications/CMake 2.8-11.app/Contents/Frameworks/QtCore.framework/Versions/4/QtCore
+
+2015-02-11 07:26:04, spooks.local, PE_file, yaradisk, /Applications/CMake 2.8-11.app/Contents/Frameworks/QtGui.framework/Versions/4/QtGui
+
+2015-02-11 07:26:04, spooks.local, PE_file, yaradisk, /Applications/CMake 2.8-11.app/Contents/MacOS/CMake 2.8-11
+
+2015-02-11 07:26:04, spooks.local, PE_file, yaradisk, /Applications/CMake 2.8-11.app/Contents/Resources/CMakeSetup.icns
+
+2015-02-11 07:26:04, spooks.local, PE_file, yaradisk, /Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CMakeDetermineCompilerId.cmake
+
+2015-02-11 07:26:04, spooks.local, PE_file, yaradisk, /Applications/CMake 2.8-11.app/Contents/share/cmake-2.8/Modules/CPack.background.png.in
+
+2015-02-11 07:26:18, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated, 194
+
+2015-02-11 07:26:21, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/Resources/suhelperd, 195
+
+2015-02-11 07:26:23, spooks.local, PE_file, yaramem, /usr/libexec/watchdogd, 225
+
+2015-02-11 07:26:26, spooks.local, PE_file, yaramem, /Library/McAfee/cma/bin/cma, 226
+
+2015-02-11 07:26:30, spooks.local, PE_file, yaramem, /usr/local/McAfee/AppProtection/bin/appProtd, 241
+
+2015-02-11 07:26:32, spooks.local, PE_file, yaramem, /usr/local/McAfee/StatefulFirewall/bin/StatefulFirewall, 257
+
+2015-02-11 07:26:35, spooks.local, PE_file, yaramem, /usr/local/McAfee/AntiMalware/VShieldService, 262
+
+2015-02-11 07:26:39, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/TCC.framework/Versions/A/Resources/tccd, 289
+
+2015-02-11 07:26:42, spooks.local, PE_file, yaramem, /usr/libexec/securityd_service, 293
+
+2015-02-11 07:26:45, spooks.local, PE_file, yaramem, /usr/libexec/UserEventAgent, 294
+
+2015-02-11 07:26:48, spooks.local, PE_file, yaramem, /usr/sbin/distnoted, 296
+
+2015-02-11 07:26:52, spooks.local, PE_file, yaramem, /usr/sbin/universalaccessd, 297
+
+2015-02-11 07:26:55, spooks.local, PE_file, yaramem, /usr/sbin/cfprefsd, 298
+
+2015-02-11 07:27:07, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock, 301
+
+2015-02-11 07:27:12, spooks.local, PE_file, yaramem, /sbin/launchd, 1
+
+2015-02-11 07:27:12, spooks.local, PE_file, yaramem, /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer, 303
+
+2015-02-11 07:27:15, spooks.local, PE_file, yaramem, /usr/sbin/syslogd, 16
+
+2015-02-11 07:27:15, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CacheDelete.framework/deleted, 305
+
+2015-02-11 07:27:18, spooks.local, PE_file, yaramem, /usr/libexec/UserEventAgent, 17
+
+2015-02-11 07:27:19, spooks.local, PE_file, yaramem, /usr/sbin/coreaudiod, 306
+
+2015-02-11 07:27:22, spooks.local, PE_file, yaramem, /usr/libexec/kextd, 19
+
+2015-02-11 07:27:22, spooks.local, PE_file, yaramem, /System/Library/CoreServices/backupd.bundle/Contents/Resources/TMCacheDelete, 307
+
+2015-02-11 07:27:24, spooks.local, PE_file, yaramem, /usr/sbin/pboard, 309
+
+2015-02-11 07:27:26, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd, 20
+
+2015-02-11 07:27:27, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreAudio.framework/Versions/A/XPCServices/com.apple.audio.DriverHelper.xpc/Contents/MacOS/com.apple.audio.DriverHelper, 312
+
+2015-02-11 07:27:29, spooks.local, PE_file, yaramem, /opt/cisco/anyconnect/bin/vpnagentd, 22
+
+2015-02-11 07:27:31, spooks.local, PE_file, yaramem, /usr/libexec/sharingd, 316
+
+2015-02-11 07:27:31, spooks.local, PE_file, yaramem, /usr/local/McAfee/AntiMalware/VShieldUpdate, 23
+
+2015-02-11 07:27:34, spooks.local, PE_file, yaramem, /usr/libexec/thermald, 24
+
+2015-02-11 07:27:34, spooks.local, PE_file, yaramem, /usr/libexec/pkd, 318
+
+2015-02-11 07:27:37, spooks.local, PE_file, yaramem, /System/Library/CoreServices/backupd.bundle/Contents/Resources/mtmd, 25
+
+2015-02-11 07:27:38, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/TCC.framework/Versions/A/Resources/tccd, 319
+
+2015-02-11 07:27:41, spooks.local, PE_file, yaramem, /opt/cisco/hostscan/bin/ciscod, 26
+
+2015-02-11 07:27:41, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird, 321
+
+2015-02-11 07:27:44, spooks.local, PE_file, yaramem, /System/Library/CoreServices/appleeventsd, 28
+
+2015-02-11 07:27:44, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd, 322
+
+2015-02-11 07:33:08, spooks.local, PE_file, yaramem, /sbin/launchd, 1
+
+2015-02-11 07:33:11, spooks.local, PE_file, yaramem, /usr/sbin/syslogd, 16
+
+2015-02-11 07:33:14, spooks.local, PE_file, yaramem, /usr/libexec/UserEventAgent, 17
+
+2015-02-11 07:33:18, spooks.local, PE_file, yaramem, /usr/libexec/kextd, 19
+
+2015-02-11 07:33:22, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd, 20
+
+2015-02-11 07:33:25, spooks.local, PE_file, yaramem, /opt/cisco/anyconnect/bin/vpnagentd, 22
+
+2015-02-11 07:33:27, spooks.local, PE_file, yaramem, /usr/local/McAfee/AntiMalware/VShieldUpdate, 23
+
+2015-02-11 07:33:30, spooks.local, PE_file, yaramem, /usr/libexec/thermald, 24
+
+2015-02-11 07:33:33, spooks.local, PE_file, yaramem, /System/Library/CoreServices/backupd.bundle/Contents/Resources/mtmd, 25
+
+2015-02-11 07:33:37, spooks.local, PE_file, yaramem, /opt/cisco/hostscan/bin/ciscod, 26
+
+2015-02-11 07:33:40, spooks.local, PE_file, yaramem, /System/Library/CoreServices/appleeventsd, 28
+
+2015-02-11 07:33:46, spooks.local, PE_file, yaramem, /System/Library/CoreServices/powerd.bundle/powerd, 30
+
+2015-02-11 07:33:49, spooks.local, PE_file, yaramem, /Library/Application Support/BlackBerry/tunmgr, 33
+
+2015-02-11 07:33:53, spooks.local, PE_file, yaramem, /usr/libexec/airportd, 34
+
+2015-02-11 07:33:56, spooks.local, PE_file, yaramem, /usr/libexec/warmd, 36
+
+2015-02-11 07:34:03, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mds, 37
+
+2015-02-11 07:34:06, spooks.local, PE_file, yaramem, /System/Library/CoreServices/iconservicesd, 41
+
+2015-02-11 07:34:18, spooks.local, PE_file, yaramem, /usr/libexec/diskarbitrationd, 43
+
+2015-02-11 07:34:21, spooks.local, PE_file, yaramem, /usr/libexec/coreduetd, 46
+
+2015-02-11 07:34:24, spooks.local, PE_file, yaramem, /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper, 47
+
+2015-02-11 07:34:27, spooks.local, PE_file, yaramem, /Applications/Junos Pulse.app/Contents/Plugins/JUNS/dsAccessService, 48
+
+2015-02-11 07:34:30, spooks.local, PE_file, yaramem, /usr/libexec/wdhelper, 50
+
+2015-02-11 07:34:33, spooks.local, PE_file, yaramem, /System/Library/CoreServices/backupd.bundle/Contents/Resources/mtmfs, 52
+
+2015-02-11 07:34:36, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd, 53
+
+2015-02-11 07:34:39, spooks.local, PE_file, yaramem, /Library/Application Support/BlackBerry/BBDaemon, 54
+
+2015-02-11 07:34:41, spooks.local, PE_file, yaramem, /usr/local/McAfee/AntiMalware/VShieldScanner, 55
+
+2015-02-11 07:34:45, spooks.local, PE_file, yaramem, /usr/libexec/opendirectoryd, 56
+
+2015-02-11 07:34:48, spooks.local, PE_file, yaramem, /usr/sbin/wirelessproxd, 57
+
+2015-02-11 07:34:51, spooks.local, PE_file, yaramem, /usr/libexec/discoveryd, 59
+
+2015-02-11 07:34:55, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/ApplePushService.framework/apsd, 60
+
+2015-02-11 07:34:58, spooks.local, PE_file, yaramem, /System/Library/CoreServices/launchservicesd, 62
+
+2015-02-11 07:35:01, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd, 63
+
+2015-02-11 07:35:04, spooks.local, PE_file, yaramem, /usr/sbin/securityd, 64
+
+2015-02-11 07:35:08, spooks.local, PE_file, yaramem, /usr/libexec/locationd, 66
+
+2015-02-11 07:35:10, spooks.local, PE_file, yaramem, /usr/libexec/autofsd, 69
+
+2015-02-11 07:35:13, spooks.local, PE_file, yaramem, /usr/sbin/blued, 70
+
+2015-02-11 07:35:16, spooks.local, PE_file, yaramem, /usr/local/McAfee/fmp/bin/fmpd, 71
+
+2015-02-11 07:35:18, spooks.local, PE_file, yaramem, /usr/local/McAfee/AntiMalware/VShieldScanManager, 75
+
+2015-02-11 07:35:21, spooks.local, PE_file, yaramem, /usr/libexec/stackshot, 76
+
+2015-02-11 07:35:25, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond, 77
+
+2015-02-11 07:35:30, spooks.local, PE_file, yaramem, /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow, 78
+
+2015-02-11 07:35:33, spooks.local, PE_file, yaramem, /System/Library/CoreServices/logind, 79
+
+2015-02-11 07:35:35, spooks.local, PE_file, yaramem, /usr/sbin/KernelEventAgent, 80
+
+2015-02-11 07:35:38, spooks.local, PE_file, yaramem, /usr/libexec/hidd, 82
+
+2015-02-11 07:35:39, spooks.local, PE_file, yaramem, /Library/McAfee/cma/bin/launchcma, 83
+
+2015-02-11 07:35:42, spooks.local, PE_file, yaramem, /usr/libexec/amfid, 84
+
+2015-02-11 07:35:46, spooks.local, PE_file, yaramem, /usr/libexec/taskgated, 85
+
+2015-02-11 08:11:33, spooks.local, PE_file, yaramem, /usr/sbin/notifyd, 86
+
+2015-02-11 08:11:36, spooks.local, PE_file, yaramem, /usr/sbin/distnoted, 87
+
+2015-02-11 08:11:40, spooks.local, PE_file, yaramem, /usr/libexec/diagnosticd, 92
+
+2015-02-11 08:11:43, spooks.local, PE_file, yaramem, /usr/sbin/cfprefsd, 93
+
+2015-02-11 08:11:56, spooks.local, PE_file, yaramem, /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd, 95
+
+2015-02-11 08:12:20, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/Support/coreservicesd, 101
+
+2015-02-11 08:12:23, spooks.local, PE_file, yaramem, /System/Library/Frameworks/PCSC.framework/Versions/A/XPCServices/com.apple.ctkpcscd.xpc/Contents/MacOS/com.apple.ctkpcscd, 105
+
+2015-02-11 08:13:11, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreGraphics.framework/Versions/A/Resources/WindowServer, 121
+
+2015-02-11 08:13:13, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CryptoTokenKit.framework/ctkd, 122
+
+2015-02-11 08:13:16, spooks.local, PE_file, yaramem, /usr/libexec/secinitd, 123
+
+2015-02-11 08:13:20, spooks.local, PE_file, yaramem, /usr/libexec/findmydeviced, 124
+
+2015-02-11 08:13:22, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd, 126
+
+2015-02-11 08:13:25, spooks.local, PE_file, yaramem, /usr/libexec/nsurlstoraged, 127
+
+2015-02-11 08:13:28, spooks.local, PE_file, yaramem, /usr/libexec/nsurlsessiond, 129
+
+2015-02-11 08:13:31, spooks.local, PE_file, yaramem, /usr/libexec/nehelper, 130
+
+2015-02-11 08:13:34, spooks.local, PE_file, yaramem, /usr/sbin/ntpd, 131
+
+2015-02-11 08:13:37, spooks.local, PE_file, yaramem, /usr/libexec/usbd, 132
+
+2015-02-11 08:13:40, spooks.local, PE_file, yaramem, /usr/libexec/networkd, 133
+
+2015-02-11 08:13:42, spooks.local, PE_file, yaramem, /usr/sbin/cron, 135
+
+2015-02-11 08:13:45, spooks.local, PE_file, yaramem, /System/Library/CryptoTokenKit/com.apple.ifdreader.slotd/Contents/MacOS/com.apple.ifdreader, 136
+
+2015-02-11 08:13:47, spooks.local, PE_file, yaramem, /usr/libexec/corestoraged, 139
+
+2015-02-11 08:13:51, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/VDC.plugin/Contents/Resources/VDCAssistant, 140
+
+2015-02-11 08:13:54, spooks.local, PE_file, yaramem, /usr/libexec/sysmond, 141
+
+2015-02-11 08:13:57, spooks.local, PE_file, yaramem, /usr/libexec/networkd_privileged, 142
+
+2015-02-11 08:13:59, spooks.local, PE_file, yaramem, /usr/libexec/discoveryd_helper, 148
+
+2015-02-11 08:14:30, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mds_stores, 152
+
+2015-02-11 08:14:33, spooks.local, PE_file, yaramem, /System/Library/CoreServices/CrashReporterSupportHelper, 161
+
+2015-02-11 08:14:37, spooks.local, PE_file, yaramem, /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer, 163
+
+2015-02-11 08:14:40, spooks.local, PE_file, yaramem, /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper, 174
+
+2015-02-11 08:14:43, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper, 185
+
+2015-02-11 08:15:18, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated, 194
+
+2015-02-11 08:15:21, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/Resources/suhelperd, 195
+
+2015-02-11 08:15:24, spooks.local, PE_file, yaramem, /usr/libexec/watchdogd, 225
+
+2015-02-11 08:15:27, spooks.local, PE_file, yaramem, /Library/McAfee/cma/bin/cma, 226
+
+2015-02-11 08:15:30, spooks.local, PE_file, yaramem, /usr/local/McAfee/AppProtection/bin/appProtd, 241
+
+2015-02-11 08:15:33, spooks.local, PE_file, yaramem, /usr/local/McAfee/StatefulFirewall/bin/StatefulFirewall, 257
+
+2015-02-11 08:15:36, spooks.local, PE_file, yaramem, /usr/local/McAfee/AntiMalware/VShieldService, 262
+
+2015-02-11 08:15:39, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/TCC.framework/Versions/A/Resources/tccd, 289
+
+2015-02-11 08:15:42, spooks.local, PE_file, yaramem, /usr/libexec/securityd_service, 293
+
+2015-02-11 08:15:46, spooks.local, PE_file, yaramem, /usr/libexec/UserEventAgent, 294
+
+2015-02-11 08:15:49, spooks.local, PE_file, yaramem, /usr/sbin/distnoted, 296
+
+2015-02-11 08:15:52, spooks.local, PE_file, yaramem, /usr/sbin/universalaccessd, 297
+
+2015-02-11 08:15:55, spooks.local, PE_file, yaramem, /usr/sbin/cfprefsd, 298
+
+2015-02-11 08:16:07, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock, 301
+
+2015-02-11 08:16:12, spooks.local, PE_file, yaramem, /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer, 303
+
+2015-02-11 08:16:15, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CacheDelete.framework/deleted, 305
+
+2015-02-11 08:16:19, spooks.local, PE_file, yaramem, /usr/sbin/coreaudiod, 306
+
+2015-02-11 08:16:22, spooks.local, PE_file, yaramem, /System/Library/CoreServices/backupd.bundle/Contents/Resources/TMCacheDelete, 307
+
+2015-02-11 08:16:24, spooks.local, PE_file, yaramem, /usr/sbin/pboard, 309
+
+2015-02-11 08:16:27, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreAudio.framework/Versions/A/XPCServices/com.apple.audio.DriverHelper.xpc/Contents/MacOS/com.apple.audio.DriverHelper, 312
+
+2015-02-11 08:16:31, spooks.local, PE_file, yaramem, /usr/libexec/sharingd, 316
+
+2015-02-11 08:16:34, spooks.local, PE_file, yaramem, /usr/libexec/pkd, 318
+
+2015-02-11 08:16:38, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/TCC.framework/Versions/A/Resources/tccd, 319
+
+2015-02-11 08:16:41, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird, 321
+
+2015-02-11 08:16:45, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd, 322
+
+2015-02-11 08:16:48, spooks.local, PE_file, yaramem, /usr/libexec/secd, 323
+
+2015-02-11 08:16:51, spooks.local, PE_file, yaramem, /usr/sbin/usernoted, 328
+
+2015-02-11 08:16:55, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent, 329
+
+2015-02-11 08:16:58, spooks.local, PE_file, yaramem, /Library/Application Support/BlackBerry/BBLaunchAgent.app, 330
+
+2015-02-11 08:17:01, spooks.local, PE_file, yaramem, /usr/libexec/nsurlsessiond, 331
+
+2015-02-11 08:17:04, spooks.local, PE_file, yaramem, /usr/libexec/secinitd, 332
+
+2015-02-11 08:17:09, spooks.local, PE_file, yaramem, /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontd, 334
+
+2015-02-11 08:17:12, spooks.local, PE_file, yaramem, /System/Library/CoreServices/pbs, 335
+
+2015-02-11 08:17:23, spooks.local, PE_file, yaramem, /System/Library/CoreServices/iconservicesagent, 337
+
+2015-02-11 08:17:26, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CalendarAgent.framework/Versions/A/XPCServices/CalNCService.xpc/Contents/MacOS/CalNCService, 338
+
+2015-02-11 08:17:30, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd, 340
+
+2015-02-11 08:17:33, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent, 341
+
+2015-02-11 08:17:37, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent, 342
+
+2015-02-11 08:17:41, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/InternetAccounts.framework/Versions/A/XPCServices/com.apple.internetaccounts.xpc/Contents/MacOS/com.apple.internetaccounts, 343
+
+2015-02-11 08:17:44, spooks.local, PE_file, yaramem, /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd, 345
+
+2015-02-11 08:17:48, spooks.local, PE_file, yaramem, /usr/libexec/fmfd, 346
+
+2015-02-11 08:17:51, spooks.local, PE_file, yaramem, /usr/libexec/sandboxd, 347
+
+2015-02-11 08:17:55, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistorySyncHelper, 349
+
+2015-02-11 08:17:58, spooks.local, PE_file, yaramem, /usr/libexec/nsurlstoraged, 350
+
+2015-02-11 08:18:02, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd, 351
+
+2015-02-11 08:18:05, spooks.local, PE_file, yaramem, /System/Library/CoreServices/lsuseractivityd, 352
+
+2015-02-11 08:18:09, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra, 354
+
+2015-02-11 08:18:12, spooks.local, PE_file, yaramem, /usr/sbin/filecoordinationd, 355
+
+2015-02-11 08:18:17, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/MessagesKit.framework/Versions/A/Resources/soagent.app/Contents/MacOS/soagent, 357
+
+2015-02-11 08:18:20, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper, 358
+
+2015-02-11 08:18:23, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CommunicationsFilter.framework/CMFSyncAgent.app/Contents/MacOS/CMFSyncAgent, 359
+
+2015-02-11 08:18:27, spooks.local, PE_file, yaramem, /Library/Application Support/BlackBerry/BlackBerry-Link-Helper-Agent.app/Contents/MacOS/BlackBerry-Link-Helper-Agent, 363
+
+2015-02-11 08:18:30, spooks.local, PE_file, yaramem, /Library/PreferencePanes/NTFSforMacOSX.prefPane/Contents/MacOS/notificator, 365
+
+2015-02-11 08:18:33, spooks.local, PE_file, yaramem, /Library/Application Support/BlackBerry/PeerManager, 367
+
+2015-02-11 08:18:36, spooks.local, PE_file, yaramem, /usr/libexec/spindump_agent, 368
+
+2015-02-11 08:18:39, spooks.local, PE_file, yaramem, /System/Library/CoreServices/SocialPushAgent.app/Contents/MacOS/SocialPushAgent, 371
+
+2015-02-11 08:18:43, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification, 373
+
+2015-02-11 08:18:49, spooks.local, PE_file, yaramem, /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter, 376
+
+2015-02-11 08:18:52, spooks.local, PE_file, yaramem, /Library/Printers/Brother/Utilities/Server/LOGINserver.app/Contents/MacOS/LOGINserver, 379
+
+2015-02-11 08:18:56, spooks.local, PE_file, yaramem, /System/Library/CoreServices/AppleIDAuthAgent, 380
+
+2015-02-11 08:19:00, spooks.local, PE_file, yaramem, /Applications/GitHub.app/Contents/Library/LoginItems/GitHub Conduit.app/Contents/MacOS/GitHub Conduit, 384
+
+2015-02-11 08:19:04, spooks.local, PE_file, yaramem, /Library/Application Support/McAfee/MSS/Applications/McAfee Reporter.app/Contents/MacOS/McAfee Reporter, 385
+
+2015-02-11 08:19:08, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond, 386
+
+2015-02-11 08:19:09, spooks.local, PE_file, yaramem, /bin/bash, 387
+
+2015-02-11 08:19:13, spooks.local, PE_file, yaramem, /Applications/iPhoto.app/Contents/Library/LoginItems/PhotoStreamAgent.app/Contents/MacOS/PhotoStreamAgent, 388
+
+2015-02-11 08:19:16, spooks.local, PE_file, yaramem, /Users/ivalenzuela/Library/Application Support/Spotify/SpotifyWebHelper, 389
+
+2015-02-11 08:19:19, spooks.local, PE_file, yaramem, /System/Library/CoreServices/cloudpaird, 390
+
+2015-02-11 08:19:24, spooks.local, PE_file, yaramem, /Applications/Junos Pulse.app/Contents/Plugins/JamUI/PulseTray.app/Contents/MacOS/PulseTray, 393
+
+2015-02-11 08:19:28, spooks.local, PE_file, yaramem, /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent, 394
+
+2015-02-11 08:19:31, spooks.local, PE_file, yaramem, /System/Library/CoreServices/diagnostics_agent, 395
+
+2015-02-11 08:19:36, spooks.local, PE_file, yaramem, /Library/Application Support/McAfee/MSS/Applications/Menulet.app/Contents/MacOS/Menulet, 396
+
+2015-02-11 08:19:39, spooks.local, PE_file, yaramem, /Applications/iTunes.app/Contents/MacOS/iTunesHelper.app/Contents/MacOS/iTunesHelper, 400
+
+2015-02-11 08:19:44, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/VMware Fusion Start Menu.app/Contents/MacOS/VMware Fusion Start Menu, 414
+
+2015-02-11 08:19:48, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Menu Extras/TextInput.menu/Contents/SharedSupport/TISwitcher.app/Contents/MacOS/TISwitcher, 415
+
+2015-02-11 08:19:49, spooks.local, PE_file, yaramem, /bin/sleep, 416
+
+2015-02-11 08:19:52, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/GameCenterFoundation.framework/Versions/A/gamed, 423
+
+2015-02-11 08:19:56, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd, 430
+
+2015-02-11 08:20:27, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight, 435
+
+2015-02-11 08:20:31, spooks.local, PE_file, yaramem, /Library/Printers/Canon/IJScanner/Utilities/Canon IJ Network Scanner Selector2.app/Contents/MacOS/Canon IJ Network Scanner Selector2, 438
+
+2015-02-11 08:20:35, spooks.local, PE_file, yaramem, /Applications/GeekTool.app/Contents/PlugIns/GeekTool.prefPane/Contents/Resources/GeekTool Helper.app/Contents/MacOS/GeekTool Helper, 439
+
+2015-02-11 08:21:04, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/MacOS/Google Chrome, 440
+
+2015-02-11 08:21:07, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Menu Extras/AirPort.menu/Contents/XPCServices/com.apple.wifi.proxy.xpc/Contents/MacOS/com.apple.wifi.proxy, 442
+
+2015-02-11 08:21:10, spooks.local, PE_file, yaramem, /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy, 453
+
+2015-02-11 08:21:13, spooks.local, PE_file, yaramem, /usr/local/MacGPG2/bin/gpg-agent, 454
+
+2015-02-11 08:21:16, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Spotlight.app/Contents/XPCServices/com.apple.metadata.SpotlightNetHelper.xpc/Contents/MacOS/com.apple.metadata.SpotlightNetHelper, 461
+
+2015-02-11 08:21:20, spooks.local, PE_file, yaramem, /Library/Printers/Brother/Utilities/Server/USBserver.app/Contents/MacOS/USBserver, 462
+
+2015-02-11 08:21:55, spooks.local, PE_file, yaramem, /Applications/Messages.app/Contents/MacOS/Messages, 463
+
+2015-02-11 08:21:58, spooks.local, PE_file, yaramem, /Library/Printers/Brother/Utilities/Server/NETserver.app/Contents/MacOS/NETserver, 464
+
+2015-02-11 08:22:05, spooks.local, PE_file, yaramem, /Applications/Dropbox.app/Contents/MacOS/Dropbox109, 471
+
+2015-02-11 08:22:09, spooks.local, PE_file, yaramem, /Applications/Kies.app/Contents/MacOS/KiesAgent.app/Contents/MacOS/KiesAgent, 481
+
+2015-02-11 08:22:12, spooks.local, PE_file, yaramem, /Users/ivalenzuela/Library/Application Support/.FUS/fuspredownloader.app/Contents/MacOS/fuspredownloader, 482
+
+2015-02-11 08:22:16, spooks.local, PE_file, yaramem, /Applications/Tunnelblick.app/Contents/MacOS/Tunnelblick, 484
+
+2015-02-11 08:22:20, spooks.local, PE_file, yaramem, /System/Library/CoreServices/ScopedBookmarkAgent, 499
+
+2015-02-11 08:22:23, spooks.local, PE_file, yaramem, /System/Library/CoreServices/NotificationCenter.app/Contents/XPCServices/com.apple.notificationcenterui.WeatherSummary.xpc/Contents/MacOS/com.apple.notificationcenterui.WeatherSummary, 501
+
+2015-02-11 08:22:35, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 504
+
+2015-02-11 08:22:42, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 507
+
+2015-02-11 08:22:49, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 508
+
+2015-02-11 08:22:57, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 510
+
+2015-02-11 08:23:00, spooks.local, PE_file, yaramem, /Applications/Junos Pulse.app/Contents/Plugins/JUNS/dsAccessService, 521
+
+2015-02-11 08:23:05, spooks.local, PE_file, yaramem, /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell, 522
+
+2015-02-11 08:23:08, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/XPCServices/com.apple.cmio.registerassistantservice.xpc/Contents/MacOS/com.apple.cmio.registerassistantservice, 525
+
+2015-02-11 08:23:11, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper, 526
+
+2015-02-11 08:23:14, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.ComponentHelper.xpc/Contents/MacOS/com.apple.audio.ComponentHelper, 527
+
+2015-02-11 08:23:17, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CharacterPicker.framework/Versions/A/XPCServices/com.apple.CharacterPicker.FileService.xpc/Contents/MacOS/com.apple.CharacterPicker.FileService, 528
+
+2015-02-11 08:23:21, spooks.local, PE_file, yaramem, /System/Library/Frameworks/InputMethodKit.framework/Versions/A/XPCServices/com.apple.InputMethodKit.UserDictionary.xpc/Contents/MacOS/com.apple.InputMethodKit.UserDictionary, 535
+
+2015-02-11 08:23:23, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor, 537
+
+2015-02-11 08:23:27, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/DataDetectorsCore.framework/Versions/A/XPCServices/DataDetectorsDynamicData.xpc/Contents/MacOS/DataDetectorsDynamicData, 538
+
+2015-02-11 08:23:29, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AddressBook.framework/Versions/A/XPCServices/com.apple.AddressBook.InternetAccountsBridge.xpc/Contents/MacOS/com.apple.AddressBook.InternetAccountsBridge, 539
+
+2015-02-11 08:23:33, spooks.local, PE_file, yaramem, /System/Library/CoreServices/SubmitDiagInfo, 541
+
+2015-02-11 08:23:36, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/Frameworks/CloudPhotoServicesConfiguration.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration, 542
+
+2015-02-11 08:23:40, spooks.local, PE_file, yaramem, /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent, 544
+
+2015-02-11 08:23:47, spooks.local, PE_file, yaramem, /Library/DropboxHelperTools/Dropbox_u501/dbfseventsd, 560
+
+2015-02-11 08:23:52, spooks.local, PE_file, yaramem, /Library/DropboxHelperTools/Dropbox_u501/dbfseventsd, 562
+
+2015-02-11 08:23:56, spooks.local, PE_file, yaramem, /Library/DropboxHelperTools/Dropbox_u501/dbfseventsd, 563
+
+2015-02-11 08:24:01, spooks.local, PE_file, yaramem, /System/Library/Image Capture/Support/Image Capture Extension.app/Contents/MacOS/Image Capture Extension, 574
+
+2015-02-11 08:24:05, spooks.local, PE_file, yaramem, /Library/Image Capture/Support/LegacyDeviceDiscoveryHelpers/CIJScannerRegister.app/Contents/MacOS/CIJScannerRegister, 575
+
+2015-02-11 08:24:08, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdflagwriter, 578
+
+2015-02-11 08:24:10, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdflagwriter, 579
+
+2015-02-11 08:24:13, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storelegacy, 580
+
+2015-02-11 08:24:16, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeassetd, 581
+
+2015-02-11 08:24:21, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/LaterAgent.app/Contents/MacOS/LaterAgent, 583
+
+2015-02-11 08:24:24, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd, 584
+
+2015-02-11 08:24:33, spooks.local, PE_file, yaramem, /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal, 587
+
+2015-02-11 08:24:36, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CoreRecents.framework/Versions/A/Support/recentsd, 645
+
+2015-02-11 08:24:39, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/ToneLibrary.framework/Versions/A/XPCServices/com.apple.tonelibraryd.xpc/Contents/MacOS/com.apple.tonelibraryd, 650
+
+2015-02-11 08:24:42, spooks.local, PE_file, yaramem, /usr/sbin/distnoted, 663
+
+2015-02-11 08:24:47, spooks.local, PE_file, yaramem, /usr/sbin/spindump, 778
+
+2015-02-11 08:24:51, spooks.local, PE_file, yaramem, /usr/libexec/syspolicyd, 779
+
+2015-02-11 08:25:32, spooks.local, PE_file, yaramem, /Applications/Safari.app/Contents/MacOS/Safari, 808
+
+2015-02-11 08:26:00, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking, 810
+
+2015-02-11 08:26:03, spooks.local, PE_file, yaramem, /usr/libexec/webinspectord, 813
+
+2015-02-11 08:26:06, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/Safari.framework/Versions/A/XPCServices/com.apple.Safari.SearchHelper.xpc/Contents/MacOS/com.apple.Safari.SearchHelper, 816
+
+2015-02-11 08:26:07, spooks.local, PE_file, yaramem, /Library/Nessus/run/sbin/nessus-service, 833
+
+2015-02-11 08:26:27, spooks.local, PE_file, yaramem, /Library/Nessus/run/sbin/nessusd, 834
+
+2015-02-11 08:26:31, spooks.local, PE_file, yaramem, /usr/libexec/systemstatsd, 844
+
+2015-02-11 08:26:37, spooks.local, PE_file, yaramem, /Applications/TextEdit.app/Contents/MacOS/TextEdit, 947
+
+2015-02-11 08:26:40, spooks.local, PE_file, yaramem, /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/printtool, 952
+
+2015-02-11 08:26:44, spooks.local, PE_file, yaramem, /Applications/Microsoft Office 2011/Office/Microsoft Database Daemon.app/Contents/MacOS/Microsoft Database Daemon, 1044
+
+2015-02-11 08:26:47, spooks.local, PE_file, yaramem, /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice, 1079
+
+2015-02-11 08:26:52, spooks.local, PE_file, yaramem, /Applications/Microsoft Office 2011/Office/Microsoft Office Reminders.app/Contents/MacOS/Microsoft Office Reminders, 1082
+
+2015-02-11 08:26:58, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService, 1093
+
+2015-02-11 08:27:01, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher, 1195
+
+2015-02-11 08:27:04, spooks.local, PE_file, yaramem, /usr/libexec/USBAgent, 1196
+
+2015-02-11 08:27:08, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/MailService.framework/Versions/A/XPCServices/com.apple.MailServiceAgent.xpc/Contents/MacOS/com.apple.MailServiceAgent, 3705
+
+2015-02-11 08:27:11, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/SystemAdministration.framework/XPCServices/writeconfig.xpc/Contents/MacOS/writeconfig, 3894
+
+2015-02-11 08:27:14, spooks.local, PE_file, yaramem, /usr/libexec/smd, 3896
+
+2015-02-11 08:27:17, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/Heimdal.framework/Helpers/kdc, 3897
+
+2015-02-11 08:27:43, spooks.local, PE_file, yaramem, /Applications/Microsoft Office 2011/Microsoft PowerPoint.app/Contents/MacOS/Microsoft PowerPoint, 4728
+
+2015-02-11 08:27:46, spooks.local, PE_file, yaramem, /Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/MacOS/Microsoft AU Daemon.app/Contents/MacOS/Microsoft AU Daemon, 4733
+
+2015-02-11 08:27:50, spooks.local, PE_file, yaramem, /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/Resources/com.apple.speech.speechsynthesisd, 4779
+
+2015-02-11 08:27:53, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper, 4780
+
+2015-02-11 08:27:56, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.ComponentHelper.xpc/Contents/MacOS/com.apple.audio.ComponentHelper, 4781
+
+2015-02-11 08:28:12, spooks.local, PE_file, yaramem, /Applications/Microsoft Office 2011/Microsoft Outlook.app/Contents/MacOS/Microsoft Outlook, 5954
+
+2015-02-11 08:28:20, spooks.local, PE_file, yaramem, /Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app/Contents/MacOS/Cisco AnyConnect Secure Mobility Client, 5965
+
+2015-02-11 08:28:23, spooks.local, PE_file, yaramem, /System/Library/Frameworks/GSS.framework/Helpers/com.apple.GSSCred, 7817
+
+2015-02-11 08:28:33, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder, 8543
+
+2015-02-11 08:28:37, spooks.local, PE_file, yaramem, /Applications/Dropbox.app/Contents/PlugIns/garcon.appex/Contents/MacOS/garcon, 8547
+
+2015-02-11 08:28:40, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker, 9363
+
+2015-02-11 08:28:44, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/WeatherKit.framework/Versions/A/XPCServices/com.apple.WeatherKitService.xpc/Contents/MacOS/com.apple.WeatherKitService, 11099
+
+2015-02-11 08:28:47, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod, 11562
+
+2015-02-11 08:28:51, spooks.local, PE_file, yaramem, /Applications/Microsoft Office 2011/Office/Microsoft Alerts Daemon.app/Contents/MacOS/Microsoft Alerts Daemon, 11871
+
+2015-02-11 08:28:58, spooks.local, PE_file, yaramem, /Applications/Calendar.app/Contents/MacOS/Calendar, 12257
+
+2015-02-11 08:29:01, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdate_download_service, 12846
+
+2015-02-11 08:29:03, spooks.local, PE_file, yaramem, /usr/libexec/periodic-wrapper, 13075
+
+2015-02-11 08:29:06, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker, 13125
+
+2015-02-11 08:29:10, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CloudServices.framework/Versions/A/Resources/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert, 13174
+
+2015-02-11 08:29:24, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/MacOS/VMware Fusion, 15492
+
+2015-02-11 08:29:26, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/services/VMware Fusion Services, 15535
+
+2015-02-11 08:29:29, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmnet-bridge, 15579
+
+2015-02-11 08:29:31, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmnet-netifup, 15582
+
+2015-02-11 08:29:33, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmnet-dhcpd, 15584
+
+2015-02-11 08:29:36, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmnet-natd, 15587
+
+2015-02-11 08:29:38, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmnet-netifup, 15589
+
+2015-02-11 08:29:40, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmnet-dhcpd, 15591
+
+2015-02-11 08:29:43, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmware-usbarbitrator, 15593
+
+2015-02-11 08:29:49, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/DocumentPopoverViewService.xpc/Contents/MacOS/DocumentPopoverViewService, 15685
+
+2015-02-11 08:29:51, spooks.local, PE_file, yaramem, /System/Library/Frameworks/PCSC.framework/Versions/A/XPCServices/com.apple.ctkpcscd.xpc/Contents/MacOS/com.apple.ctkpcscd, 15777
+
+2015-02-11 08:29:54, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent, 27945
+
+2015-02-11 08:29:58, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker, 28139
+
+2015-02-11 08:30:02, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker, 28162
+
+2015-02-11 08:30:06, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker, 28163
+
+2015-02-11 08:30:10, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker, 28164
+
+2015-02-11 08:30:19, spooks.local, PE_file, yaramem, /Applications/Microsoft Office 2011/Microsoft Excel.app/Contents/MacOS/Microsoft Excel, 28263
+
+2015-02-11 08:30:55, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 28274
+
+2015-02-11 08:31:04, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 28276
+
+2015-02-11 08:31:07, spooks.local, PE_file, yaramem, /usr/bin/login, 28280
+
+2015-02-11 08:31:09, spooks.local, PE_file, yaramem, /bin/bash, 28281
+
+2015-02-11 08:31:43, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 29074
+
+2015-02-11 08:31:46, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/HelpData.framework/Versions/A/Resources/helpd, 29991
+
+2015-02-11 08:32:23, spooks.local, PE_file, yaramem, /Applications/PyCharm.app/Contents/MacOS/pycharm, 30024
+
+2015-02-11 08:32:25, spooks.local, PE_file, yaramem, /Applications/PyCharm.app/bin/fsnotifier, 30029
+
+2015-02-11 08:33:02, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 30249
+
+2015-02-11 08:33:33, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 30319
+
+2015-02-11 08:33:36, spooks.local, PE_file, yaramem, /System/Library/Frameworks/QTKit.framework/Versions/A/XPCServices/com.apple.qtkitserver.xpc/Contents/MacOS/com.apple.qtkitserver, 30320
+
+2015-02-11 08:33:39, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper, 30321
+
+2015-02-11 08:33:42, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.ComponentHelper.xpc/Contents/MacOS/com.apple.audio.ComponentHelper, 30322
+
+2015-02-11 08:33:47, spooks.local, PE_file, yaramem, /Applications/McAfee Endpoint Protection for Mac.app/Contents/MacOS/McAfee Endpoint Protection for Mac, 30381
+
+2015-02-11 08:33:50, spooks.local, PE_file, yaramem, /usr/bin/login, 30583
+
+2015-02-11 08:33:51, spooks.local, PE_file, yaramem, /bin/bash, 30584
+
+2015-02-11 08:34:27, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 31140
+
+2015-02-11 08:34:30, spooks.local, PE_file, yaramem, /System/Library/Frameworks/QTKit.framework/Versions/A/XPCServices/com.apple.qtkitserver.xpc/Contents/MacOS/com.apple.qtkitserver, 31141
+
+2015-02-11 08:34:33, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper, 31142
+
+2015-02-11 08:34:36, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.ComponentHelper.xpc/Contents/MacOS/com.apple.audio.ComponentHelper, 31143
+
+2015-02-11 08:34:38, spooks.local, PE_file, yaramem, /usr/libexec/periodic-wrapper, 31814
+
+2015-02-11 08:35:11, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 32549
+
+2015-02-11 08:35:56, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmware-vmx, 32860
+
+2015-02-11 08:35:58, spooks.local, PE_file, yaramem, /System/Library/Frameworks/PCSC.framework/Versions/A/XPCServices/com.apple.ctkpcscd.xpc/Contents/MacOS/com.apple.ctkpcscd, 32862
+
+2015-02-11 08:36:00, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt, 32887
+
+2015-02-11 08:36:03, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt, 32889
+
+2015-02-11 08:36:04, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt, 32890
+
+2015-02-11 08:36:06, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt, 32892
+
+2015-02-11 08:36:09, spooks.local, PE_file, yaramem, /usr/sbin/cupsd, 32894
+
+2015-02-11 08:36:13, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/services/VMware Graphics Service, 32897
+
+2015-02-11 08:36:14, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt, 32898
+
+2015-02-11 08:36:16, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt, 32899
+
+2015-02-11 08:38:42, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmware-vmx, 32955
+
+2015-02-11 08:38:45, spooks.local, PE_file, yaramem, /System/Library/Frameworks/PCSC.framework/Versions/A/XPCServices/com.apple.ctkpcscd.xpc/Contents/MacOS/com.apple.ctkpcscd, 32957
+
+2015-02-11 08:39:20, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 33160
+
+2015-02-11 08:39:51, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Plugin.64.xpc/Contents/MacOS/com.apple.WebKit.Plugin.64, 33166
+
+2015-02-11 08:39:53, spooks.local, PE_file, yaramem, /usr/bin/login, 33203
+
+2015-02-11 08:39:55, spooks.local, PE_file, yaramem, /bin/bash, 33204
+
+2015-02-11 08:40:27, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 33387
+
+2015-02-11 08:40:31, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent, 33543
+
+2015-02-11 08:40:34, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbstated, 33544
+
+2015-02-11 08:41:07, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 33874
+
+2015-02-11 08:41:10, spooks.local, PE_file, yaramem, /System/Library/Frameworks/QTKit.framework/Versions/A/XPCServices/com.apple.qtkitserver.xpc/Contents/MacOS/com.apple.qtkitserver, 33875
+
+2015-02-11 08:41:12, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper, 33876
+
+2015-02-11 08:41:15, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.ComponentHelper.xpc/Contents/MacOS/com.apple.audio.ComponentHelper, 33877
+
+2015-02-11 08:41:56, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 34017
+
+2015-02-11 08:41:59, spooks.local, PE_file, yaramem, /System/Library/Frameworks/QTKit.framework/Versions/A/XPCServices/com.apple.qtkitserver.xpc/Contents/MacOS/com.apple.qtkitserver, 34071
+
+2015-02-11 08:42:01, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper, 34072
+
+2015-02-11 08:42:04, spooks.local, PE_file, yaramem, /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.ComponentHelper.xpc/Contents/MacOS/com.apple.audio.ComponentHelper, 34073
+
+2015-02-11 08:42:26, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 35257
+
+2015-02-11 08:42:35, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 35715
+
+2015-02-11 08:42:46, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 36810
+
+2015-02-11 08:42:52, spooks.local, PE_file, yaramem, /sbin/launchd, 1
+
+2015-02-11 08:42:54, spooks.local, PE_file, yaramem, /usr/sbin/syslogd, 16
+
+2015-02-11 08:42:58, spooks.local, PE_file, yaramem, /usr/libexec/UserEventAgent, 17
+
+2015-02-11 08:43:05, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd, 20
+
+2015-02-11 08:43:08, spooks.local, PE_file, yaramem, /opt/cisco/anyconnect/bin/vpnagentd, 22
+
+2015-02-11 08:43:11, spooks.local, PE_file, yaramem, /usr/local/McAfee/AntiMalware/VShieldUpdate, 23
+
+2015-02-11 08:43:14, spooks.local, PE_file, yaramem, /usr/libexec/thermald, 24
+
+2015-02-11 08:43:17, spooks.local, PE_file, yaramem, /System/Library/CoreServices/backupd.bundle/Contents/Resources/mtmd, 25
+
+2015-02-11 08:43:21, spooks.local, PE_file, yaramem, /opt/cisco/hostscan/bin/ciscod, 26
+
+2015-02-11 08:43:24, spooks.local, PE_file, yaramem, /System/Library/CoreServices/appleeventsd, 28
+
+2015-02-11 08:43:28, spooks.local, PE_file, yaramem, /usr/libexec/configd, 29
+
+2015-02-11 08:43:31, spooks.local, PE_file, yaramem, /System/Library/CoreServices/powerd.bundle/powerd, 30
+
+2015-02-11 08:43:33, spooks.local, PE_file, yaramem, /Library/Application Support/BlackBerry/tunmgr, 33
+
+2015-02-11 08:43:37, spooks.local, PE_file, yaramem, /usr/libexec/airportd, 34
+
+2015-02-11 08:43:40, spooks.local, PE_file, yaramem, /usr/libexec/warmd, 36
+
+2015-02-11 08:43:50, spooks.local, PE_file, yaramem, /sbin/launchd, 1
+
+2015-02-11 08:43:52, spooks.local, PE_file, yaramem, /usr/sbin/syslogd, 16
+
+2015-02-11 08:43:56, spooks.local, PE_file, yaramem, /usr/libexec/UserEventAgent, 17
+
+2015-02-11 08:43:59, spooks.local, PE_file, yaramem, /usr/libexec/kextd, 19
+
+2015-02-11 08:44:03, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/FSEvents.framework/Versions/A/Support/fseventsd, 20
+
+2015-02-11 08:44:06, spooks.local, PE_file, yaramem, /opt/cisco/anyconnect/bin/vpnagentd, 22
+
+2015-02-11 08:44:08, spooks.local, PE_file, yaramem, /usr/local/McAfee/AntiMalware/VShieldUpdate, 23
+
+2015-02-11 08:44:11, spooks.local, PE_file, yaramem, /usr/libexec/thermald, 24
+
+2015-02-11 08:44:14, spooks.local, PE_file, yaramem, /System/Library/CoreServices/backupd.bundle/Contents/Resources/mtmd, 25
+
+2015-02-11 08:44:18, spooks.local, PE_file, yaramem, /opt/cisco/hostscan/bin/ciscod, 26
+
+2015-02-11 08:44:21, spooks.local, PE_file, yaramem, /System/Library/CoreServices/appleeventsd, 28
+
+2015-02-11 08:44:24, spooks.local, PE_file, yaramem, /usr/libexec/configd, 29
+
+2015-02-11 08:44:27, spooks.local, PE_file, yaramem, /System/Library/CoreServices/powerd.bundle/powerd, 30
+
+2015-02-11 08:44:30, spooks.local, PE_file, yaramem, /Library/Application Support/BlackBerry/tunmgr, 33
+
+2015-02-11 08:44:33, spooks.local, PE_file, yaramem, /usr/libexec/airportd, 34
+
+2015-02-11 08:44:36, spooks.local, PE_file, yaramem, /usr/libexec/warmd, 36
+
+2015-02-11 08:44:43, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mds, 37
+
+2015-02-11 08:44:46, spooks.local, PE_file, yaramem, /System/Library/CoreServices/iconservicesd, 41
+
+2015-02-11 08:44:54, spooks.local, PE_file, yaramem, /System/Library/CoreServices/iconservicesagent, 42
+
+2015-02-11 08:44:57, spooks.local, PE_file, yaramem, /usr/libexec/diskarbitrationd, 43
+
+2015-02-11 08:45:01, spooks.local, PE_file, yaramem, /usr/libexec/coreduetd, 46
+
+2015-02-11 08:45:04, spooks.local, PE_file, yaramem, /System/Library/CoreServices/backupd.bundle/Contents/Resources/backupd-helper, 47
+
+2015-02-11 08:45:07, spooks.local, PE_file, yaramem, /Applications/Junos Pulse.app/Contents/Plugins/JUNS/dsAccessService, 48
+
+2015-02-11 08:45:09, spooks.local, PE_file, yaramem, /usr/libexec/wdhelper, 50
+
+2015-02-11 08:45:12, spooks.local, PE_file, yaramem, /System/Library/CoreServices/backupd.bundle/Contents/Resources/mtmfs, 52
+
+2015-02-11 08:45:16, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/WirelessDiagnostics.framework/Support/awdd, 53
+
+2015-02-11 08:45:18, spooks.local, PE_file, yaramem, /Library/Application Support/BlackBerry/BBDaemon, 54
+
+2015-02-11 08:45:21, spooks.local, PE_file, yaramem, /usr/local/McAfee/AntiMalware/VShieldScanner, 55
+
+2015-02-11 08:45:24, spooks.local, PE_file, yaramem, /usr/libexec/opendirectoryd, 56
+
+2015-02-11 08:45:27, spooks.local, PE_file, yaramem, /usr/sbin/wirelessproxd, 57
+
+2015-02-11 08:45:31, spooks.local, PE_file, yaramem, /usr/libexec/discoveryd, 59
+
+2015-02-11 08:45:34, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/ApplePushService.framework/apsd, 60
+
+2015-02-11 08:45:37, spooks.local, PE_file, yaramem, /System/Library/CoreServices/launchservicesd, 62
+
+2015-02-11 08:45:40, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/MobileDevice.framework/Versions/A/Resources/usbmuxd, 63
+
+2015-02-11 08:45:43, spooks.local, PE_file, yaramem, /usr/sbin/securityd, 64
+
+2015-02-11 08:45:47, spooks.local, PE_file, yaramem, /usr/libexec/locationd, 66
+
+2015-02-11 08:45:50, spooks.local, PE_file, yaramem, /usr/libexec/autofsd, 69
+
+2015-02-11 08:45:53, spooks.local, PE_file, yaramem, /usr/sbin/blued, 70
+
+2015-02-11 08:45:55, spooks.local, PE_file, yaramem, /usr/local/McAfee/fmp/bin/fmpd, 71
+
+2015-02-11 08:45:58, spooks.local, PE_file, yaramem, /usr/local/McAfee/AntiMalware/VShieldScanManager, 75
+
+2015-02-11 08:46:01, spooks.local, PE_file, yaramem, /usr/libexec/stackshot, 76
+
+2015-02-11 08:46:04, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/GenerationalStorage.framework/Versions/A/Support/revisiond, 77
+
+2015-02-11 08:46:10, spooks.local, PE_file, yaramem, /System/Library/CoreServices/loginwindow.app/Contents/MacOS/loginwindow, 78
+
+2015-02-11 08:46:13, spooks.local, PE_file, yaramem, /System/Library/CoreServices/logind, 79
+
+2015-02-11 08:46:15, spooks.local, PE_file, yaramem, /usr/sbin/KernelEventAgent, 80
+
+2015-02-11 08:46:18, spooks.local, PE_file, yaramem, /usr/libexec/hidd, 82
+
+2015-02-11 08:46:19, spooks.local, PE_file, yaramem, /Library/McAfee/cma/bin/launchcma, 83
+
+2015-02-11 08:46:22, spooks.local, PE_file, yaramem, /usr/libexec/amfid, 84
+
+2015-02-11 08:46:25, spooks.local, PE_file, yaramem, /usr/libexec/taskgated, 85
+
+2015-02-11 08:46:28, spooks.local, PE_file, yaramem, /usr/sbin/notifyd, 86
+
+2015-02-11 08:46:31, spooks.local, PE_file, yaramem, /usr/sbin/distnoted, 87
+
+2015-02-11 08:46:34, spooks.local, PE_file, yaramem, /usr/libexec/diagnosticd, 92
+
+2015-02-11 08:46:37, spooks.local, PE_file, yaramem, /usr/sbin/cfprefsd, 93
+
+2015-02-11 08:46:40, spooks.local, PE_file, yaramem, /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/authd.xpc/Contents/MacOS/authd, 95
+
+2015-02-11 08:46:44, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/Support/coreservicesd, 101
+
+2015-02-11 08:46:47, spooks.local, PE_file, yaramem, /System/Library/Frameworks/PCSC.framework/Versions/A/XPCServices/com.apple.ctkpcscd.xpc/Contents/MacOS/com.apple.ctkpcscd, 105
+
+2015-02-11 08:47:50, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreGraphics.framework/Versions/A/Resources/WindowServer, 121
+
+2015-02-11 08:47:53, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CryptoTokenKit.framework/ctkd, 122
+
+2015-02-11 08:47:56, spooks.local, PE_file, yaramem, /usr/libexec/secinitd, 123
+
+2015-02-11 08:47:59, spooks.local, PE_file, yaramem, /usr/libexec/findmydeviced, 124
+
+2015-02-11 08:48:02, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CoreSymbolication.framework/coresymbolicationd, 126
+
+2015-02-11 08:48:05, spooks.local, PE_file, yaramem, /usr/libexec/nsurlstoraged, 127
+
+2015-02-11 08:48:07, spooks.local, PE_file, yaramem, /usr/libexec/nsurlsessiond, 129
+
+2015-02-11 08:48:10, spooks.local, PE_file, yaramem, /usr/libexec/nehelper, 130
+
+2015-02-11 08:48:13, spooks.local, PE_file, yaramem, /usr/sbin/ntpd, 131
+
+2015-02-11 08:48:16, spooks.local, PE_file, yaramem, /usr/libexec/usbd, 132
+
+2015-02-11 08:48:19, spooks.local, PE_file, yaramem, /usr/libexec/networkd, 133
+
+2015-02-11 08:48:20, spooks.local, PE_file, yaramem, /usr/sbin/cron, 135
+
+2015-02-11 08:48:23, spooks.local, PE_file, yaramem, /System/Library/CryptoTokenKit/com.apple.ifdreader.slotd/Contents/MacOS/com.apple.ifdreader, 136
+
+2015-02-11 08:48:26, spooks.local, PE_file, yaramem, /usr/libexec/corestoraged, 139
+
+2015-02-11 08:48:29, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreMediaIO.framework/Versions/A/Resources/VDC.plugin/Contents/Resources/VDCAssistant, 140
+
+2015-02-11 08:48:32, spooks.local, PE_file, yaramem, /usr/libexec/sysmond, 141
+
+2015-02-11 08:48:34, spooks.local, PE_file, yaramem, /usr/libexec/networkd_privileged, 142
+
+2015-02-11 08:48:36, spooks.local, PE_file, yaramem, /usr/libexec/discoveryd_helper, 148
+
+2015-02-11 08:49:05, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mds_stores, 152
+
+2015-02-11 08:49:08, spooks.local, PE_file, yaramem, /System/Library/CoreServices/CrashReporterSupportHelper, 161
+
+2015-02-11 08:49:12, spooks.local, PE_file, yaramem, /System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/CVMServer, 163
+
+2015-02-11 08:49:15, spooks.local, PE_file, yaramem, /System/Library/Frameworks/Security.framework/Versions/A/XPCServices/com.apple.CodeSigningHelper.xpc/Contents/MacOS/com.apple.CodeSigningHelper, 174
+
+2015-02-11 08:49:18, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/AccountPolicy.framework/XPCServices/com.apple.AccountPolicyHelper.xpc/Contents/MacOS/com.apple.AccountPolicyHelper, 185
+
+2015-02-11 08:49:52, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdated, 194
+
+2015-02-11 08:49:55, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/SoftwareUpdate.framework/Versions/A/Resources/suhelperd, 195
+
+2015-02-11 08:49:58, spooks.local, PE_file, yaramem, /usr/libexec/watchdogd, 225
+
+2015-02-11 08:50:01, spooks.local, PE_file, yaramem, /Library/McAfee/cma/bin/cma, 226
+
+2015-02-11 08:50:05, spooks.local, PE_file, yaramem, /usr/local/McAfee/AppProtection/bin/appProtd, 241
+
+2015-02-11 08:50:07, spooks.local, PE_file, yaramem, /usr/local/McAfee/StatefulFirewall/bin/StatefulFirewall, 257
+
+2015-02-11 08:50:11, spooks.local, PE_file, yaramem, /usr/local/McAfee/AntiMalware/VShieldService, 262
+
+2015-02-11 08:50:14, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/TCC.framework/Versions/A/Resources/tccd, 289
+
+2015-02-11 08:50:17, spooks.local, PE_file, yaramem, /usr/libexec/securityd_service, 293
+
+2015-02-11 08:50:20, spooks.local, PE_file, yaramem, /usr/libexec/UserEventAgent, 294
+
+2015-02-11 08:50:23, spooks.local, PE_file, yaramem, /usr/sbin/distnoted, 296
+
+2015-02-11 08:50:27, spooks.local, PE_file, yaramem, /usr/sbin/universalaccessd, 297
+
+2015-02-11 08:50:30, spooks.local, PE_file, yaramem, /usr/sbin/cfprefsd, 298
+
+2015-02-11 08:50:42, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock, 301
+
+2015-02-11 08:50:48, spooks.local, PE_file, yaramem, /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer, 303
+
+2015-02-11 08:50:51, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CacheDelete.framework/deleted, 305
+
+2015-02-11 08:50:55, spooks.local, PE_file, yaramem, /usr/sbin/coreaudiod, 306
+
+2015-02-11 08:50:58, spooks.local, PE_file, yaramem, /System/Library/CoreServices/backupd.bundle/Contents/Resources/TMCacheDelete, 307
+
+2015-02-11 08:51:00, spooks.local, PE_file, yaramem, /usr/sbin/pboard, 309
+
+2015-02-11 08:51:04, spooks.local, PE_file, yaramem, /usr/libexec/sharingd, 316
+
+2015-02-11 08:51:07, spooks.local, PE_file, yaramem, /usr/libexec/pkd, 318
+
+2015-02-11 08:51:18, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/TCC.framework/Versions/A/Resources/tccd, 319
+
+2015-02-11 08:51:22, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird, 321
+
+2015-02-11 08:51:26, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd, 322
+
+2015-02-11 08:51:30, spooks.local, PE_file, yaramem, /usr/libexec/secd, 323
+
+2015-02-11 08:51:34, spooks.local, PE_file, yaramem, /usr/sbin/usernoted, 328
+
+2015-02-11 08:51:39, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent, 329
+
+2015-02-11 08:51:42, spooks.local, PE_file, yaramem, /Library/Application Support/BlackBerry/BBLaunchAgent.app, 330
+
+2015-02-11 08:51:46, spooks.local, PE_file, yaramem, /usr/libexec/nsurlsessiond, 331
+
+2015-02-11 08:51:51, spooks.local, PE_file, yaramem, /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/Support/fontd, 334
+
+2015-02-11 08:51:55, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent, 341
+
+2015-02-11 08:52:00, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/InternetAccounts.framework/Versions/A/XPCServices/com.apple.internetaccounts.xpc/Contents/MacOS/com.apple.internetaccounts, 343
+
+2015-02-11 08:52:04, spooks.local, PE_file, yaramem, /usr/libexec/fmfd, 346
+
+2015-02-11 08:52:08, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra, 354
+
+2015-02-11 08:52:12, spooks.local, PE_file, yaramem, /usr/sbin/filecoordinationd, 355
+
+2015-02-11 08:52:17, spooks.local, PE_file, yaramem, /Library/Application Support/BlackBerry/BlackBerry-Link-Helper-Agent.app/Contents/MacOS/BlackBerry-Link-Helper-Agent, 363
+
+2015-02-11 08:52:20, spooks.local, PE_file, yaramem, /Library/PreferencePanes/NTFSforMacOSX.prefPane/Contents/MacOS/notificator, 365
+
+2015-02-11 08:52:24, spooks.local, PE_file, yaramem, /Library/Application Support/BlackBerry/PeerManager, 367
+
+2015-02-11 08:52:28, spooks.local, PE_file, yaramem, /System/Library/CoreServices/SocialPushAgent.app/Contents/MacOS/SocialPushAgent, 371
+
+2015-02-11 08:52:33, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification, 373
+
+2015-02-11 08:52:41, spooks.local, PE_file, yaramem, /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter, 376
+
+2015-02-11 08:52:46, spooks.local, PE_file, yaramem, /Library/Printers/Brother/Utilities/Server/LOGINserver.app/Contents/MacOS/LOGINserver, 379
+
+2015-02-11 08:52:51, spooks.local, PE_file, yaramem, /Applications/GitHub.app/Contents/Library/LoginItems/GitHub Conduit.app/Contents/MacOS/GitHub Conduit, 384
+
+2015-02-11 08:52:56, spooks.local, PE_file, yaramem, /Library/Application Support/McAfee/MSS/Applications/McAfee Reporter.app/Contents/MacOS/McAfee Reporter, 385
+
+2015-02-11 08:53:00, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/AskPermission.framework/Versions/A/Resources/askpermissiond, 386
+
+2015-02-11 08:53:01, spooks.local, PE_file, yaramem, /bin/bash, 387
+
+2015-02-11 08:53:06, spooks.local, PE_file, yaramem, /Applications/iPhoto.app/Contents/Library/LoginItems/PhotoStreamAgent.app/Contents/MacOS/PhotoStreamAgent, 388
+
+2015-02-11 08:53:09, spooks.local, PE_file, yaramem, /Users/ivalenzuela/Library/Application Support/Spotify/SpotifyWebHelper, 389
+
+2015-02-11 08:53:13, spooks.local, PE_file, yaramem, /System/Library/CoreServices/cloudpaird, 390
+
+2015-02-11 08:53:18, spooks.local, PE_file, yaramem, /Applications/Junos Pulse.app/Contents/Plugins/JamUI/PulseTray.app/Contents/MacOS/PulseTray, 393
+
+2015-02-11 08:53:23, spooks.local, PE_file, yaramem, /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent, 394
+
+2015-02-11 08:53:26, spooks.local, PE_file, yaramem, /System/Library/CoreServices/diagnostics_agent, 395
+
+2015-02-11 08:53:31, spooks.local, PE_file, yaramem, /Library/Application Support/McAfee/MSS/Applications/Menulet.app/Contents/MacOS/Menulet, 396
+
+2015-02-11 08:53:35, spooks.local, PE_file, yaramem, /Applications/iTunes.app/Contents/MacOS/iTunesHelper.app/Contents/MacOS/iTunesHelper, 400
+
+2015-02-11 08:53:39, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/VMware Fusion Start Menu.app/Contents/MacOS/VMware Fusion Start Menu, 414
+
+2015-02-11 08:53:44, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Menu Extras/TextInput.menu/Contents/SharedSupport/TISwitcher.app/Contents/MacOS/TISwitcher, 415
+
+2015-02-11 08:53:45, spooks.local, PE_file, yaramem, /bin/sleep, 416
+
+2015-02-11 08:53:48, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd, 430
+
+2015-02-11 08:54:20, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight, 435
+
+2015-02-11 08:54:24, spooks.local, PE_file, yaramem, /Library/Printers/Canon/IJScanner/Utilities/Canon IJ Network Scanner Selector2.app/Contents/MacOS/Canon IJ Network Scanner Selector2, 438
+
+2015-02-11 08:54:29, spooks.local, PE_file, yaramem, /Applications/GeekTool.app/Contents/PlugIns/GeekTool.prefPane/Contents/Resources/GeekTool Helper.app/Contents/MacOS/GeekTool Helper, 439
+
+2015-02-11 08:55:02, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/MacOS/Google Chrome, 440
+
+2015-02-11 08:55:06, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Menu Extras/AirPort.menu/Contents/XPCServices/com.apple.wifi.proxy.xpc/Contents/MacOS/com.apple.wifi.proxy, 442
+
+2015-02-11 08:55:09, spooks.local, PE_file, yaramem, /usr/local/MacGPG2/bin/gpg-agent, 454
+
+2015-02-11 08:55:12, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Spotlight.app/Contents/XPCServices/com.apple.metadata.SpotlightNetHelper.xpc/Contents/MacOS/com.apple.metadata.SpotlightNetHelper, 461
+
+2015-02-11 08:55:15, spooks.local, PE_file, yaramem, /Library/Printers/Brother/Utilities/Server/USBserver.app/Contents/MacOS/USBserver, 462
+
+2015-02-11 08:55:58, spooks.local, PE_file, yaramem, /Applications/Messages.app/Contents/MacOS/Messages, 463
+
+2015-02-11 08:56:02, spooks.local, PE_file, yaramem, /Library/Printers/Brother/Utilities/Server/NETserver.app/Contents/MacOS/NETserver, 464
+
+2015-02-11 08:56:10, spooks.local, PE_file, yaramem, /Applications/Dropbox.app/Contents/MacOS/Dropbox109, 471
+
+2015-02-11 08:56:14, spooks.local, PE_file, yaramem, /Applications/Kies.app/Contents/MacOS/KiesAgent.app/Contents/MacOS/KiesAgent, 481
+
+2015-02-11 08:56:17, spooks.local, PE_file, yaramem, /Users/ivalenzuela/Library/Application Support/.FUS/fuspredownloader.app/Contents/MacOS/fuspredownloader, 482
+
+2015-02-11 08:56:22, spooks.local, PE_file, yaramem, /Applications/Tunnelblick.app/Contents/MacOS/Tunnelblick, 484
+
+2015-02-11 08:56:36, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 504
+
+2015-02-11 08:56:43, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 507
+
+2015-02-11 08:56:50, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 508
+
+2015-02-11 08:56:58, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 510
+
+2015-02-11 08:57:01, spooks.local, PE_file, yaramem, /Applications/Junos Pulse.app/Contents/Plugins/JUNS/dsAccessService, 521
+
+2015-02-11 08:57:07, spooks.local, PE_file, yaramem, /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell, 522
+
+2015-02-11 08:57:11, spooks.local, PE_file, yaramem, /System/Library/CoreServices/SubmitDiagInfo, 541
+
+2015-02-11 08:57:17, spooks.local, PE_file, yaramem, /Library/DropboxHelperTools/Dropbox_u501/dbfseventsd, 560
+
+2015-02-11 08:57:21, spooks.local, PE_file, yaramem, /Library/DropboxHelperTools/Dropbox_u501/dbfseventsd, 562
+
+2015-02-11 08:57:25, spooks.local, PE_file, yaramem, /Library/DropboxHelperTools/Dropbox_u501/dbfseventsd, 563
+
+2015-02-11 08:57:30, spooks.local, PE_file, yaramem, /System/Library/Image Capture/Support/Image Capture Extension.app/Contents/MacOS/Image Capture Extension, 574
+
+2015-02-11 08:57:34, spooks.local, PE_file, yaramem, /Library/Image Capture/Support/LegacyDeviceDiscoveryHelpers/CIJScannerRegister.app/Contents/MacOS/CIJScannerRegister, 575
+
+2015-02-11 08:57:37, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdflagwriter, 578
+
+2015-02-11 08:57:39, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdflagwriter, 579
+
+2015-02-11 08:57:42, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storelegacy, 580
+
+2015-02-11 08:57:45, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeassetd, 581
+
+2015-02-11 08:57:50, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/LaterAgent.app/Contents/MacOS/LaterAgent, 583
+
+2015-02-11 08:57:53, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd, 584
+
+2015-02-11 08:58:02, spooks.local, PE_file, yaramem, /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal, 587
+
+2015-02-11 08:58:06, spooks.local, PE_file, yaramem, /usr/libexec/syspolicyd, 779
+
+2015-02-11 08:58:52, spooks.local, PE_file, yaramem, /Applications/Safari.app/Contents/MacOS/Safari, 808
+
+2015-02-11 08:59:22, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking, 810
+
+2015-02-11 08:59:25, spooks.local, PE_file, yaramem, /usr/libexec/webinspectord, 813
+
+2015-02-11 08:59:26, spooks.local, PE_file, yaramem, /Library/Nessus/run/sbin/nessus-service, 833
+
+2015-02-11 08:59:48, spooks.local, PE_file, yaramem, /Library/Nessus/run/sbin/nessusd, 834
+
+2015-02-11 08:59:55, spooks.local, PE_file, yaramem, /Applications/TextEdit.app/Contents/MacOS/TextEdit, 947
+
+2015-02-11 09:00:00, spooks.local, PE_file, yaramem, /Applications/Microsoft Office 2011/Office/Microsoft Database Daemon.app/Contents/MacOS/Microsoft Database Daemon, 1044
+
+2015-02-11 09:00:06, spooks.local, PE_file, yaramem, /Applications/Microsoft Office 2011/Office/Microsoft Office Reminders.app/Contents/MacOS/Microsoft Office Reminders, 1082
+
+2015-02-11 09:00:09, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher, 1195
+
+2015-02-11 09:00:12, spooks.local, PE_file, yaramem, /usr/libexec/USBAgent, 1196
+
+2015-02-11 09:00:15, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/Heimdal.framework/Helpers/kdc, 3897
+
+2015-02-11 09:00:45, spooks.local, PE_file, yaramem, /Applications/Microsoft Office 2011/Microsoft PowerPoint.app/Contents/MacOS/Microsoft PowerPoint, 4728
+
+2015-02-11 09:00:49, spooks.local, PE_file, yaramem, /Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app/Contents/MacOS/Microsoft AU Daemon.app/Contents/MacOS/Microsoft AU Daemon, 4733
+
+2015-02-11 09:00:53, spooks.local, PE_file, yaramem, /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/Resources/com.apple.speech.speechsynthesisd, 4779
+
+2015-02-11 09:01:12, spooks.local, PE_file, yaramem, /Applications/Microsoft Office 2011/Microsoft Outlook.app/Contents/MacOS/Microsoft Outlook, 5954
+
+2015-02-11 09:01:20, spooks.local, PE_file, yaramem, /Applications/Cisco/Cisco AnyConnect Secure Mobility Client.app/Contents/MacOS/Cisco AnyConnect Secure Mobility Client, 5965
+
+2015-02-11 09:01:31, spooks.local, PE_file, yaramem, /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder, 8543
+
+2015-02-11 09:01:35, spooks.local, PE_file, yaramem, /Applications/Dropbox.app/Contents/PlugIns/garcon.appex/Contents/MacOS/garcon, 8547
+
+2015-02-11 09:01:39, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker, 9363
+
+2015-02-11 09:01:42, spooks.local, PE_file, yaramem, /Applications/Microsoft Office 2011/Office/Microsoft Alerts Daemon.app/Contents/MacOS/Microsoft Alerts Daemon, 11871
+
+2015-02-11 09:01:46, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker, 13125
+
+2015-02-11 09:02:05, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/MacOS/VMware Fusion, 15492
+
+2015-02-11 09:02:07, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/services/VMware Fusion Services, 15535
+
+2015-02-11 09:02:10, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmnet-bridge, 15579
+
+2015-02-11 09:02:12, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmnet-netifup, 15582
+
+2015-02-11 09:02:14, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmnet-dhcpd, 15584
+
+2015-02-11 09:02:17, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmnet-natd, 15587
+
+2015-02-11 09:02:19, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmnet-netifup, 15589
+
+2015-02-11 09:02:22, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmnet-dhcpd, 15591
+
+2015-02-11 09:02:25, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmware-usbarbitrator, 15593
+
+2015-02-11 09:02:28, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/AmbientDisplay.framework/Versions/A/XPCServices/com.apple.AmbientDisplayAgent.xpc/Contents/MacOS/com.apple.AmbientDisplayAgent, 27945
+
+2015-02-11 09:02:38, spooks.local, PE_file, yaramem, /Applications/Microsoft Office 2011/Microsoft Excel.app/Contents/MacOS/Microsoft Excel, 28263
+
+2015-02-11 09:03:18, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 28274
+
+2015-02-11 09:03:28, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 28276
+
+2015-02-11 09:03:31, spooks.local, PE_file, yaramem, /usr/bin/login, 28280
+
+2015-02-11 09:03:33, spooks.local, PE_file, yaramem, /bin/bash, 28281
+
+2015-02-11 09:04:09, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 29074
+
+2015-02-11 09:04:13, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/HelpData.framework/Versions/A/Resources/helpd, 29991
+
+2015-02-11 09:04:57, spooks.local, PE_file, yaramem, /Applications/PyCharm.app/Contents/MacOS/pycharm, 30024
+
+2015-02-11 09:04:59, spooks.local, PE_file, yaramem, /Applications/PyCharm.app/bin/fsnotifier, 30029
+
+2015-02-11 09:05:43, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 30249
+
+2015-02-11 09:06:18, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 30319
+
+2015-02-11 09:06:21, spooks.local, PE_file, yaramem, /System/Library/Frameworks/QTKit.framework/Versions/A/XPCServices/com.apple.qtkitserver.xpc/Contents/MacOS/com.apple.qtkitserver, 30320
+
+2015-02-11 09:06:27, spooks.local, PE_file, yaramem, /Applications/McAfee Endpoint Protection for Mac.app/Contents/MacOS/McAfee Endpoint Protection for Mac, 30381
+
+2015-02-11 09:06:30, spooks.local, PE_file, yaramem, /usr/bin/login, 30583
+
+2015-02-11 09:06:32, spooks.local, PE_file, yaramem, /bin/bash, 30584
+
+2015-02-11 09:07:11, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 31140
+
+2015-02-11 09:07:14, spooks.local, PE_file, yaramem, /System/Library/Frameworks/QTKit.framework/Versions/A/XPCServices/com.apple.qtkitserver.xpc/Contents/MacOS/com.apple.qtkitserver, 31141
+
+2015-02-11 09:07:49, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 32549
+
+2015-02-11 09:08:40, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmware-vmx, 32860
+
+2015-02-11 09:08:42, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt, 32887
+
+2015-02-11 09:08:45, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt, 32889
+
+2015-02-11 09:08:47, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt, 32890
+
+2015-02-11 09:08:48, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt, 32892
+
+2015-02-11 09:08:52, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/services/VMware Graphics Service, 32897
+
+2015-02-11 09:08:54, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt, 32898
+
+2015-02-11 09:08:56, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/thnuclnt/thnuclnt, 32899
+
+2015-02-11 09:11:51, spooks.local, PE_file, yaramem, /Applications/VMware Fusion.app/Contents/Library/vmware-vmx, 32955
+
+2015-02-11 09:12:29, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 33160
+
+2015-02-11 09:13:04, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Plugin.64.xpc/Contents/MacOS/com.apple.WebKit.Plugin.64, 33166
+
+2015-02-11 09:13:06, spooks.local, PE_file, yaramem, /usr/bin/login, 33203
+
+2015-02-11 09:13:07, spooks.local, PE_file, yaramem, /bin/bash, 33204
+
+2015-02-11 09:13:43, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 33387
+
+2015-02-11 09:13:48, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent, 33543
+
+2015-02-11 09:13:50, spooks.local, PE_file, yaramem, /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbstated, 33544
+
+2015-02-11 09:14:26, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 33874
+
+2015-02-11 09:14:29, spooks.local, PE_file, yaramem, /System/Library/Frameworks/QTKit.framework/Versions/A/XPCServices/com.apple.qtkitserver.xpc/Contents/MacOS/com.apple.qtkitserver, 33875
+
+2015-02-11 09:15:13, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 34017
+
+2015-02-11 09:15:16, spooks.local, PE_file, yaramem, /System/Library/Frameworks/QTKit.framework/Versions/A/XPCServices/com.apple.qtkitserver.xpc/Contents/MacOS/com.apple.qtkitserver, 34071
+
+2015-02-11 09:15:28, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 35227
+
+2015-02-11 09:15:39, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 35257
+
+2015-02-11 09:15:49, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 35715
+
+2015-02-11 09:16:03, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 36810
+
+2015-02-11 09:16:10, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 36812
+
+2015-02-11 09:16:21, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 36897
+
+2015-02-11 09:16:40, spooks.local, PE_file, yaramem, /Applications/Google Chrome.app/Contents/Versions/40.0.2214.111/Google Chrome Helper.app/Contents/MacOS/Google Chrome Helper, 36983
+
+2015-02-11 09:17:15, spooks.local, PE_file, yaramem, /System/Library/StagedFrameworks/Safari/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent, 37211
+
+2015-02-11 09:17:18, spooks.local, PE_file, yaramem, /usr/bin/login, 37379
+
+2015-02-11 09:17:20, spooks.local, PE_file, yaramem, /bin/bash, 37380
+
+2015-02-11 09:17:22, spooks.local, PE_file, yaramem, /usr/bin/login, 37474
+
+2015-02-11 09:17:24, spooks.local, PE_file, yaramem, /bin/bash, 37475
+
+2015-02-11 09:17:27, spooks.local, PE_file, yaramem, /System/Library/Frameworks/Python.framework/Versions/2.7/Resources/Python.app/Contents/MacOS/Python, 37567
+
+2015-02-11 09:17:30, spooks.local, PE_file, yaramem, /usr/sbin/netbiosd, 37767
+
+2015-02-11 09:17:33, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker, 38409
+
+2015-02-11 09:17:36, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker, 38444
+
+2015-02-11 09:17:39, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker, 38445
+
+2015-02-11 09:17:43, spooks.local, PE_file, yaramem, /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Support/mdworker, 38446
+
+2015-02-11 09:17:44, spooks.local, PE_file, yaramem, /usr/bin/sudo, 38473
 

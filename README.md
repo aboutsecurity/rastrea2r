@@ -15,6 +15,37 @@ Bottle: pip install bottle
 
 ** Client 
 
-Yara: Get yara-python-1.7 from Google code (link here 32-64 bits) / DO NOT install yara-ctypes using pip install yara
+Yara: yara-python-1.7 from Google code (https://plusvic.github.io/yara/)
+
+DO NOT install yara-ctypes using pip install yara!!
+
 Requests: pip install requests
+
+** Current functionality in v0.1
+
+yara-disk: Yara scan for file/directory objects on disk
+
+yara-mem: Yara scan for running processes in memory
+
+
+** Roadmap v0.2
+
+triage:
+
+On Windows
+
+-- sysinternals: executes sysinternals binaries from smb share and writes output to smb share
+
+---- PSLOGGEDON
+---- AUTORUNS
+---- etc.
+
+memdump:
+
+
+
+
+
+
+
 

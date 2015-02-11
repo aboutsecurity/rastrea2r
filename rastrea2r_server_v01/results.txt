@@ -134,3 +134,519 @@
 
 2015-02-05 00:47:30, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 7732
 
+2015-02-06 12:11:31, WIN8-TEST, PE_file, yaramem, explorer.exe, 1312
+
+2015-02-06 12:11:33, WIN8-TEST, PE_file, yaramem, FlashUtil_ActiveX.exe, 1480
+
+2015-02-06 12:11:34, WIN8-TEST, PE_file, yaramem, conhost.exe, 1492
+
+2015-02-06 12:11:35, WIN8-TEST, PE_file, yaramem, TPAutoConnect.exe, 1600
+
+2015-02-06 12:11:39, WIN8-TEST, PE_file, yaramem, iexplore.exe, 1624
+
+2015-02-06 12:11:40, WIN8-TEST, PE_file, yaramem, cmd.exe, 1772
+
+2015-02-06 12:11:42, WIN8-TEST, PE_file, yaramem, iexplore.exe, 2352
+
+2015-02-06 12:11:43, WIN8-TEST, PE_file, yaramem, cmd.exe, 2436
+
+2015-02-06 12:11:45, WIN8-TEST, PE_file, yaramem, taskhostex.exe, 2876
+
+2015-02-06 12:11:46, WIN8-TEST, PE_file, yaramem, conhost.exe, 3148
+
+2015-02-06 12:11:48, WIN8-TEST, PE_file, yaramem, SettingSyncHost.exe, 3244
+
+2015-02-06 12:11:49, WIN8-TEST, PE_file, yaramem, cmd.exe, 3276
+
+2015-02-06 12:11:50, WIN8-TEST, PE_file, yaramem, rastrea2r_server.exe, 3296
+
+2015-02-06 12:11:52, WIN8-TEST, PE_file, yaramem, RuntimeBroker.exe, 3420
+
+2015-02-06 12:11:54, WIN8-TEST, PE_file, yaramem, vmtoolsd.exe, 3496
+
+2015-02-06 12:11:55, WIN8-TEST, PE_file, yaramem, conhost.exe, 3548
+
+2015-02-06 12:11:59, WIN8-TEST, PE_file, yaramem, WWAHost.exe, 3580
+
+2015-02-06 12:12:01, WIN8-TEST, PE_file, yaramem, WSHost.exe, 3676
+
+2015-02-06 12:12:02, WIN8-TEST, PE_file, yaramem, conhost.exe, 3684
+
+2015-02-06 12:12:05, WIN8-TEST, PE_file, yaramem, iexplore.exe, 3756
+
+2015-02-06 12:12:08, WIN8-TEST, PE_file, yaramem, iexplore.exe, 3804
+
+2015-02-06 12:12:18, WIN8-TEST, PE_file, yaramem, WWAHost.exe, 3920
+
+2015-02-06 12:12:20, WIN8-TEST, PE_file, yaramem, livecomm.exe, 4788
+
+2015-02-06 12:12:21, WIN8-TEST, PE_file, yaramem, ielowutil.exe, 5108
+
+2015-02-06 12:24:31, WIN8-TEST, PE_file, yaramem, explorer.exe, 1312
+
+2015-02-06 12:24:31, WIN8-TEST, PE_file, yaramem, conhost.exe, 1492
+
+2015-02-06 12:24:31, WIN8-TEST, PE_file, yaramem, TPAutoConnect.exe, 1600
+
+2015-02-06 12:24:32, WIN8-TEST, PE_file, yaramem, cmd.exe, 1772
+
+2015-02-06 12:24:32, WIN8-TEST, PE_file, yaramem, cmd.exe, 2436
+
+2015-02-06 12:24:33, WIN8-TEST, PE_file, yaramem, taskhostex.exe, 2876
+
+2015-02-06 12:24:33, WIN8-TEST, PE_file, yaramem, conhost.exe, 3148
+
+2015-02-06 12:24:34, WIN8-TEST, PE_file, yaramem, SettingSyncHost.exe, 3244
+
+2015-02-06 12:24:34, WIN8-TEST, PE_file, yaramem, cmd.exe, 3276
+
+2015-02-06 12:24:34, WIN8-TEST, PE_file, yaramem, RuntimeBroker.exe, 3420
+
+2015-02-06 12:24:35, WIN8-TEST, PE_file, yaramem, vmtoolsd.exe, 3496
+
+2015-02-06 12:24:35, WIN8-TEST, PE_file, yaramem, conhost.exe, 3548
+
+2015-02-06 12:24:36, WIN8-TEST, PE_file, yaramem, WSHost.exe, 3676
+
+2015-02-06 12:24:36, WIN8-TEST, PE_file, yaramem, conhost.exe, 3684
+
+2015-02-06 12:24:39, WIN8-TEST, PE_file, yaramem, WWAHost.exe, 4280
+
+2015-02-06 12:24:39, WIN8-TEST, PE_file, yaramem, ielowutil.exe, 5108
+
+2015-02-06 12:26:35, WIN8-TEST, PE_file, yaramem, C:\Windows\explorer.exe, 1312
+
+2015-02-06 12:26:35, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\conhost.exe, 1492
+
+2015-02-06 12:26:35, WIN8-TEST, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\TPAutoConnect.exe, 1600
+
+2015-02-06 12:26:35, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\cmd.exe, 1772
+
+2015-02-06 12:26:36, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\cmd.exe, 2436
+
+2015-02-06 12:26:36, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\taskhostex.exe, 2876
+
+2015-02-06 12:26:36, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\conhost.exe, 3148
+
+2015-02-06 12:26:37, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\SettingSyncHost.exe, 3244
+
+2015-02-06 12:26:37, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\cmd.exe, 3276
+
+2015-02-06 12:26:38, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\RuntimeBroker.exe, 3420
+
+2015-02-06 12:26:38, WIN8-TEST, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 3496
+
+2015-02-06 12:26:39, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\conhost.exe, 3548
+
+2015-02-06 12:26:39, WIN8-TEST, PE_file, yaramem, C:\Windows\WinStore\WSHost.exe, 3676
+
+2015-02-06 12:26:39, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\conhost.exe, 3684
+
+2015-02-06 12:26:41, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\WWAHost.exe, 4280
+
+2015-02-06 12:26:41, WIN8-TEST, PE_file, yaramem, C:\Program Files (x86)\Internet Explorer\ielowutil.exe, 5108
+
+2015-02-06 12:41:11, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01.zip
+
+2015-02-06 12:41:11, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01.zip
+
+2015-02-06 12:41:11, WIN8-TEST, PE_file, yaradisk, ./suspicious.yar
+
+2015-02-06 12:41:12, WIN8-TEST, PE_file, yaradisk, ./.git\objects\01\12eba29ffd2ea17bf68559b6823936c8f521ad
+
+2015-02-06 12:41:12, WIN8-TEST, PE_file, yaradisk, ./.git\objects\05\c9454eec818d6a03d25cea4c2913aa019a85c2
+
+2015-02-06 12:41:12, WIN8-TEST, PE_file, yaradisk, ./.git\objects\0d\b669b9ecbdcca28e04a8639a936cb76be3a36d
+
+2015-02-06 12:41:12, WIN8-TEST, PE_file, yaradisk, ./.git\objects\11\1dc56a791acc4b2d360b4b153c9a4eed57c23a
+
+2015-02-06 12:41:12, WIN8-TEST, PE_file, yaradisk, ./.git\objects\16\b0dae5c63289545ab3605ce252c772dae73011
+
+2015-02-06 12:41:12, WIN8-TEST, PE_file, yaradisk, ./.git\objects\23\8cf17cafb2b7c7c6ab522565911857e0730551
+
+2015-02-06 12:41:12, WIN8-TEST, PE_file, yaradisk, ./.git\objects\39\9173ab0fc44906516861ee2fb546d8dafcfa33
+
+2015-02-06 12:41:13, WIN8-TEST, PE_file, yaradisk, ./.git\objects\3e\03d9009edc17a3ed043b44ccabc57bb7e4ae12
+
+2015-02-06 12:41:13, WIN8-TEST, PE_file, yaradisk, ./.git\objects\41\2aba4e9c837045f405fa2c09b477bd95ce54a9
+
+2015-02-06 12:41:13, WIN8-TEST, PE_file, yaradisk, ./.git\objects\62\48542b2d34fa0050c760749686078459f21839
+
+2015-02-06 12:41:13, WIN8-TEST, PE_file, yaradisk, ./.git\objects\65\b7888c61df39d59ff6a8042fef7172cf1a39c2
+
+2015-02-06 12:41:13, WIN8-TEST, PE_file, yaradisk, ./.git\objects\70\b5e84333fb0bc764427bb73cc80a2c40bae7de
+
+2015-02-06 12:41:14, WIN8-TEST, PE_file, yaradisk, ./.git\objects\8c\e7540ae126794fd130c8e29c49e489776c3e1f
+
+2015-02-06 12:41:14, WIN8-TEST, PE_file, yaradisk, ./.git\objects\9a\0d90a867e0343bf35673d9d79044ed89341297
+
+2015-02-06 12:41:14, WIN8-TEST, PE_file, yaradisk, ./.git\objects\a5\84ea2834493f10d1d40cf680b70175e095e409
+
+2015-02-06 12:41:14, WIN8-TEST, PE_file, yaradisk, ./.git\objects\b0\22cad69acbad42f12c4cf9891a0ba3aeca56cf
+
+2015-02-06 12:41:15, WIN8-TEST, PE_file, yaradisk, ./.git\objects\ba\42d426877ad67e7e59418b87bf569f0bd528d9
+
+2015-02-06 12:41:15, WIN8-TEST, PE_file, yaradisk, ./.git\objects\bd\69d1d238f07705ccd902c4f799642c40f7ad10
+
+2015-02-06 12:41:17, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\_hashlib.pyd
+
+2015-02-06 12:41:17, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\_socket.pyd
+
+2015-02-06 12:41:17, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\_ssl.pyd
+
+2015-02-06 12:41:17, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\bz2.pyd
+
+2015-02-06 12:41:17, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\python27.dll
+
+2015-02-06 12:41:17, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\rastrea2r_server.exe
+
+2015-02-06 12:41:17, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\select.pyd
+
+2015-02-06 12:41:17, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\suspicious.yar
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\unicodedata.pyd
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\w9xpopen.exe
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\_ctypes.pyd
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\_hashlib.pyd
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\_socket.pyd
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\_ssl.pyd
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\_win32sysloader.pyd
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\API-MS-Win-Core-LocalRegistry-L1-1-0.dll
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\bz2.pyd
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\MPR.dll
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\pyexpat.pyd
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\python27.dll
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\pythoncom27.dll
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\pywintypes27.dll
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\rastrea2r_win32.exe
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\select.pyd
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\unicodedata.pyd
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\w9xpopen.exe
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\win32api.pyd
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\win32pipe.pyd
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\win32ui.pyd
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\win32wnet.pyd
+
+2015-02-06 12:41:18, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\yara.pyd
+
+2015-02-06 12:41:22, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01.zip
+
+2015-02-06 12:41:22, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01.zip
+
+2015-02-06 12:41:22, WIN8-TEST, PE_file, yaradisk, ./suspicious.yar
+
+2015-02-06 12:41:23, WIN8-TEST, PE_file, yaradisk, ./.git\objects\01\12eba29ffd2ea17bf68559b6823936c8f521ad
+
+2015-02-06 12:41:23, WIN8-TEST, PE_file, yaradisk, ./.git\objects\05\c9454eec818d6a03d25cea4c2913aa019a85c2
+
+2015-02-06 12:41:23, WIN8-TEST, PE_file, yaradisk, ./.git\objects\0d\b669b9ecbdcca28e04a8639a936cb76be3a36d
+
+2015-02-06 12:41:23, WIN8-TEST, PE_file, yaradisk, ./.git\objects\11\1dc56a791acc4b2d360b4b153c9a4eed57c23a
+
+2015-02-06 12:41:23, WIN8-TEST, PE_file, yaradisk, ./.git\objects\16\b0dae5c63289545ab3605ce252c772dae73011
+
+2015-02-06 12:41:23, WIN8-TEST, PE_file, yaradisk, ./.git\objects\23\8cf17cafb2b7c7c6ab522565911857e0730551
+
+2015-02-06 12:41:23, WIN8-TEST, PE_file, yaradisk, ./.git\objects\39\9173ab0fc44906516861ee2fb546d8dafcfa33
+
+2015-02-06 12:41:23, WIN8-TEST, PE_file, yaradisk, ./.git\objects\3e\03d9009edc17a3ed043b44ccabc57bb7e4ae12
+
+2015-02-06 12:41:23, WIN8-TEST, PE_file, yaradisk, ./.git\objects\41\2aba4e9c837045f405fa2c09b477bd95ce54a9
+
+2015-02-06 12:41:24, WIN8-TEST, PE_file, yaradisk, ./.git\objects\62\48542b2d34fa0050c760749686078459f21839
+
+2015-02-06 12:41:24, WIN8-TEST, PE_file, yaradisk, ./.git\objects\65\b7888c61df39d59ff6a8042fef7172cf1a39c2
+
+2015-02-06 12:41:24, WIN8-TEST, PE_file, yaradisk, ./.git\objects\70\b5e84333fb0bc764427bb73cc80a2c40bae7de
+
+2015-02-06 12:41:24, WIN8-TEST, PE_file, yaradisk, ./.git\objects\8c\e7540ae126794fd130c8e29c49e489776c3e1f
+
+2015-02-06 12:41:24, WIN8-TEST, PE_file, yaradisk, ./.git\objects\9a\0d90a867e0343bf35673d9d79044ed89341297
+
+2015-02-06 12:41:24, WIN8-TEST, PE_file, yaradisk, ./.git\objects\a5\84ea2834493f10d1d40cf680b70175e095e409
+
+2015-02-06 12:41:24, WIN8-TEST, PE_file, yaradisk, ./.git\objects\b0\22cad69acbad42f12c4cf9891a0ba3aeca56cf
+
+2015-02-06 12:41:25, WIN8-TEST, PE_file, yaradisk, ./.git\objects\ba\42d426877ad67e7e59418b87bf569f0bd528d9
+
+2015-02-06 12:41:25, WIN8-TEST, PE_file, yaradisk, ./.git\objects\bd\69d1d238f07705ccd902c4f799642c40f7ad10
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\_hashlib.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\_socket.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\_ssl.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\bz2.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\python27.dll
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\rastrea2r_server.exe
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\select.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\suspicious.yar
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\unicodedata.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_server_v01\w9xpopen.exe
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\_ctypes.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\_hashlib.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\_socket.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\_ssl.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\_win32sysloader.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\API-MS-Win-Core-LocalRegistry-L1-1-0.dll
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\bz2.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\MPR.dll
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\pyexpat.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\python27.dll
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\pythoncom27.dll
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\pywintypes27.dll
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\rastrea2r_win32.exe
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\select.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\unicodedata.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\w9xpopen.exe
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\win32api.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\win32pipe.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\win32ui.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\win32wnet.pyd
+
+2015-02-06 12:41:27, WIN8-TEST, PE_file, yaradisk, ./rastrea2r_win32_v01\yara.pyd
+
+2015-02-06 12:41:38, WIN8-TEST, PE_file, yaramem, C:\Windows\explorer.exe, 1312
+
+2015-02-06 12:41:38, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\conhost.exe, 1492
+
+2015-02-06 12:41:38, WIN8-TEST, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\TPAutoConnect.exe, 1600
+
+2015-02-06 12:41:38, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\cmd.exe, 1772
+
+2015-02-06 12:41:39, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\cmd.exe, 2436
+
+2015-02-06 12:41:39, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\taskhostex.exe, 2876
+
+2015-02-06 12:41:39, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\conhost.exe, 3148
+
+2015-02-06 12:41:40, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\SettingSyncHost.exe, 3244
+
+2015-02-06 12:41:40, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\cmd.exe, 3276
+
+2015-02-06 12:41:41, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\RuntimeBroker.exe, 3420
+
+2015-02-06 12:41:42, WIN8-TEST, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 3496
+
+2015-02-06 12:41:42, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\conhost.exe, 3548
+
+2015-02-06 12:41:43, WIN8-TEST, PE_file, yaramem, C:\Windows\WinStore\WSHost.exe, 3676
+
+2015-02-06 12:41:43, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\conhost.exe, 3684
+
+2015-02-06 12:41:44, WIN8-TEST, PE_file, yaramem, C:\Windows\System32\WWAHost.exe, 4280
+
+2015-02-06 12:41:45, WIN8-TEST, PE_file, yaramem, C:\Program Files\WindowsApps\microsoft.windowscommunicationsapps_17.4.9600.16384_x64__8wekyb3d8bbwe\livecomm.exe, 4396
+
+2015-02-06 12:41:45, WIN8-TEST, PE_file, yaramem, C:\Program Files (x86)\Internet Explorer\ielowutil.exe, 5108
+
+2015-02-09 15:46:54, WIN-M4BNKTIO76D, PE_file, yaradisk, c:\windows\temp\1b99\76577658avv.gem
+
+2015-02-09 15:46:55, WIN-M4BNKTIO76D, PE_file, yaradisk, c:\windows\temp\{29da3a37-6a61-4767-bb98-86d0515cd0b1}\.ba1\BootstrapperCore.dll
+
+2015-02-09 15:46:56, WIN-M4BNKTIO76D, PE_file, yaradisk, c:\windows\temp\{29da3a37-6a61-4767-bb98-86d0515cd0b1}\.ba1\ManagedUx.dll
+
+2015-02-09 15:46:57, WIN-M4BNKTIO76D, PE_file, yaradisk, c:\windows\temp\{29da3a37-6a61-4767-bb98-86d0515cd0b1}\.ba1\mbahost.dll
+
+2015-02-09 15:46:58, WIN-M4BNKTIO76D, PE_file, yaradisk, c:\windows\temp\{29da3a37-6a61-4767-bb98-86d0515cd0b1}\.ba1\mbapreq.dll
+
+2015-02-09 15:46:59, WIN-M4BNKTIO76D, PE_file, yaradisk, c:\windows\temp\{29da3a37-6a61-4767-bb98-86d0515cd0b1}\.ba1\sqmapi.dll
+
+2015-02-09 15:48:45, WIN-M4BNKTIO76D, PE_file, yaradisk, c:\windows\temp\1b99\76577658avv.gem
+
+2015-02-09 15:48:46, WIN-M4BNKTIO76D, PE_file, yaradisk, c:\windows\temp\{29da3a37-6a61-4767-bb98-86d0515cd0b1}\.ba1\BootstrapperCore.dll
+
+2015-02-09 15:48:47, WIN-M4BNKTIO76D, PE_file, yaradisk, c:\windows\temp\{29da3a37-6a61-4767-bb98-86d0515cd0b1}\.ba1\ManagedUx.dll
+
+2015-02-09 15:48:48, WIN-M4BNKTIO76D, PE_file, yaradisk, c:\windows\temp\{29da3a37-6a61-4767-bb98-86d0515cd0b1}\.ba1\mbahost.dll
+
+2015-02-09 15:48:49, WIN-M4BNKTIO76D, PE_file, yaradisk, c:\windows\temp\{29da3a37-6a61-4767-bb98-86d0515cd0b1}\.ba1\mbapreq.dll
+
+2015-02-09 15:48:50, WIN-M4BNKTIO76D, PE_file, yaradisk, c:\windows\temp\{29da3a37-6a61-4767-bb98-86d0515cd0b1}\.ba1\sqmapi.dll
+
+2015-02-09 16:10:37, WIN-M4BNKTIO76D, PE_file, yaramem, None, 312
+
+2015-02-09 16:10:38, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 412
+
+2015-02-09 16:10:39, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wininit.exe, 500
+
+2015-02-09 16:10:40, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\csrss.exe, 508
+
+2015-02-09 16:10:42, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\services.exe, 560
+
+2015-02-09 16:10:43, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsass.exe, 576
+
+2015-02-09 16:10:44, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\lsm.exe, 584
+
+2015-02-09 16:10:45, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\winlogon.exe, 644
+
+2015-02-09 16:10:47, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 732
+
+2015-02-09 16:10:48, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 812
+
+2015-02-09 16:10:49, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 904
+
+2015-02-09 16:10:51, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 944
+
+2015-02-09 16:10:52, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 984
+
+2015-02-09 16:10:54, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1008
+
+2015-02-09 16:10:56, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1284
+
+2015-02-09 16:10:57, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\spoolsv.exe, 1408
+
+2015-02-09 16:10:58, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1436
+
+2015-02-09 16:11:00, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 1496
+
+2015-02-09 16:11:01, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Adobe\ARM\1.0\armsvc.exe, 1568
+
+2015-02-09 16:11:02, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 1616
+
+2015-02-09 16:11:03, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Juniper Networks\Common Files\dsNcService.exe, 1648
+
+2015-02-09 16:11:05, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grrservice.exe, 1716
+
+2015-02-09 16:11:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\Juniper Networks\JUNS\dsAccessService.exe, 1764
+
+2015-02-09 16:11:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\FrameworkService.exe, 1816
+
+2015-02-09 16:11:09, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\VsTskMgr.exe, 1884
+
+2015-02-09 16:11:10, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\mfevtps.exe, 1916
+
+2015-02-09 16:11:12, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Microsoft.NET\Framework\v4.0.30319\SMSvcHost.exe, 1936
+
+2015-02-09 16:11:14, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\mfeann.exe, 1972
+
+2015-02-09 16:11:15, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 1988
+
+2015-02-09 16:11:16, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\naPrdMgr.exe, 404
+
+2015-02-09 16:11:17, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Microsoft SQL Server\90\Shared\sqlwriter.exe, 684
+
+2015-02-09 16:11:18, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 888
+
+2015-02-09 16:11:20, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 1184
+
+2015-02-09 16:11:21, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 408
+
+2015-02-09 16:11:23, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\McAfee\SystemCore\mcshield.exe, 1948
+
+2015-02-09 16:11:25, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Common Files\VMware\USB\vmware-usbarbitrator.exe, 2112
+
+2015-02-09 16:11:26, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 2428
+
+2015-02-09 16:11:27, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 2620
+
+2015-02-09 16:11:28, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\msdtc.exe, 2892
+
+2015-02-09 16:11:30, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\taskhost.exe, 3032
+
+2015-02-09 16:11:35, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\Dwm.exe, 3268
+
+2015-02-09 16:11:39, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\Explorer.EXE, 3304
+
+2015-02-09 16:11:41, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\VMware\VMware Tools\vmtoolsd.exe, 3412
+
+2015-02-09 16:11:42, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\concentr.exe, 3424
+
+2015-02-09 16:11:44, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\redirector.exe, 3440
+
+2015-02-09 16:11:45, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\UdaterUI.exe, 3448
+
+2015-02-09 16:11:46, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\Receiver\Receiver.exe, 3580
+
+2015-02-09 16:11:48, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Novell\Messenger\NMCL32.exe, 3616
+
+2015-02-09 16:11:49, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\Common Framework\McTray.exe, 2148
+
+2015-02-09 16:11:51, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\SearchIndexer.exe, 1112
+
+2015-02-09 16:11:53, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\ICA Client\wfcrun32.exe, 1544
+
+2015-02-09 16:11:54, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Citrix\SelfServicePlugin\SelfServicePlugin.exe, 4120
+
+2015-02-09 16:11:56, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\Windows Media Player\wmpnetwk.exe, 5032
+
+2015-02-09 16:11:58, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\McAfee\VirusScan Enterprise\SHSTAT.EXE, 5096
+
+2015-02-09 16:11:59, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\svchost.exe, 5244
+
+2015-02-09 16:12:01, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\sppsvc.exe, 4964
+
+2015-02-09 16:12:02, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\svchost.exe, 3684
+
+2015-02-09 16:12:03, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\apnmcp.exe, 5552
+
+2015-02-09 16:12:04, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\unsecapp.exe, 5984
+
+2015-02-09 16:12:06, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Users\user\AppData\Local\AskPartnerNetwork\Toolbar\Updater\IDC\IdcLdr.exe, 2372
+
+2015-02-09 16:12:07, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Program Files\AskPartnerNetwork\Toolbar\Updater\TBNotifier.exe, 3692
+
+2015-02-09 16:12:09, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\grr\3.0.0.2\grr.exe, 7892
+
+2015-02-09 16:12:10, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\System32\dinotify.exe, 2844
+
+2015-02-09 16:12:11, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 6164
+
+2015-02-09 16:12:13, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 7076
+
+2015-02-09 16:12:14, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\cmd.exe, 6588
+
+2015-02-09 16:12:15, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\conhost.exe, 1152
+
+2015-02-09 16:12:17, WIN-M4BNKTIO76D, PE_file, yaramem, Z:\ivalenzuela\github\aboutsecurity\rastrea2r\rastrea2r_server_v01\rastrea2r_server.exe, 7960
+
+2015-02-09 16:12:18, WIN-M4BNKTIO76D, PE_file, yaramem, C:\Windows\system32\wbem\wmiprvse.exe, 5028
+

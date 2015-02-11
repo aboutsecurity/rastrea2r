@@ -1,0 +1,11 @@
+('/Users/ivalenzuela/github/aboutsecurity/rastrea2r/osx/build/rastrea2r_osx/out00-PKG.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1},
+ [('out00-PYZ.pyz', '/Users/ivalenzuela/github/aboutsecurity/rastrea2r/osx/build/rastrea2r_osx/out00-PYZ.pyz', 'PYZ'), ('_struct', '/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload/_struct.so', 'EXTENSION'), ('struct', '/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/struct.pyc', 'PYMODULE'), ('pyi_os_path', '/Library/Python/2.7/site-packages/PyInstaller/loader/pyi_os_path.pyc', 'PYMODULE'), ('pyi_archive', '/Library/Python/2.7/site-packages/PyInstaller/loader/pyi_archive.pyc', 'PYMODULE'), ('pyi_importers', '/Library/Python/2.7/site-packages/PyInstaller/loader/pyi_importers.pyc', 'PYMODULE'), ('_pyi_bootstrap', '/Library/Python/2.7/site-packages/PyInstaller/loader/_pyi_bootstrap.py', 'PYSOURCE'), ('pyi_carchive', '/Library/Python/2.7/site-packages/PyInstaller/loader/pyi_carchive.py', 'PYSOURCE'), ('_pyi_egg_install.py', '/Library/Python/2.7/site-packages/PyInstaller/loader/_pyi_egg_install.py', 'PYSOURCE'), ('rastrea2r_osx', 'rastrea2r_osx.py', 'PYSOURCE')],
+ True,
+ None,
+ False)
