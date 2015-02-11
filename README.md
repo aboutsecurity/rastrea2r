@@ -8,6 +8,8 @@ Dependencies
 
 Python 2.7.x
 
+Latest version as Feb 2015 is https://www.python.org/downloads/release/python-279/
+
 ** Server.py
 
 Bottle: pip install bottle
@@ -18,7 +20,14 @@ Yara: yara-python-1.7 from Google code (https://plusvic.github.io/yara/)
 
 DO NOT install yara-ctypes using pip install yara!!
 
+For Windows 64 bit latest version is yara-python-3.3.0.win-amd64-py2.7.exe (Feb 2015)
+
 Requests: pip install requests
+
+** Compiling
+
+Pyinstaller: https://github.com/pyinstaller/pyinstaller/wiki
+Pywin32: http://sourceforge.net/projects/pywin32/files/ ** Windows only
 
 ** Current functionality in v0.3
 
