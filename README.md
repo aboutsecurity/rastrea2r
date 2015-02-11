@@ -1,7 +1,6 @@
 # rastrea2r
 
-Tested on Python 2.7.9 on Windows 7 32 bits / Mac OS Yosemite
-
+Tested on Python 2.7.9 on Windows 7 32-64 bits / Windows 8.1 / Mac OS Yosemite
 
 Dependencies
 
@@ -21,26 +20,15 @@ DO NOT install yara-ctypes using pip install yara!!
 
 Requests: pip install requests
 
-** Current functionality in v0.1
+** Current functionality in v0.3
 
 yara-disk: Yara scan for file/directory objects on disk
 
 yara-mem: Yara scan for running processes in memory
 
+memdump: Acquires a memory dump from the endpoint ** Windows only
 
-** Roadmap v0.2
-
-triage:
-
-On Windows
-
--- sysinternals: executes sysinternals binaries from smb share and writes output to smb share
-
----- PSLOGGEDON
----- AUTORUNS
----- etc.
-
-memdump:
+triage: Collects triage information from the endpoint ** Windows only
 
 
 

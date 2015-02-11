@@ -2,11 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b784e82-786b-4dee-98e9-f7ed365853f6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rastrea2r_win64_v0.3.py" afterPath="$PROJECT_DIR$/rastrea2r_win64_v0.3.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/CRYPT32.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/IPHLPAPI.DLL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/MSVCR100.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/PSAPI.DLL" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/WTSAPI32.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/_ctypes.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/_hashlib.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/_psutil_windows.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/_socket.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/_ssl.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/bz2.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/pyexpat.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/python27.dll" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/rastrea2r_win64.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/select.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/unicodedata.pyd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/w9xpopen.exe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rastrea2r_win64_v01/yara.pyd" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rastrea2r.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="9b784e82-786b-4dee-98e9-f7ed365853f6" time="1423568841880" ignored="false" />
+    <file path="/Dummy.txt" changelist="9b784e82-786b-4dee-98e9-f7ed365853f6" time="1423669401464" ignored="false" />
     <file path="/server.py" changelist="9b784e82-786b-4dee-98e9-f7ed365853f6" time="1423088236022" ignored="false" />
     <file path="/yararest.py" changelist="9b784e82-786b-4dee-98e9-f7ed365853f6" time="1423055804366" ignored="false" />
     <file path="/yarawmi.py" changelist="9b784e82-786b-4dee-98e9-f7ed365853f6" time="1423065691164" ignored="false" />
@@ -15,7 +34,7 @@
     <file path="/triage.py" changelist="9b784e82-786b-4dee-98e9-f7ed365853f6" time="1423655210651" ignored="false" />
     <file path="/rastrea2r_win64.py" changelist="9b784e82-786b-4dee-98e9-f7ed365853f6" time="1423225566803" ignored="false" />
     <file path="/rastrea2r_osx.py" changelist="9b784e82-786b-4dee-98e9-f7ed365853f6" time="1423639123002" ignored="false" />
-    <file path="/README.md" changelist="9b784e82-786b-4dee-98e9-f7ed365853f6" time="1423651099570" ignored="false" />
+    <file path="/README.md" changelist="9b784e82-786b-4dee-98e9-f7ed365853f6" time="1423669683847" ignored="false" />
     <file path="/rastrea2r_win64_v0.3.py" changelist="9b784e82-786b-4dee-98e9-f7ed365853f6" time="1423668363332" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,88 +55,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="triage.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/triage.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="7" selection-start="542" selection-end="568" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#119#129#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rapidtriage_1.2.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/tools/rapidtriage/rapidtriage_1.2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="609" column="53" selection-start="23182" selection-end="23182" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rastrea2r_win32.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rastrea2r_win32.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="7" selection-start="2083" selection-end="2099" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rastrea2r_win64.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rastrea2r_win64.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="40" selection-start="1566" selection-end="1592" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="e#122#131#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rastrea2r_win64_v0.3.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rastrea2r_win64_v0.3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="162" column="47" selection-start="4667" selection-end="4667" vertical-scroll-proportion="0.4347826">
-              <folding>
-                <element signature="e#122#131#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="rastrea2r_osx.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/osx/rastrea2r_osx.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="115" column="49" selection-start="3021" selection-end="3076" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.md" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="0" selection-start="659" selection-end="659" vertical-scroll-proportion="0.0">
+            <state line="17" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.43367347">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="setup.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/setup.py">
+      <file leaf-file-name="rastrea2r_win64_v0.3.spec" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/win64/rastrea2r_win64_v0.3.spec">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rastrea2r_server.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rastrea2r_server.py">
+      <file leaf-file-name="rastrea2r_win64_v0.3.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/win64/rastrea2r_win64_v0.3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="21" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0">
+            <state line="215" column="56" selection-start="7075" selection-end="7120" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -148,9 +110,9 @@
         <option value="$PROJECT_DIR$/rastrea2r_win64.py" />
         <option value="$PROJECT_DIR$/setup.py" />
         <option value="$PROJECT_DIR$/rastrea2r_osx.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/triage.py" />
         <option value="$PROJECT_DIR$/rastrea2r_win64_v0.3.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -186,6 +148,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -214,13 +177,26 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="win64" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rastrea2r" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rastrea2r" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="osx" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,8 +204,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="fileColors" />
     <property name="last_opened_file_path" value="$USER_HOME$/tools/rapidtriage/rapidtriage_1.2.py" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -334,7 +310,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="23" width="1024" height="711" extended-state="6" />
+    <frame x="1" y="23" width="1024" height="711" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -417,90 +393,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/triage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="0" selection-start="506" selection-end="506" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#119#129#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/tools/rapidtriage/rapidtriage_1.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="609" column="53" selection-start="23182" selection-end="23182" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rastrea2r_win32.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="33" selection-start="2996" selection-end="2996" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rastrea2r_win64.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="56" selection-start="2930" selection-end="2930" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#122#131#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rastrea2r_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="52" selection-start="946" selection-end="994" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rastrea2r_win32.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="16" selection-start="2625" selection-end="2625" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="39" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rastrea2r_server.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="21" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rastrea2r_win32.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="7" selection-start="2083" selection-end="2099" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="0" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="0" selection-start="659" selection-end="659" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/tools/rapidtriage/rapidtriage_1.2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="609" column="53" selection-start="23182" selection-end="23182" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -512,30 +407,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rastrea2r_win64.py">
+    <entry file="file://$USER_HOME$/tools/rapidtriage/rapidtriage_1.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="40" selection-start="1566" selection-end="1592" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#122#131#0" expanded="true" />
-          </folding>
+        <state line="609" column="53" selection-start="23182" selection-end="23182" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/triage.py">
+    <entry file="file://$USER_HOME$/tools/rapidtriage/rapidtriage_1.2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="7" selection-start="542" selection-end="568" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="e#119#129#0" expanded="true" />
-          </folding>
+        <state line="609" column="53" selection-start="23182" selection-end="23182" vertical-scroll-proportion="0.026086956">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rastrea2r_win64_v0.3.py">
+    <entry file="file://$PROJECT_DIR$/osx/rastrea2r_osx.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="162" column="47" selection-start="4667" selection-end="4667" vertical-scroll-proportion="0.4347826">
-          <folding>
-            <element signature="e#122#131#0" expanded="true" />
-          </folding>
+        <state line="115" column="49" selection-start="3021" selection-end="3076" vertical-scroll-proportion="0.026086956">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/win64/rastrea2r_win64_v0.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="215" column="56" selection-start="7075" selection-end="7120" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/win64/rastrea2r_win64_v0.3.spec">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="260" selection-end="260" vertical-scroll-proportion="0.43367347">
+          <folding />
         </state>
       </provider>
     </entry>
