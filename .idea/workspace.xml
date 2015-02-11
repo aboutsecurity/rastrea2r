@@ -3,11 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="77065af4-c3a5-4a5e-a489-77225d3f569a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rastrea2r.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="77065af4-c3a5-4a5e-a489-77225d3f569a" time="1423671986103" ignored="false" />
+    <file path="/Dummy.txt" changelist="77065af4-c3a5-4a5e-a489-77225d3f569a" time="1423673066967" ignored="false" />
     <file path="/README.md" changelist="77065af4-c3a5-4a5e-a489-77225d3f569a" time="1423672253782" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +30,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="59" selection-start="1407" selection-end="1407" vertical-scroll-proportion="0.6869565">
+            <state line="54" column="2" selection-start="1337" selection-end="1337" vertical-scroll-proportion="0.5575843">
               <folding />
             </state>
           </provider>
@@ -61,8 +60,8 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1024" />
-    <option name="height" value="711" />
+    <option name="width" value="1440" />
+    <option name="height" value="835" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -117,8 +116,8 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="fileColors" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
     <list size="0" />
@@ -133,7 +132,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1024" height="711" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="835" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -218,7 +217,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="59" selection-start="1407" selection-end="1407" vertical-scroll-proportion="0.6869565">
+        <state line="54" column="2" selection-start="1337" selection-end="1337" vertical-scroll-proportion="0.5575843">
           <folding />
         </state>
       </provider>
