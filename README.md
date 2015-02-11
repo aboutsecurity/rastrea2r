@@ -42,6 +42,24 @@ memdump: Acquires a memory dump from the endpoint ** Windows only
 
 triage: Collects triage information from the endpoint ** Windows only
 
+** Notes
+
+For memdump and triage modules, SMB shares must be set up in this specific way:
+
+-- Binaries (sysinternals, batch files and others) must be located in a shared folder called TOOLS (read only)
+
+\\server\tools
+
+-- Output is sent to a shared folder called DATA (write only)
+
+\\server\data
+
+For yara-mem and yara-disk scans, the yara rules must be in the same directory where the server is executed from.
+
+The RESTful API server stores data received in a file called results.txt in the same directory.
+
+
+
 
 
 
