@@ -18,6 +18,9 @@ Bottle: pip install bottle
 
 Yara: yara-python-1.7 from Google code (https://plusvic.github.io/yara/)
 
+PSutil for win64: https://github.com/giampaolo/psutil
+WMI for win32: https://pypi.python.org/pypi/WMI/
+
 DO NOT install yara-ctypes using pip install yara!!
 
 For Windows 64 bit latest version is yara-python-3.3.0.win-amd64-py2.7.exe (Feb 2015)
