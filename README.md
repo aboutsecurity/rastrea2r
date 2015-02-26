@@ -31,6 +31,7 @@ Requests: pip install requests
 ** Compiling
 
 Pyinstaller: https://github.com/pyinstaller/pyinstaller/wiki
+
 Pywin32: http://sourceforge.net/projects/pywin32/files/ ** Windows only
 
 ** Current functionality in v0.3
