@@ -1,0 +1,9 @@
+('Z:\\ivalenzuela\\github\\aboutsecurity\\rastrea2r\\win32\\build\\rastrea2r_win32_v0.3\\rastrea2r_win32_v0.3.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1424980342L)
