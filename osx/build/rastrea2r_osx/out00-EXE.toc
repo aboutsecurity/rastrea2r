@@ -1,9 +1,0 @@
-('/Users/ivalenzuela/github/aboutsecurity/rastrea2r/osx/build/rastrea2r_osx/rastrea2r_osx',
- True,
- False,
- None,
- None,
- [],
- None,
- False,
- 1423639595)

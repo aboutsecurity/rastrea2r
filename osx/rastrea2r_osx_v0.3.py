@@ -14,7 +14,7 @@ from argparse import ArgumentParser
 
 
 __author__ = 'ismael.valenzuela@foundstone.com'
-__version__ = '0.1'
+__version__ = '0.3'
 
 
 """ Variables """

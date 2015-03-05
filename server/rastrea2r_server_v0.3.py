@@ -10,7 +10,7 @@ from bottle import route, get, run, post, request
 import socket
 
 __author__ = 'ismael.valenzuela@foundstone.com'
-__version__ = '0.1'
+__version__ = '0.3'
 
 """ Variables """
 
