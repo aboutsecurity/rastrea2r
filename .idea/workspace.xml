@@ -2,179 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="77065af4-c3a5-4a5e-a489-77225d3f569a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/linux/rastrea2r_linux.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/build/rastrea2r_osx/logdict2.7.6.final.0-1.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/build/rastrea2r_osx/out00-Analysis.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/build/rastrea2r_osx/out00-COLLECT.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/build/rastrea2r_osx/out00-EXE.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/build/rastrea2r_osx/out00-PKG.pkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/build/rastrea2r_osx/out00-PKG.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/build/rastrea2r_osx/out00-PYZ.pyz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/build/rastrea2r_osx/out00-PYZ.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/build/rastrea2r_osx/rastrea2r_osx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/build/rastrea2r_osx/warnrastrea2r_osx.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/MacOS.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/Nav.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/OpenSSL.SSL.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/OpenSSL.crypto.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/OpenSSL.rand.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/Python" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_AE.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_Ctl.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_Dlg.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_Evt.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_File.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_Menu.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_Qd.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_Res.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_Win.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_bisect.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_codecs_cn.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_codecs_hk.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_codecs_iso2022.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_codecs_jp.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_codecs_kr.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_codecs_tw.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_collections.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_ctypes.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_functools.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_hashlib.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_heapq.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_io.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_json.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_locale.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_multibytecodec.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_psutil_osx.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_psutil_posix.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_random.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_scproxy.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_socket.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_ssl.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/_struct.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/array.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/audioop.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/binascii.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/bz2.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/cPickle.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/cStringIO.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/datetime.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/dl.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/eggs/argparse-1.2.1-py2.7.egg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/fcntl.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/gestalt.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/itertools.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/libpcre.1.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/libyara.0.dylib" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/math.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/operator.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/pyexpat.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/rastrea2r_osx" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/readline.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/select.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/simplejson._speedups.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/strop.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/termios.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/time.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/unicodedata.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/yara.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/dist/rastrea2r_osx/zlib.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/rastrea2r_osx.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/osx/rastrea2r_osx.spec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/binaries/rastrea2r_server.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/rastrea2r_server.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/server/suspicious.yar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/API-MS-Win-Core-LocalRegistry-L1-1-0.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/MPR.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/_ctypes.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/_hashlib.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/_socket.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/_ssl.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/_win32sysloader.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/bz2.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/pyexpat.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/python27.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/pythoncom27.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/pywintypes27.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/rastrea2r_win32.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/select.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/unicodedata.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/usage.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/w9xpopen.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/win32api.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/win32pipe.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/win32ui.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/win32wnet.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/binaries/yara.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/build/rastrea2r_win32_v0.3/logdict2.7.9.final.0-1.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/build/rastrea2r_win32_v0.3/out00-Analysis.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/build/rastrea2r_win32_v0.3/out00-COLLECT.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/build/rastrea2r_win32_v0.3/out00-EXE.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/build/rastrea2r_win32_v0.3/out00-PKG.pkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/build/rastrea2r_win32_v0.3/out00-PKG.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/build/rastrea2r_win32_v0.3/out00-PYZ.pyz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/build/rastrea2r_win32_v0.3/out00-PYZ.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/build/rastrea2r_win32_v0.3/rastrea2r_win32_v0.3.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/build/rastrea2r_win32_v0.3/rastrea2r_win32_v0.3.exe.manifest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/build/rastrea2r_win32_v0.3/warnrastrea2r_win32_v0.3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/Microsoft.VC90.CRT.manifest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/_ctypes.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/_hashlib.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/_psutil_windows.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/_socket.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/_ssl.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/bz2.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/msvcm90.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/msvcp90.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/msvcr90.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/pyexpat.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/python27.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/pywintypes27.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/rastrea2r_win32_v0.3.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/rastrea2r_win32_v0.3.exe.manifest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/select.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/unicodedata.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/win32api.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/win32pipe.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/win32wnet.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/dist/rastrea2r_win32_v0.3/yara.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/rastrea2r_win32_v0.3.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win32/rastrea2r_win32_v0.3.spec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/build/rastrea2r_win64_v0.3/logdict2.7.9.final.0-1.log" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/build/rastrea2r_win64_v0.3/out00-Analysis.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/build/rastrea2r_win64_v0.3/out00-COLLECT.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/build/rastrea2r_win64_v0.3/out00-EXE.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/build/rastrea2r_win64_v0.3/out00-PKG.pkg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/build/rastrea2r_win64_v0.3/out00-PKG.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/build/rastrea2r_win64_v0.3/out00-PYZ.pyz" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/build/rastrea2r_win64_v0.3/out00-PYZ.toc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/build/rastrea2r_win64_v0.3/rastrea2r_win64_v0.3.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/build/rastrea2r_win64_v0.3/rastrea2r_win64_v0.3.exe.manifest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/build/rastrea2r_win64_v0.3/warnrastrea2r_win64_v0.3.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/_ctypes.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/_hashlib.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/_psutil_windows.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/_socket.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/_ssl.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/bz2.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/pyexpat.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/python27.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/pywintypes27.dll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/rastrea2r_win64_v0.3.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/rastrea2r_win64_v0.3.exe.manifest" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/select.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/unicodedata.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/win32api.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/win32pipe.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/win32wnet.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/dist/rastrea2r_win64_v0.3/yara.pyd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/win64/rastrea2r_win64_v0.3.spec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/other.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/rastrea2r.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/testrunner.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="rastrea2r.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="77065af4-c3a5-4a5e-a489-77225d3f569a" time="1425572056095" ignored="false" />
-    <file path="/README.md" changelist="77065af4-c3a5-4a5e-a489-77225d3f569a" time="1425572157116" ignored="false" />
+    <file path="/README.md" changelist="77065af4-c3a5-4a5e-a489-77225d3f569a" time="1425572648824" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -206,7 +48,7 @@
       <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="44" selection-start="1332" selection-end="1332" vertical-scroll-proportion="1.1376405">
+            <state line="11" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="0.23174158">
               <folding />
             </state>
           </provider>
@@ -605,7 +447,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="44" selection-start="1332" selection-end="1332" vertical-scroll-proportion="1.1376405">
+        <state line="11" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="0.23174158">
           <folding />
         </state>
       </provider>

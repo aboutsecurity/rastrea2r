@@ -2,7 +2,7 @@
 
 Tested on Python 2.7.9 on Windows 7 32-64 bits / Windows 8.1 / Mac OS Yosemite
 
-Dependencies
+# Dependencies
 
 ** General
 
@@ -28,13 +28,15 @@ For Windows 64 bit latest version is yara-python-3.3.0.win-amd64-py2.7.exe (Feb 
 
 Requests: pip install requests
 
-** Compiling
+# Compiling rastrea2r
 
-Pyinstaller: https://github.com/pyinstaller/pyinstaller/wiki
+Make sure you have all the dependencies installed for the binary you are going to build on your Windows box. Then install:
 
 Pywin32: http://sourceforge.net/projects/pywin32/files/ ** Windows only
 
-** Current functionality in v0.3
+Pyinstaller: https://github.com/pyinstaller/pyinstaller/wiki
+
+# Current functionality in v0.5
 
 yara-disk: Yara scan for file/directory objects on disk
 
