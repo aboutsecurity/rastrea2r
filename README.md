@@ -73,7 +73,7 @@ is licensed under the [MIT license](http://opensource.org/licenses/mit-license.p
 
 To Robert Gresham Jr. for his help with the Triage module. Thanks buddy!
 
-To Ricardo Dias for the idea of using a REST server and his great paper on how to use Python and Yara on ePO: http://www.sans.org/reading-room/whitepapers/forensics/intelligence-driven-incident-response-yara-35542
+To Ricardo Dias for the idea of using a REST server and his great paper on how to use Python and Yara with McAfee ePO: http://www.sans.org/reading-room/whitepapers/forensics/intelligence-driven-incident-response-yara-35542
 
 
 
