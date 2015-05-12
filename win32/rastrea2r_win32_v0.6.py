@@ -18,7 +18,7 @@ from argparse import ArgumentParser
 
 
 __author__ = 'ismael.valenzuela@foundstone.com'
-__version__ = '0.5'
+__version__ = '0.6'
 
 # added functionality to acquire a memory dump remotely using Winpmem
 # added triage module to wrap Sysinternals/third-party tools and Win native commands
@@ -172,19 +172,7 @@ def triage(tool_server, output_server, silent):
 
     """ Add your list of Sysinternal / third-party / BATCH files here """
 
-    tool=('psinfo.exe /accepteula', # Gathers basic system information
-		 'diskext.exe /accepteula', # Gathers disks mounted
-		 'logonsessions.exe /p /accepteula', # Gathers logon sessions and process running in them
-		 'psfile.exe /accepteula', # Gathers if any files are opened remotely
-		 'psloggedon.exe -p /accepteula', # Gathers all logon sessions with running processes
-		 'psloglist.exe -d 1 /accepteula', # Gathers all events since in the last day
-		 'pslist.exe -t /accepteula', # Gather system process tree
-		 'psservice.exe /accepteula', # Gathers all the services information
-		 'psservice.exe security /accepteula', # Gathers all service security information
-		 'autorunsc.exe -a * -ct -h /accepteula', # Gathers all the autoruns service points
-		 'tcpvcon.exe -a /accepteula', # Gathers TCP/UDP connections
-		 'handle.exe -a -u /accepteula', # Gathers what files are open by what processes and more
-		 'listdlls.exe -r -u -v /accepteula', # Gathers all DLLs not loaded in base address, unsigned and shows version information
+    tool=(
          'systeminfo.cmd', # Gathers systeminfo
          'set.cmd', # Gathers Set variables
          'dir-tree.cmd', # Enumerates C:\ directory tree
@@ -204,8 +192,21 @@ def triage(tool_server, output_server, silent):
          'tasklist.cmd', # Gathers Tasklist /m information
          'at-schtasks.cmd', # Gathers scheduled tasks information
          'startup-list.cmd', # Gathers WMIC Startup list full
-         'zRemote.bat') #Runs local commands via a batch file in the tools directory.
+         'zRemote.bat',
+         'psinfo.exe /accepteula', # Gathers basic system information
+         'diskext.exe /accepteula', # Gathers disks mounted
+         'logonsessions.exe /p /accepteula', # Gathers logon sessions and process running in them
+         'psfile.exe /accepteula', # Gathers if any files are opened remotely
+         'psloggedon.exe -p /accepteula', # Gathers all logon sessions with running processes
+         'psloglist.exe -d 1 /accepteula', # Gathers all events since in the last day
+         'pslist.exe -t /accepteula', # Gather system process tree
+         'psservice.exe /accepteula', # Gathers all the services information
+         'tcpvcon.exe -a /accepteula', # Gathers TCP/UDP connections
+         'handle.exe -a -u /accepteula', # Gathers what files are open by what processes and more
+         'listdlls.exe -r -u -v /accepteula', # Gathers all DLLs not loaded in base address, unsigned and shows version information') #Runs local commands via a batch file in the tools directory.
+         'autorunsc.exe -a * -ct -h /accepteula', # Gathers all the autoruns service points
 
+    )
     """ BATCH files must be called with the .bat extension """
 
     for task in tool: # Iterates over the list of commands
