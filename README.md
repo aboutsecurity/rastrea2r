@@ -75,6 +75,8 @@ To Robert Gresham Jr. for his help with the Triage module. Thanks buddy!
 
 To Ricardo Dias for the idea of using a REST server and his great paper on how to use Python and Yara with McAfee ePO: http://www.sans.org/reading-room/whitepapers/forensics/intelligence-driven-incident-response-yara-35542
 
+Presentation on how to use rastrea2r and open source tools for Incident Response, Continuous Monitoring and Hunting (SANS @Night, McLean VA, February 2016): https://github.com/aboutsecurity/Talks-and-Presentations/blob/master/Ismael_Valenzuela-Hunting_for_IOCs_rastrea2r-Feb-2016.pdf
+
 
 
 
