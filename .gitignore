@@ -1,0 +1,8 @@
+
+*.swp
+
+.idea/.name
+
+*.xml
+
+*.iml
