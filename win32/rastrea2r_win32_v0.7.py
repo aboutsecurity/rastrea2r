@@ -31,9 +31,9 @@ BLOCKSIZE = 65536
 
 def hashfile(file):
 
-    """ Hashes output files with SHA1 using buffers to reduce memory impact """
+    """ Hashes output files with SHA256 using buffers to reduce memory impact """
 
-    hasher = hashlib.sha1()
+    hasher = hashlib.sha256()
 
     with open(file, 'rb') as afile:
         buf = afile.read(BLOCKSIZE)
