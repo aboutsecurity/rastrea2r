@@ -10,3 +10,5 @@ Bug tracker at https://github.com/aboutsecurity/rastrea2r/issues
 - Hashes output files with SHA256 using buffers to reduce memory impact
 
 **Bug fixes**
+
+
