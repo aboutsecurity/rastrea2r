@@ -1,6 +1,16 @@
 # rastrea2r
 
+Collecting & Hunting for Indicators of Compromise (IOC) with gusto and style! by @aboutsecurity
+
 Tested on Python 2.7.9-11 on Windows 7 32-64 bits / Windows 8.1 / Mac OS Yosemite
+
+# Demo videos on Youtube
+
+Video 1: Incident Response / Triage with rastrea2r on the command line  - https://youtu.be/uFIZxqWeSyQ
+
+Video 2: Remote Yara scans with rastrea2r on the command line - https://youtu.be/cnY1yEslirw
+
+Video 3: Using rastrea2r with McAfee ePO - Client Tasks & Execution - https://youtu.be/jB17uLtu45Y
 
 # Dependencies
 
