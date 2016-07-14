@@ -12,6 +12,8 @@ import psutil  # New multiplatform library
 import subprocess
 import hashlib
 import zipfile
+import shutil
+import glob
 
 from time import gmtime, strftime
 from requests import post
@@ -252,6 +254,89 @@ def triage(tool_server, output_server, silent):
 
             g.write("%s - %s \n\n" % (f.name, hashfile(f.name)))
 
+def webhist(tool_server, output_server, histuser, silent):
+
+    """ Web History collection module """
+    
+    createt = strftime('%Y%m%d%H%M%S', gmtime()) # Timestamp in GMT
+    smb_bin = tool_server + r'\tools' # TOOLS Read-only share with third-party binary tools
+
+    # Setup startupinfo to hide console window when executing via subprocess.call
+    si = subprocess.STARTUPINFO()
+    si.dwFlags = subprocess.CREATE_NEW_CONSOLE | subprocess.STARTF_USESHOWWINDOW
+    si.wShowWindow = subprocess.SW_HIDE
+	
+    smb_data = output_server + r'\data' + r'\webhistory-' + os.environ['COMPUTERNAME'] + '\\' + createt # DATA Write-only share for output data
+    if not os.path.exists(r'\\' + smb_data):
+        os.makedirs(r'\\' + smb_data)
+
+    if not silent:
+        print '\nSaving output to ' + smb_data
+
+    if histuser == 'all':
+        user_dirs = next(os.walk('c:\\users\\'))[1]
+    else:
+        user_dirs = [histuser]
+        
+    for user_dir in user_dirs:
+        #browserhistoryview.exe command line
+        bhv_command = '\\\\' + smb_bin + '\\browsinghistoryview\\browsinghistoryview.exe /HistorySource 6'
+        #define output file
+        webhist_output = r'\\' + smb_data + '\\' + createt + '-' + os.environ['COMPUTERNAME'] + '-webhist-' + user_dir + '.csv'
+        #define paths to different browser's history files
+        ie5to9_history_dir = 'c:\\users\\' + user_dir
+        ie10_cache_dir = 'c:\\users\\' + user_dir + '\\appdata\\local\microsoft\\windows\\webcache\\'
+        ie10_tmp_cache_dir = 'c:\\users\\' + user_dir + '\\appdata\\local\microsoft\\windows\\webcache_tmp\\'
+        ff_profile_dir = 'c:\\users\\' + user_dir + '\\appdata\\roaming\\mozilla\\firefox\\profiles\\'
+        chrome_profile_dir = 'c:\\users\\' + user_dir + '\\appdata\\local\\google\\chrome\\user data\\'
+        #IE5-9 History
+        if os.path.exists(ie5to9_history_dir):
+            bhv_command = bhv_command + ' /CustomFiles.IEFolders "' + ie5to9_history_dir + '"'
+        #IE10+ History
+        if os.path.exists(ie10_cache_dir + 'webcachev01.dat'):
+            #create temp webcache folder for IE10+
+            if not os.path.exists(ie10_tmp_cache_dir):
+                os.makedirs(ie10_tmp_cache_dir)
+            #copy contents of IE webcache to temp webcache folder
+            for i in os.listdir(ie10_cache_dir):
+                subprocess.call('\\\\' + smb_bin + '\\RawCopy\\RawCopy.exe ' + ie10_cache_dir + i + ' ' + ie10_tmp_cache_dir, startupinfo=si)
+            #insure webcachev01.dat is "clean" before parsing
+            subprocess.call('esentutl /r V01 /d', cwd=ie10_tmp_cache_dir)
+            bhv_command = bhv_command + ' /CustomFiles.IE10Files "' + ie10_tmp_cache_dir + 'webcachev01.dat"'
+        #Firefox History
+        first_history = True
+        if os.path.exists(ff_profile_dir):
+            ff_profiles = next(os.walk(ff_profile_dir))[1]
+            for ff_profile in ff_profiles:
+                if os.path.exists(ff_profile_dir + ff_profile + '\\places.sqlite'):
+                    if first_history:
+                        bhv_command = bhv_command + ' /CustomFiles.FirefoxFiles "' + ff_profile_dir + ff_profile + '\\places.sqlite"'
+                        first_history = False
+                    else:
+                        bhv_command = bhv_command + ',"' + ff_profile_dir + ff_profile + '\\places.sqlite"'
+        #Chrome History
+        first_history = True
+        if os.path.exists(chrome_profile_dir):
+            #get default chrome profile
+            chrome_profile_dirs = glob.glob(chrome_profile_dir + 'default*') + glob.glob(chrome_profile_dir + 'profile*')
+            for chrome_profile in chrome_profile_dirs:
+                if os.path.exists(chrome_profile + '\\history'):
+                    if first_history:
+                        bhv_command = bhv_command + ' /CustomFiles.ChromeFiles "' + chrome_profile + '\\history"'
+                        first_history = False
+                    else:
+                        bhv_command = bhv_command + ',"' + chrome_profile + '\\history"'
+        #Parse history files
+        bhv_command = bhv_command + ' /sort "Visit Time" /VisitTimeFilterType 1 /scomma "' + webhist_output + '"'
+        if not silent:
+            print bhv_command
+        subprocess.call(bhv_command, startupinfo=si)
+        #Hash output file
+        g = open(r'\\'+smb_data+r'\\' + createt + '-' + os.environ['COMPUTERNAME'] + '-' + 'sha256-hashing.log','a')
+        g.write("%s - %s \n\n" % (webhist_output, hashfile(webhist_output)))
+        #Remove temp webcache folder for IE10+
+        if os.path.exists(ie10_tmp_cache_dir):
+            shutil.rmtree(ie10_tmp_cache_dir)
 
 def main():
 
@@ -290,6 +375,14 @@ def main():
     list_parser.add_argument('DATA_server', action='store', help='Data output server (SMB share)')
     list_parser.add_argument('-s', '--silent', action='store_true', help='Suppresses standard output')
 
+    """Web History mode"""
+
+    list_parser = subparsers.add_parser('web-hist', help='Generates web history for specified user account')
+    list_parser.add_argument('TOOLS_server', action='store', help='Binary tool server (SMB share)')
+    list_parser.add_argument('DATA_server', action='store', help='Data output server (SMB share)')
+    list_parser.add_argument('-u', '--username', action='store', default='all', help='User account to generate history for')
+    list_parser.add_argument('-s', '--silent', action='store_true', help='Suppresses standard output')
+
     parser.add_argument('-v', '--version', action='version', version='%(prog)s ' + __version__)
     args=parser.parse_args()
 
@@ -304,6 +397,9 @@ def main():
 
     elif args.mode == 'triage':
             triage(args.TOOLS_server,args.DATA_server,args.silent)
+
+    elif args.mode == 'web-hist':
+            webhist(args.TOOLS_server,args.DATA_server,args.username,args.silent)
 
 
 if __name__ == '__main__':
