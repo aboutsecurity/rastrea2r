@@ -2,7 +2,7 @@
 
 Collecting & Hunting for Indicators of Compromise (IOC) with gusto and style! by @aboutsecurity
 
-Tested on Python 2.7.9-11 on Windows 7 32-64 bits / Windows 8.1 / Mac OS Yosemite
+Ever wanted to turn your AV console into an Incident Response & Threat Hunting machine? Rastrea2r (pronounced "rastreador" - hunter- in Spanish) is a multi-platform open source tool that allows incident responders and SOC analysts to triage suspect systems and hunt for Indicators of Compromise (IOCs) across thousands of endpoints in minutes. To parse and collect artifacts of interest from remote systems (including memory dumps), rastrea2r can execute sysinternal, system commands and other 3rd party tools across multiples endpoints, saving the output to a centralized share for automated or manual analysis. By using a client/server RESTful API, rastrea2r can also hunt for IOCs on disk and memory across multiple systems using YARA rules. As a command line tool, rastrea2r can be easily integrated within McAfee ePO, as well as other AV consoles and orchestration tools, allowing incident responders and SOC analysts to collect forensics evidence and hunt for IOCs without the need for an additional agent, with 'gusto' and style!
 
 # Demo videos on Youtube
 
@@ -11,6 +11,16 @@ Video 1: Incident Response / Triage with rastrea2r on the command line  - https:
 Video 2: Remote Yara scans with rastrea2r on the command line - https://youtu.be/cnY1yEslirw
 
 Video 3: Using rastrea2r with McAfee ePO - Client Tasks & Execution - https://youtu.be/jB17uLtu45Y
+
+# rastrea2r at BlackHat Arsenal 2016 (check PDF for documentation on usage and examples)
+
+https://www.blackhat.com/us-16/arsenal.html#rastrea2r
+
+https://github.com/aboutsecurity/Talks-and-Presentations/blob/master/Ismael_Valenzuela-Hunting_for_IOCs_rastrea2r-BH_Arsenal_2016.pdf
+
+# Recording of my talk on rastrea2r at the SANS Threat Hunting Summit 2016
+
+https://www.youtube.com/watch?v=0PvBsL6KKfA&feature=youtu.be&a
 
 # Dependencies
 
@@ -79,11 +89,13 @@ is licensed under the [MIT license](http://opensource.org/licenses/mit-license.p
 
 # Credits & References
 
-To Robert Gresham Jr. for his help with the Triage module. Thanks buddy!
+To my colleagues and friends Robert Gresham Jr. (@rwgresham) and Ryan O'Connor (@_remixed) for their contributions to the Triage module. Thanks folks!
 
 To Ricardo Dias for the idea of using a REST server and his great paper on how to use Python and Yara with McAfee ePO: http://www.sans.org/reading-room/whitepapers/forensics/intelligence-driven-incident-response-yara-35542
 
 Presentation on how to use rastrea2r and open source tools for Incident Response, Continuous Monitoring and Hunting (SANS @Night, McLean VA, February 2016): https://github.com/aboutsecurity/Talks-and-Presentations/blob/master/Ismael_Valenzuela-Hunting_for_IOCs_rastrea2r-Feb-2016.pdf
+
+Presentation at BlackHat Arsenal 2016: https://github.com/aboutsecurity/Talks-and-Presentations/blob/master/Ismael_Valenzuela-Hunting_for_IOCs_rastrea2r-BH_Arsenal_2016.pdf
 
 
 
