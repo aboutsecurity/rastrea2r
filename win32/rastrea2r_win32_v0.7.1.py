@@ -15,6 +15,10 @@ import zipfile
 import shutil
 import glob
 
+import _winreg
+import subprocess
+import platform
+
 from time import gmtime, strftime
 from requests import post
 from argparse import ArgumentParser
@@ -247,17 +251,53 @@ def triage(tool_server, output_server, silent):
             if not silent:
                 print '\nSaving output of ' +task+ ' to '+r'\\'+smb_data+r'\\'+createt+'-'+os.environ['COMPUTERNAME']\
                     +'-'+commandname[0]+'.log\n'
-		
+
             f=open(r'\\'+smb_data+r'\\'+createt+'-'+os.environ['COMPUTERNAME']+'-'+commandname[0]+'.log','w')
 
             pst = subprocess.call(r'\\'+smb_bin+r'\\'+task, stdout=f)
 
             g.write("%s - %s \n\n" % (f.name, hashfile(f.name)))
 
+        guid  = ""
+        resul = ""
+        try:
+                arq = platform.architecture()
+                res = arq[0]
+                if (res == "32bit"):
+                    #x32
+                    hKey = _winreg.OpenKey(_winreg.HKEY_LOCAL_MACHINE,r"SOFTWARE\Network Associates\ePolicy Orchestrator\Agent")
+                    if (hKey != 0):
+                        result = _winreg.QueryValueEx(hKey, "AgentGUID")
+                        _winreg.CloseKey(hKey)
+                        guid = result[0]
+                else:
+                    #x64
+                    hKey2 = _winreg.OpenKey(_winreg.HKEY_LOCAL_MACHINE,r"SOFTWARE\Wow6432Node\Network Associates\ePolicy Orchestrator\Agent")
+                    if (hKey2 != 0):
+                        result = _winreg.QueryValueEx(hKey2, "AgentGUID")
+                        _winreg.CloseKey(hKey2)
+                        guid = result[0]
+
+                smb_data = r'\\' + output_server + r'\data' + r'\triage-' + os.environ['COMPUTERNAME'] + r'\\' + createt
+                if not os.path.exists(smb_data):
+                    os.makedirs(smb_data)
+
+                print '\nSaving output to '+smb_data
+
+                filen = createt + "-" + os.environ['COMPUTERNAME'] + "-" + 'agentid.txt'
+                f = sys.stdout
+                sys.stdout =open(os.path.join(smb_data, filen),'w')
+                print result[0]
+                sys.stdout = f
+
+        except:
+                print "Agent not installed"
+                pass
+
 def webhist(tool_server, output_server, histuser, silent):
 
     """ Web History collection module """
-    
+
     createt = strftime('%Y%m%d%H%M%S', gmtime()) # Timestamp in GMT
     smb_bin = tool_server + r'\tools' # TOOLS Read-only share with third-party binary tools
 
@@ -265,7 +305,7 @@ def webhist(tool_server, output_server, histuser, silent):
     si = subprocess.STARTUPINFO()
     si.dwFlags = subprocess.CREATE_NEW_CONSOLE | subprocess.STARTF_USESHOWWINDOW
     si.wShowWindow = subprocess.SW_HIDE
-	
+
     smb_data = output_server + r'\data' + r'\webhistory-' + os.environ['COMPUTERNAME'] + '\\' + createt # DATA Write-only share for output data
     if not os.path.exists(r'\\' + smb_data):
         os.makedirs(r'\\' + smb_data)
@@ -277,7 +317,7 @@ def webhist(tool_server, output_server, histuser, silent):
         user_dirs = next(os.walk('c:\\users\\'))[1]
     else:
         user_dirs = [histuser]
-        
+
     for user_dir in user_dirs:
         #browserhistoryview.exe command line
         bhv_command = '\\\\' + smb_bin + '\\browsinghistoryview\\browsinghistoryview.exe /HistorySource 6'
@@ -338,6 +378,49 @@ def webhist(tool_server, output_server, histuser, silent):
         if os.path.exists(ie10_tmp_cache_dir):
             shutil.rmtree(ie10_tmp_cache_dir)
 
+def prefetch(tool_server, output_server, silent):
+    """ Prefetch collection module """
+    createt = strftime('%Y%m%d%H%M%S', gmtime())
+
+    try:
+        smb_bin = tool_server + r'\tools'
+
+        smb_data = output_server + r'\data' + r'\prefetch-' + os.environ['COMPUTERNAME'] + r'\\' + createt
+
+        if not os.path.exists(r'\\' + smb_data):
+            os.makedirs(r'\\' + smb_data)
+
+        if not silent:
+            print '\nSaving output to '+r'\\'+smb_data
+
+        user_dirs = next(os.walk('c:\\windows\\prefetch\\'))[2]
+        b = True
+        for f in user_dirs:
+            if f.endswith(".pf"):
+                cmd = r'\\' + smb_bin + r'\winprefetchview\winprefetchview.exe'
+                cmd = cmd + r' /prefetchfile '+ r'c:\windows\prefetch\\' + f + r' /scomma '  + r'\\' + smb_data + '\\' + f + r'.csv'
+
+                p = subprocess.Popen(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+                p.communicate()
+
+                if b:
+                    b = False
+                    smb_data2 = r'\\' + output_server + r'\data' + r'\prefetch-' + os.environ['COMPUTERNAME'] + r'\\' + createt + r'\Main'
+                    if not os.path.exists(smb_data2):
+                        os.makedirs(smb_data2)
+
+                    cmd_main = r'\\' + smb_bin + r'\winprefetchview\winprefetchview.exe'
+                    cmd_main = cmd_main + r' /scomma '  + smb_data2 + '\\' + r'Global-Prefetch'+ r'.csv'
+
+
+                    p2 = subprocess.Popen(cmd_main, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+                    p2.communicate()
+
+    except:
+        print "Some PF files cannot be read"
+        pass
+
+
 def main():
 
     parser = ArgumentParser(description='::Rastrea2r RESTful remote Yara/Triage tool for Incident Responders '
@@ -383,6 +466,14 @@ def main():
     list_parser.add_argument('-u', '--username', action='store', default='all', help='User account to generate history for')
     list_parser.add_argument('-s', '--silent', action='store_true', help='Suppresses standard output')
 
+    """Prefetch View mode"""
+
+    list_parser = subparsers.add_parser('prefetch', help='Generates prefetch view')
+    list_parser.add_argument('TOOLS_server', action='store', help='Binary tool server (SMB share)')
+    list_parser.add_argument('DATA_server', action='store', help='Data output server (SMB share)')
+    list_parser.add_argument('-s', '--silent', action='store_true', help='Suppresses standard output')
+
+
     parser.add_argument('-v', '--version', action='version', version='%(prog)s ' + __version__)
     args=parser.parse_args()
 
@@ -400,6 +491,10 @@ def main():
 
     elif args.mode == 'web-hist':
             webhist(args.TOOLS_server,args.DATA_server,args.username,args.silent)
+
+    elif args.mode == 'prefetch':
+            prefetch(args.TOOLS_server,args.DATA_server,args.silent)
+
 
 
 if __name__ == '__main__':
